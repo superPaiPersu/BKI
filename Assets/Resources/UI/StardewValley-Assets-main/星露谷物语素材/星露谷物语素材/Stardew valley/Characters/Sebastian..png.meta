@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 85d125d342a4f5f4f954a4bdaf8d61dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6558775040883140066
+    second: Sebastian._0
+  - first:
+      213: 6852269328227707660
+    second: Sebastian._1
+  - first:
+      213: 2441051799492167597
+    second: Sebastian._2
+  - first:
+      213: 3729558701453241011
+    second: Sebastian._3
+  - first:
+      213: 5669226065089507825
+    second: Sebastian._4
+  - first:
+      213: 7606292987186156267
+    second: Sebastian._5
+  - first:
+      213: -2327134804445383514
+    second: Sebastian._6
+  - first:
+      213: -1551310606116955424
+    second: Sebastian._7
+  - first:
+      213: 6304191943082642145
+    second: Sebastian._8
+  - first:
+      213: -3321965692895790644
+    second: Sebastian._9
+  - first:
+      213: -3828046950728818874
+    second: Sebastian._10
+  - first:
+      213: -5017751572579463612
+    second: Sebastian._11
+  - first:
+      213: -4176931289017278551
+    second: Sebastian._12
+  - first:
+      213: 362571294834271936
+    second: Sebastian._13
+  - first:
+      213: -5397948071820442417
+    second: Sebastian._14
+  - first:
+      213: 1151000513456774014
+    second: Sebastian._15
+  - first:
+      213: 322792866149402585
+    second: Sebastian._16
+  - first:
+      213: 7441070891400872339
+    second: Sebastian._17
+  - first:
+      213: 7281587461681044574
+    second: Sebastian._18
+  - first:
+      213: 7115214438578641923
+    second: Sebastian._19
+  - first:
+      213: -1274613687379429602
+    second: Sebastian._20
+  - first:
+      213: 2129392442305050761
+    second: Sebastian._21
+  - first:
+      213: 1840897521747661629
+    second: Sebastian._22
+  - first:
+      213: 725089724096712099
+    second: Sebastian._23
+  - first:
+      213: 5309503186519828784
+    second: Sebastian._24
+  - first:
+      213: 5973267546284509059
+    second: Sebastian._25
+  - first:
+      213: -5826508880190453423
+    second: Sebastian._26
+  - first:
+      213: -3969248860825581498
+    second: Sebastian._27
+  - first:
+      213: -6398624727273235615
+    second: Sebastian._28
+  - first:
+      213: 6298310288807490326
+    second: Sebastian._29
+  - first:
+      213: -8019734210703825218
+    second: Sebastian._30
+  - first:
+      213: 6021508675206345706
+    second: Sebastian._31
+  - first:
+      213: 3093049085501304156
+    second: Sebastian._32
+  - first:
+      213: -7008102461056463310
+    second: Sebastian._33
+  - first:
+      213: -7467838671282614203
+    second: Sebastian._34
+  - first:
+      213: 2877127427164738424
+    second: Sebastian._35
+  - first:
+      213: -3242612967504641992
+    second: Sebastian._36
+  - first:
+      213: 3285352173097379936
+    second: Sebastian._37
+  - first:
+      213: -644936128191454124
+    second: Sebastian._38
+  - first:
+      213: -121094418459274934
+    second: Sebastian._39
+  - first:
+      213: 4029772486838267354
+    second: Sebastian._40
+  - first:
+      213: 3284615623170055724
+    second: Sebastian._41
+  - first:
+      213: -217584492534022832
+    second: Sebastian._42
+  - first:
+      213: 1591238655505140137
+    second: Sebastian._43
+  - first:
+      213: 636865270346994803
+    second: Sebastian._44
+  - first:
+      213: -6138527579730022169
+    second: Sebastian._45
+  - first:
+      213: -6133063500658608800
+    second: Sebastian._46
+  - first:
+      213: -7948526985980774706
+    second: Sebastian._47
+  - first:
+      213: -3610334690120914557
+    second: Sebastian._48
+  - first:
+      213: -240949491095603474
+    second: Sebastian._49
+  - first:
+      213: 923588001923131208
+    second: Sebastian._50
+  - first:
+      213: -595979881975846157
+    second: Sebastian._51
+  - first:
+      213: -3182548019625743607
+    second: Sebastian._52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sebastian._0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a5676a9dc8af4a0800000000000000
+      internalID: -6558775040883140066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 415
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b215e26a6281f50800000000000000
+      internalID: 6852269328227707660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 415
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da70f0badab50e120800000000000000
+      internalID: 2441051799492167597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 415
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba661101ed02c330800000000000000
+      internalID: 3729558701453241011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1bb01c1132dae40800000000000000
+      internalID: 5669226065089507825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 383
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be296c60c2bfe8960800000000000000
+      internalID: 7606292987186156267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 383
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4b59c993b54bfd0800000000000000
+      internalID: -2327134804445383514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 383
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea5a121933a87ae0800000000000000
+      internalID: -1551310606116955424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea0253db2dfc7750800000000000000
+      internalID: 6304191943082642145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 351
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc979e68dc106e1d0800000000000000
+      internalID: -3321965692895790644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 351
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f9a46849b00eac0800000000000000
+      internalID: -3828046950728818874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 351
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e4e39a78d5d5ab0800000000000000
+      internalID: -5017751572579463612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af19ea7f1f8806c0800000000000000
+      internalID: -4176931289017278551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 319
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6a952fbac180500800000000000000
+      internalID: 362571294834271936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4432704d2a615b0800000000000000
+      internalID: -5397948071820442417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._15
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 319
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b12e46edc29ff00800000000000000
+      internalID: 1151000513456774014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 287
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d78ddac66aca7400800000000000000
+      internalID: 322792866149402585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 287
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391c27e1d8ef34760800000000000000
+      internalID: 7441070891400872339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cdf6687356d0560800000000000000
+      internalID: 7281587461681044574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 287
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cd53875d15eb260800000000000000
+      internalID: 7115214438578641923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17f5e1ca99af4ee0800000000000000
+      internalID: -1274613687379429602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9887efee42f1d8d10800000000000000
+      internalID: 2129392442305050761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 228
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d339aa3ea8e2c8910800000000000000
+      internalID: 1840897521747661629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 255
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad021b2349001a00800000000000000
+      internalID: 725089724096712099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 228
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039a15664052fa940800000000000000
+      internalID: 5309503186519828784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 255
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38748a48f2f45e250800000000000000
+      internalID: 5973267546284509059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 228
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159c69b2b05142fa0800000000000000
+      internalID: -5826508880190453423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 255
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6480e59e0356ae8c0800000000000000
+      internalID: -3969248860825581498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b19df36b48337a0800000000000000
+      internalID: -6398624727273235615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._29
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 196
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613fe8976d7186750800000000000000
+      internalID: 6298310288807490326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 196
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb663f9c93e24b090800000000000000
+      internalID: -8019734210703825218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 196
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae37b9d9c32b09350800000000000000
+      internalID: 6021508675206345706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5de62e61c7bcea20800000000000000
+      internalID: 3093049085501304156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 167
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e403331f73ebe90800000000000000
+      internalID: -7008102461056463310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 166
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54056467b48ec5890800000000000000
+      internalID: -7467838671282614203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._35
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 165
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87310bdb62c9de720800000000000000
+      internalID: 2877127427164738424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8308fc7afaceff2d0800000000000000
+      internalID: -3242612967504641992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 127
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068e687156ae79d20800000000000000
+      internalID: 3285352173097379936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4542558220abc07f0800000000000000
+      internalID: -644936128191454124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 127
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d37b9449c15ef0800000000000000
+      internalID: -121094418459274934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add23a3e9b0ace730800000000000000
+      internalID: 4029772486838267354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._41
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2edfb2b18c459d20800000000000000
+      internalID: 3284615623170055724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._42
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 95
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d30ed8e0cfafcf0800000000000000
+      internalID: -217584492534022832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9014e5027351610800000000000000
+      internalID: 1591238655505140137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374d0d0d69996d800800000000000000
+      internalID: 636865270346994803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0f04680b19fcaa0800000000000000
+      internalID: -6138527579730022169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06574529d3bf2eaa0800000000000000
+      internalID: -6133063500658608800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._47
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 63
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67201c1d821b190800000000000000
+      internalID: -7948526985980774706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a21b4ab385edc0800000000000000
+      internalID: -3610334690120914557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee67f66e6b9f7acf0800000000000000
+      internalID: -240949491095603474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._50
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847e075f46e31dc00800000000000000
+      internalID: 923588001923131208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faec897477aab7f0800000000000000
+      internalID: -595979881975846157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sebastian._52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ba591207155d3d0800000000000000
+      internalID: -3182548019625743607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

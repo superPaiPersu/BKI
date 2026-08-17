@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: c7a2882ed490d854d8f5ed7ceb785de5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6029874971515609163
+    second: highland_valley_tilesheet_padded_0
+  - first:
+      213: 318836995655365328
+    second: highland_valley_tilesheet_padded_1
+  - first:
+      213: -6955488563578230528
+    second: highland_valley_tilesheet_padded_2
+  - first:
+      213: 8760636194680861850
+    second: highland_valley_tilesheet_padded_3
+  - first:
+      213: -8594783661705548621
+    second: highland_valley_tilesheet_padded_4
+  - first:
+      213: 1062072994177183341
+    second: highland_valley_tilesheet_padded_5
+  - first:
+      213: 507980103640555659
+    second: highland_valley_tilesheet_padded_6
+  - first:
+      213: -4765575705153061504
+    second: highland_valley_tilesheet_padded_7
+  - first:
+      213: 4477496148910029960
+    second: highland_valley_tilesheet_padded_8
+  - first:
+      213: -1339155301078682333
+    second: highland_valley_tilesheet_padded_9
+  - first:
+      213: 8288849432449630880
+    second: highland_valley_tilesheet_padded_10
+  - first:
+      213: -165420882146886336
+    second: highland_valley_tilesheet_padded_11
+  - first:
+      213: 3569710536182766651
+    second: highland_valley_tilesheet_padded_12
+  - first:
+      213: -1208301502276993724
+    second: highland_valley_tilesheet_padded_13
+  - first:
+      213: 1366139186388676180
+    second: highland_valley_tilesheet_padded_14
+  - first:
+      213: 5361153300048490118
+    second: highland_valley_tilesheet_padded_15
+  - first:
+      213: -542526065409071024
+    second: highland_valley_tilesheet_padded_16
+  - first:
+      213: -7330267114700627840
+    second: highland_valley_tilesheet_padded_17
+  - first:
+      213: 8034406510912512008
+    second: highland_valley_tilesheet_padded_18
+  - first:
+      213: 4854638717132794748
+    second: highland_valley_tilesheet_padded_19
+  - first:
+      213: -8091312452934997557
+    second: highland_valley_tilesheet_padded_20
+  - first:
+      213: -7615935481068219992
+    second: highland_valley_tilesheet_padded_21
+  - first:
+      213: 3924717612140460139
+    second: highland_valley_tilesheet_padded_22
+  - first:
+      213: -536285081236004758
+    second: highland_valley_tilesheet_padded_23
+  - first:
+      213: -928151699727204972
+    second: highland_valley_tilesheet_padded_24
+  - first:
+      213: -121203316701075646
+    second: highland_valley_tilesheet_padded_25
+  - first:
+      213: -7289435157409561066
+    second: highland_valley_tilesheet_padded_26
+  - first:
+      213: -1024811824919847883
+    second: highland_valley_tilesheet_padded_27
+  - first:
+      213: 2366261186034571602
+    second: highland_valley_tilesheet_padded_28
+  - first:
+      213: 1475170931061320815
+    second: highland_valley_tilesheet_padded_29
+  - first:
+      213: 2940079422441015274
+    second: highland_valley_tilesheet_padded_30
+  - first:
+      213: -8063953292370895015
+    second: highland_valley_tilesheet_padded_31
+  - first:
+      213: -1697256106777673439
+    second: highland_valley_tilesheet_padded_32
+  - first:
+      213: 7773514889311658256
+    second: highland_valley_tilesheet_padded_33
+  - first:
+      213: -4629246828169917704
+    second: highland_valley_tilesheet_padded_34
+  - first:
+      213: -1883096139028144681
+    second: highland_valley_tilesheet_padded_35
+  - first:
+      213: 5219549213788042508
+    second: highland_valley_tilesheet_padded_36
+  - first:
+      213: -9104594941589006503
+    second: highland_valley_tilesheet_padded_37
+  - first:
+      213: 5758666771533992112
+    second: highland_valley_tilesheet_padded_38
+  - first:
+      213: -3635540367015917289
+    second: highland_valley_tilesheet_padded_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf1bca39a4915ca0800000000000000
+      internalID: -6029874971515609163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d27a4bee8cbc6400800000000000000
+      internalID: 318836995655365328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009a0a0d004297f90800000000000000
+      internalID: -6955488563578230528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94f1660438049970800000000000000
+      internalID: 8760636194680861850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bca5bafbc139b880800000000000000
+      internalID: -8594783661705548621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e6777d2cd3dbe00800000000000000
+      internalID: 1062072994177183341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80267e7635bc0700800000000000000
+      internalID: 507980103640555659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dbe1035264dddb0800000000000000
+      internalID: -4765575705153061504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c36fe4603432e30800000000000000
+      internalID: 4477496148910029960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325bf1c495d5a6de0800000000000000
+      internalID: -1339155301078682333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2cbd184a8e70370800000000000000
+      internalID: 8288849432449630880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04df339859e44bdf0800000000000000
+      internalID: -165420882146886336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c942cc1d82a8130800000000000000
+      internalID: 3569710536182766651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d753f7f204b3fe0800000000000000
+      internalID: -1208301502276993724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e20761a5085f210800000000000000
+      internalID: 1366139186388676180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eadc39584a66a40800000000000000
+      internalID: 5361153300048490118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058e6edfa6f8878f0800000000000000
+      internalID: -542526065409071024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080aa8785e8a54a90800000000000000
+      internalID: -7330267114700627840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a6005722ff7f60800000000000000
+      internalID: 8034406510912512008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bee8731342f5340800000000000000
+      internalID: 4854638717132794748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc96d149132e5bf80800000000000000
+      internalID: -8091312452934997557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a192aae703ce4690800000000000000
+      internalID: -7615935481068219992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68f95bcfd5677630800000000000000
+      internalID: 3924717612140460139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60269a5f8bbe88f0800000000000000
+      internalID: -536285081236004758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49db51852fa8e13f0800000000000000
+      internalID: -928151699727204972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247ee62c936615ef0800000000000000
+      internalID: -121203316701075646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6160c5d6859b6da90800000000000000
+      internalID: -7289435157409561066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c580e231327c1f0800000000000000
+      internalID: -1024811824919847883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_28
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259926ff206a6d020800000000000000
+      internalID: 2366261186034571602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c64e0652cd87410800000000000000
+      internalID: 1475170931061320815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7480258a24dc820800000000000000
+      internalID: 2940079422441015274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f14ea8435171090800000000000000
+      internalID: -8063953292370895015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12187a630922278e0800000000000000
+      internalID: -1697256106777673439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a1a12b9211eb60800000000000000
+      internalID: 7773514889311658256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa045d598c91cfb0800000000000000
+      internalID: -4629246828169917704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd5153e906edd5e0800000000000000
+      internalID: -1883096139028144681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0571870b509f6840800000000000000
+      internalID: 5219549213788042508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957d4ca832bf5a180800000000000000
+      internalID: -9104594941589006503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_38
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b011210be4eaef40800000000000000
+      internalID: 5758666771533992112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: highland_valley_tilesheet_padded_39
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7194c615c47fb8dc0800000000000000
+      internalID: -3635540367015917289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

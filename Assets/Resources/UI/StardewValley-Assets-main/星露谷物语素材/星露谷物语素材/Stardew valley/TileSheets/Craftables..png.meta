@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 439f7b6b1bdc87845a069390542246a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6257160602902151605
+    second: Craftables._0
+  - first:
+      213: -1282220257059536297
+    second: Craftables._1
+  - first:
+      213: -7460692458462541394
+    second: Craftables._2
+  - first:
+      213: 6285445169788705364
+    second: Craftables._3
+  - first:
+      213: 1215446006722439984
+    second: Craftables._4
+  - first:
+      213: -3425613268849392638
+    second: Craftables._5
+  - first:
+      213: -3060517794561319762
+    second: Craftables._6
+  - first:
+      213: 3989416995532820989
+    second: Craftables._7
+  - first:
+      213: -2387272654894019424
+    second: Craftables._8
+  - first:
+      213: 2733763998357711639
+    second: Craftables._9
+  - first:
+      213: -6157165607261503600
+    second: Craftables._10
+  - first:
+      213: -4352001799065375479
+    second: Craftables._11
+  - first:
+      213: 14468037529214951
+    second: Craftables._12
+  - first:
+      213: 9003160355163990303
+    second: Craftables._13
+  - first:
+      213: 7343605645822252270
+    second: Craftables._14
+  - first:
+      213: 7488790140708102747
+    second: Craftables._15
+  - first:
+      213: -5479804673152005837
+    second: Craftables._16
+  - first:
+      213: -3218117464723300766
+    second: Craftables._17
+  - first:
+      213: -2324199897467582524
+    second: Craftables._18
+  - first:
+      213: 1446137898355202456
+    second: Craftables._19
+  - first:
+      213: -7884295766317940921
+    second: Craftables._20
+  - first:
+      213: 7289748835232570957
+    second: Craftables._21
+  - first:
+      213: 3141158054910441262
+    second: Craftables._22
+  - first:
+      213: 2366158130019402752
+    second: Craftables._23
+  - first:
+      213: 2539841382369671923
+    second: Craftables._24
+  - first:
+      213: 7097090952237105547
+    second: Craftables._25
+  - first:
+      213: 4495715736062658118
+    second: Craftables._26
+  - first:
+      213: 4250509353874605453
+    second: Craftables._27
+  - first:
+      213: 4639295963318690972
+    second: Craftables._28
+  - first:
+      213: 796882592408719393
+    second: Craftables._29
+  - first:
+      213: -4305634655398558953
+    second: Craftables._30
+  - first:
+      213: -6939386975832506365
+    second: Craftables._31
+  - first:
+      213: 1098510016495558711
+    second: Craftables._32
+  - first:
+      213: -7871373372684965904
+    second: Craftables._33
+  - first:
+      213: -4861968458372989998
+    second: Craftables._34
+  - first:
+      213: -8074078624602420272
+    second: Craftables._35
+  - first:
+      213: -6449804700952547277
+    second: Craftables._36
+  - first:
+      213: -3501196316721538015
+    second: Craftables._37
+  - first:
+      213: 3370195239691794740
+    second: Craftables._38
+  - first:
+      213: 4300657112764039481
+    second: Craftables._39
+  - first:
+      213: 4327353195362429413
+    second: Craftables._40
+  - first:
+      213: -3045391982964681626
+    second: Craftables._41
+  - first:
+      213: -5870115073197759057
+    second: Craftables._42
+  - first:
+      213: -5635756614135438545
+    second: Craftables._43
+  - first:
+      213: -2660545032340393660
+    second: Craftables._44
+  - first:
+      213: -6106657893038086432
+    second: Craftables._45
+  - first:
+      213: 4348251849350198203
+    second: Craftables._46
+  - first:
+      213: 6664749024582377718
+    second: Craftables._47
+  - first:
+      213: -8661406606022294099
+    second: Craftables._48
+  - first:
+      213: -2128263643172490359
+    second: Craftables._49
+  - first:
+      213: -25150479379721065
+    second: Craftables._50
+  - first:
+      213: -6456274057775847185
+    second: Craftables._51
+  - first:
+      213: -5056707508110765343
+    second: Craftables._52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Craftables._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b14d8e9a66e5d650800000000000000
+      internalID: 6257160602902151605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752082e3873a43ee0800000000000000
+      internalID: -1282220257059536297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 704
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea987eaccbb467890800000000000000
+      internalID: -7460692458462541394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 674
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a537884136a3750800000000000000
+      internalID: 6285445169788705364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 671
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bab5214b12ed010800000000000000
+      internalID: 1215446006722439984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 703
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2040e54b1e6c570d0800000000000000
+      internalID: -3425613268849392638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 703
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac196af74bd685d0800000000000000
+      internalID: -3060517794561319762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 703
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d3afde914d5730800000000000000
+      internalID: 3989416995532820989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acc90f2b24beded0800000000000000
+      internalID: -2387272654894019424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._9
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 671
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71becd55fd740f520800000000000000
+      internalID: 2733763998357711639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 639
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ffce3908a5d8aa0800000000000000
+      internalID: -6157165607261503600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 639
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90de8d0fb659a93c0800000000000000
+      internalID: -4352001799065375479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 640
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef968d7a96633000800000000000000
+      internalID: 14468037529214951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 610
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19ed6964a6a1fc70800000000000000
+      internalID: 9003160355163990303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 607
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4d9c14d6ab9e560800000000000000
+      internalID: 7343605645822252270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 639
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52aa56a4f68de760800000000000000
+      internalID: 7488790140708102747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339cf3adea2d3f3b0800000000000000
+      internalID: -5479804673152005837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._17
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 607
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26edfa55733f653d0800000000000000
+      internalID: -3218117464723300766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 610
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c70274e188cebfd0800000000000000
+      internalID: -2324199897467582524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 610
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89911bfa1c6b11410800000000000000
+      internalID: 1446137898355202456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 583
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fb088f5ca559290800000000000000
+      internalID: -7884295766317940921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 585
+        width: 109
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4edad161f36a2560800000000000000
+      internalID: 7289748835232570957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e273b4ebb92a79b20800000000000000
+      internalID: 3141158054910441262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 513
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0048536684846d020800000000000000
+      internalID: 2366158130019402752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 545
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa3bf5d7445f3320800000000000000
+      internalID: 2539841382369671923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 513
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b814bba7e9eed7260800000000000000
+      internalID: 7097090952237105547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 513
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646062384adf36e30800000000000000
+      internalID: 4495715736062658118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._27
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 513
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85cb28bcb7dcfa30800000000000000
+      internalID: 4250509353874605453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 513
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94a38d3917126040800000000000000
+      internalID: 4639295963318690972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._29
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 513
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120d638ee781f0b00800000000000000
+      internalID: 796882592408719393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 447
+        width: 65
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7138b58d7105f34c0800000000000000
+      internalID: -4305634655398558953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._31
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 497
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300088adf4852bf90800000000000000
+      internalID: -6939386975832506365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 479
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7302d633a01be3f00800000000000000
+      internalID: 1098510016495558711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 479
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7e4a23f9343c290800000000000000
+      internalID: -7871373372684965904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 499
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db36896271d68cb0800000000000000
+      internalID: -4861968458372989998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 447
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db8ffbe44c13ff80800000000000000
+      internalID: -8074078624602420272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 500
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33034190cc0bd76a0800000000000000
+      internalID: -6449804700952547277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 479
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c18e40080496fc0800000000000000
+      internalID: -3501196316721538015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 416
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439ba85e6b655ce20800000000000000
+      internalID: 3370195239691794740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931ce03bbd00fab30800000000000000
+      internalID: 4300657112764039481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 415
+        width: 9
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9aa3bcdc8dd0c30800000000000000
+      internalID: 4327353195362429413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._41
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 447
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664519d60289cb5d0800000000000000
+      internalID: -3045391982964681626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 416
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5a16f2179298ea0800000000000000
+      internalID: -5870115073197759057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._43
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2326ed0835c9c1b0800000000000000
+      internalID: -5635756614135438545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441bb66a368d31bd0800000000000000
+      internalID: -2660545032340393660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 417
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e621a0300bc04ba0800000000000000
+      internalID: -6106657893038086432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 417
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3347ad408185c30800000000000000
+      internalID: 4348251849350198203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._47
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 417
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f02d5f2de1fd7c50800000000000000
+      internalID: 6664749024582377718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 128
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5c1d8f4908cc780800000000000000
+      internalID: -8661406606022294099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 128
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98333581e73e672e0800000000000000
+      internalID: -2128263643172490359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 128
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79414a2b5c5a6aff0800000000000000
+      internalID: -25150479379721065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 97
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe863b583f4b666a0800000000000000
+      internalID: -6456274057775847185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Craftables._52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2d10e1057f2d9b0800000000000000
+      internalID: -5056707508110765343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

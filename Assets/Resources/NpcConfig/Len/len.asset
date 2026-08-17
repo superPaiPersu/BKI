@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77763632d5e147d46a432aaba2ea257c, type: 3}
+  m_Name: len
+  m_EditorClassIdentifier: 
+  npcId: len
+  displayName: Len
+  role: livestock worker and practical supplier
+  personalitySummary: "Len is gentle, patient, physically steady, and more comfortable doing useful work than making speeches. He works with animals, feed, dairy, eggs, and small repairs at the livestock workshop. He values reliability, calm hands, fair pay, clean tools, and people who respect animals. He dislikes loud panic around livestock, careless promises, spoiled supplies, and people who treat labor as invisible. He speaks plainly, warms up slowly, and is quick to help when the request is concrete and possible."
+  valueProfile: {fileID: 11400000, guid: 0c29c9144a7e43bcb6cb8c2faa3291ce, type: 2}
+  interactionTemplates:
+  - templateId: discuss_livestock_condition
+    displayName: Discuss livestock condition
+    description: "If someone asks about animals, food supplies, or workshop trouble, Len should answer from what he has directly seen at the livestock workshop."
+    suggestedIntent: TalkToNpc
+    targetActorHint: 
+    priority: 60
+    oneShot: 1
+    interruptible: 1
+    requiredRelationshipTags: []
+  - templateId: deliver_food_supply_news
+    displayName: Deliver food supply news
+    description: "When restaurant supplies matter, Len can find Jack or go to the restaurant to report what is ready, late, or spoiled."
+    suggestedIntent: FindActor
+    targetActorHint: jack
+    priority: 65
+    oneShot: 1
+    interruptible: 1
+    requiredRelationshipTags: []

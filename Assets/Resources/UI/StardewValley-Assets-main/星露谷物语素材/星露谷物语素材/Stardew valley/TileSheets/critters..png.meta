@@ -1,0 +1,3205 @@
+fileFormatVersion: 2
+guid: acdab2e33a170b948ae55fb672ebc049
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4603419045469022500
+    second: critters._0
+  - first:
+      213: 2267367869279979851
+    second: critters._1
+  - first:
+      213: 234398168917271457
+    second: critters._2
+  - first:
+      213: -8775381621227959400
+    second: critters._3
+  - first:
+      213: -7251543930233207343
+    second: critters._4
+  - first:
+      213: -8543362110519754691
+    second: critters._5
+  - first:
+      213: -6607267916158129
+    second: critters._6
+  - first:
+      213: 5155690083780273516
+    second: critters._7
+  - first:
+      213: 6769843117090168238
+    second: critters._8
+  - first:
+      213: -2707578177842095268
+    second: critters._9
+  - first:
+      213: 9202864077761432487
+    second: critters._10
+  - first:
+      213: -2153218618091310527
+    second: critters._11
+  - first:
+      213: -6886687667832535449
+    second: critters._12
+  - first:
+      213: 1714969649229512223
+    second: critters._13
+  - first:
+      213: -3637033301868527661
+    second: critters._14
+  - first:
+      213: -8554101665463767947
+    second: critters._15
+  - first:
+      213: -3777301710232908885
+    second: critters._16
+  - first:
+      213: -5856527700158339724
+    second: critters._17
+  - first:
+      213: -854063531093343044
+    second: critters._18
+  - first:
+      213: -6934731032022749138
+    second: critters._19
+  - first:
+      213: -1923285871935885644
+    second: critters._20
+  - first:
+      213: 2544268102187883814
+    second: critters._21
+  - first:
+      213: -2116329745356925056
+    second: critters._22
+  - first:
+      213: 6202896779072719370
+    second: critters._23
+  - first:
+      213: 5984298942593585254
+    second: critters._24
+  - first:
+      213: -5234916978168565907
+    second: critters._25
+  - first:
+      213: 4880692871473679230
+    second: critters._26
+  - first:
+      213: -8897531562336148843
+    second: critters._27
+  - first:
+      213: 2993488344166897387
+    second: critters._28
+  - first:
+      213: -5327203743217201887
+    second: critters._29
+  - first:
+      213: 7850159255533131306
+    second: critters._30
+  - first:
+      213: 5008116188937840585
+    second: critters._31
+  - first:
+      213: -7141065143255629703
+    second: critters._32
+  - first:
+      213: 7153443282495022623
+    second: critters._33
+  - first:
+      213: -5219984517386090152
+    second: critters._34
+  - first:
+      213: -6496685093768616529
+    second: critters._35
+  - first:
+      213: 5202658223605744042
+    second: critters._36
+  - first:
+      213: -2580858932083360164
+    second: critters._37
+  - first:
+      213: 901782192676260969
+    second: critters._38
+  - first:
+      213: 3178758524770331661
+    second: critters._39
+  - first:
+      213: -3234183941692618729
+    second: critters._40
+  - first:
+      213: 5574555516751110023
+    second: critters._41
+  - first:
+      213: 1238005006638350035
+    second: critters._42
+  - first:
+      213: 478549047523882563
+    second: critters._43
+  - first:
+      213: -4141874111505894530
+    second: critters._44
+  - first:
+      213: -4831122147773179655
+    second: critters._45
+  - first:
+      213: -241436483056430654
+    second: critters._46
+  - first:
+      213: -50243187463905201
+    second: critters._47
+  - first:
+      213: 382540106272409809
+    second: critters._48
+  - first:
+      213: 797550799944941131
+    second: critters._49
+  - first:
+      213: 7892596466355565763
+    second: critters._50
+  - first:
+      213: 9210210391469445249
+    second: critters._51
+  - first:
+      213: 5452421059981321514
+    second: critters._52
+  - first:
+      213: 7717232132667555679
+    second: critters._53
+  - first:
+      213: 4741747226197929046
+    second: critters._54
+  - first:
+      213: -6551303274483059446
+    second: critters._55
+  - first:
+      213: 1933677773734781311
+    second: critters._56
+  - first:
+      213: -4223168753086720734
+    second: critters._57
+  - first:
+      213: -5203375817028134161
+    second: critters._58
+  - first:
+      213: -5994687599460762201
+    second: critters._59
+  - first:
+      213: 1988892719319443156
+    second: critters._60
+  - first:
+      213: -5126143850514773199
+    second: critters._61
+  - first:
+      213: -6432392858341621540
+    second: critters._62
+  - first:
+      213: 818590539383867189
+    second: critters._63
+  - first:
+      213: 2908149093483862721
+    second: critters._64
+  - first:
+      213: -7020531988969516148
+    second: critters._65
+  - first:
+      213: 8578556787599575794
+    second: critters._66
+  - first:
+      213: -5844812507441393798
+    second: critters._67
+  - first:
+      213: -1243230602371043194
+    second: critters._68
+  - first:
+      213: -8325872348129857578
+    second: critters._69
+  - first:
+      213: -7397903916699214311
+    second: critters._70
+  - first:
+      213: -7270282919853167941
+    second: critters._71
+  - first:
+      213: -6595216796224798724
+    second: critters._72
+  - first:
+      213: -5452669513343937116
+    second: critters._73
+  - first:
+      213: 4121412112431363951
+    second: critters._74
+  - first:
+      213: 3981627496318915758
+    second: critters._75
+  - first:
+      213: -1836948789788288720
+    second: critters._76
+  - first:
+      213: -14852178934426635
+    second: critters._77
+  - first:
+      213: -8950786178766922386
+    second: critters._78
+  - first:
+      213: 2811166951166162501
+    second: critters._79
+  - first:
+      213: 1997892209283243167
+    second: critters._80
+  - first:
+      213: 5454650481474445032
+    second: critters._81
+  - first:
+      213: -2097620129836762417
+    second: critters._82
+  - first:
+      213: 1485854627887884168
+    second: critters._83
+  - first:
+      213: -233768915837650286
+    second: critters._84
+  - first:
+      213: -6615847174639384718
+    second: critters._85
+  - first:
+      213: 4479661138991018964
+    second: critters._86
+  - first:
+      213: 7559406058050643679
+    second: critters._87
+  - first:
+      213: -7502174376392430712
+    second: critters._88
+  - first:
+      213: -4697849944511379372
+    second: critters._89
+  - first:
+      213: -1195150840302527016
+    second: critters._90
+  - first:
+      213: -3962883455149972181
+    second: critters._91
+  - first:
+      213: -5920732704513448118
+    second: critters._92
+  - first:
+      213: 9127026938349257731
+    second: critters._93
+  - first:
+      213: 8003186924275132269
+    second: critters._94
+  - first:
+      213: 118295707177353346
+    second: critters._95
+  - first:
+      213: 3494594492293389258
+    second: critters._96
+  - first:
+      213: 6490209406444440469
+    second: critters._97
+  - first:
+      213: -5114985951328999261
+    second: critters._98
+  - first:
+      213: -3411158509368352142
+    second: critters._99
+  - first:
+      213: -2528046857804619888
+    second: critters._100
+  - first:
+      213: -4861641014816479644
+    second: critters._101
+  - first:
+      213: 7154516048337890073
+    second: critters._102
+  - first:
+      213: -9195495199331064846
+    second: critters._103
+  - first:
+      213: 5203787263687000983
+    second: critters._104
+  - first:
+      213: -5606049832145925853
+    second: critters._105
+  - first:
+      213: 5961677624888216727
+    second: critters._106
+  - first:
+      213: 8319768624019227600
+    second: critters._107
+  - first:
+      213: -3410633688496321121
+    second: critters._108
+  - first:
+      213: -7662707001728943976
+    second: critters._109
+  - first:
+      213: 4185440164594188178
+    second: critters._110
+  - first:
+      213: -5573485791243743735
+    second: critters._111
+  - first:
+      213: -3243120655375298620
+    second: critters._112
+  - first:
+      213: -7874070679809411319
+    second: critters._113
+  - first:
+      213: 7687764975238445969
+    second: critters._114
+  - first:
+      213: -259812292728347422
+    second: critters._115
+  - first:
+      213: 1251818261452682825
+    second: critters._116
+  - first:
+      213: -6927876339542095422
+    second: critters._117
+  - first:
+      213: -3974064148676371328
+    second: critters._118
+  - first:
+      213: -3249067594316678857
+    second: critters._119
+  - first:
+      213: 3305775194166496003
+    second: critters._120
+  - first:
+      213: 8058430441119821650
+    second: critters._121
+  - first:
+      213: 2922566497708437642
+    second: critters._122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: critters._0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 288
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd61d82a4ce5d10c0800000000000000
+      internalID: -4603419045469022500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 288
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494197601f477f10800000000000000
+      internalID: 2267367869279979851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 288
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3e05a84efb04300800000000000000
+      internalID: 234398168917271457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 288
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b4732d8e4973680800000000000000
+      internalID: -8775381621227959400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 288
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d54f4d37375d5b90800000000000000
+      internalID: -7251543930233207343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3040f6dc61ef6980800000000000000
+      internalID: -8543362110519754691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 288
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bebee89b688eff0800000000000000
+      internalID: -6607267916158129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 288
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c652abfa0d0bc8740800000000000000
+      internalID: 5155690083780273516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 288
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead5843627053fd50800000000000000
+      internalID: 6769843117090168238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 288
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b5f1c1effbc6ad0800000000000000
+      internalID: -2707578177842095268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 257
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab4c2fae1427bf70800000000000000
+      internalID: 9202864077761432487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142f8e8331b3e12e0800000000000000
+      internalID: -2153218618091310527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 257
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76647c7ad029d60a0800000000000000
+      internalID: -6886687667832535449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 258
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb6e64fcbccc710800000000000000
+      internalID: 1714969649229512223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df3cd55b79a68dc0800000000000000
+      internalID: -3637033301868527661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._15
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 256
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c64795bd9b94980800000000000000
+      internalID: -8554101665463767947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab87188b14549bc0800000000000000
+      internalID: -3777301710232908885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._17
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 256
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475a3def51f69bea0800000000000000
+      internalID: -5856527700158339724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._18
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 256
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4c0955eb1c524f0800000000000000
+      internalID: -854063531093343044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 256
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f76f3ed2e2cf90800000000000000
+      internalID: -6934731032022749138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 227
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beebb180bd1f45e0800000000000000
+      internalID: -1923285871935885644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 227
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d144cdb5e0f4320800000000000000
+      internalID: 2544268102187883814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 228
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08758643f4941a2e0800000000000000
+      internalID: -2116329745356925056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 228
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a4b0791cd151650800000000000000
+      internalID: 6202896779072719370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 223
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660590f9e208c0350800000000000000
+      internalID: 5984298942593585254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 224
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fe99f7eb6d957b0800000000000000
+      internalID: -5234916978168565907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._26
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 224
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b48fdbe44bbb340800000000000000
+      internalID: 4880692871473679230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._27
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 224
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592a0296f2e958480800000000000000
+      internalID: -8897531562336148843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be61751f9c10b8920800000000000000
+      internalID: 2993488344166897387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 223
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d48679b68f116b0800000000000000
+      internalID: -5327203743217201887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._30
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 210
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a261c40404e51fc60800000000000000
+      internalID: 7850159255533131306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 211
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7e583c327608540800000000000000
+      internalID: 5008116188937840585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._32
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 212
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97003525617d5ec90800000000000000
+      internalID: -7141065143255629703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 212
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16250ec3c2264360800000000000000
+      internalID: 7153443282495022623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._34
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 210
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859c924fcb3ee87b0800000000000000
+      internalID: -5219984517386090152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 211
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5a850045327d5a0800000000000000
+      internalID: -6496685093768616529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._36
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 212
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa109c9e61e833840800000000000000
+      internalID: 5202658223605744042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._37
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 212
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ef6c9a972fe2cd0800000000000000
+      internalID: -2580858932083360164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 210
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ccd3b5026c38c00800000000000000
+      internalID: 901782192676260969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._39
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 211
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c2ea759083d1c20800000000000000
+      internalID: 3178758524770331661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 212
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718832927dedd13d0800000000000000
+      internalID: -3234183941692618729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 212
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fd4ac05bccc5d40800000000000000
+      internalID: 5574555516751110023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de75da8ef64e2110800000000000000
+      internalID: 1238005006638350035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 165
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3463341c2d524a600800000000000000
+      internalID: 478549047523882563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._44
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 196
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73fd4fa07b1586c0800000000000000
+      internalID: -4141874111505894530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 194
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f81573c00864fcb0800000000000000
+      internalID: -4831122147773179655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 194
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c11a9f3cce36acf0800000000000000
+      internalID: -241436483056430654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40a4d256108d4ff0800000000000000
+      internalID: -50243187463905201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 196
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d805ba233e0f4500800000000000000
+      internalID: 382540106272409809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 196
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4efb091a38711b00800000000000000
+      internalID: 797550799944941131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c470ac5ba2288d60800000000000000
+      internalID: 7892596466355565763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180d522ad8d31df70800000000000000
+      internalID: 9210210391469445249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 196
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25ab0ed014eaab40800000000000000
+      internalID: 5452421059981321514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 196
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f31ecacbd191b60800000000000000
+      internalID: 7717232132667555679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 194
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca838baf11ec140800000000000000
+      internalID: 4741747226197929046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._55
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 195
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a057594d1681515a0800000000000000
+      internalID: -6551303274483059446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._56
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 196
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71a78da0bdc5da10800000000000000
+      internalID: 1933677773734781311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._57
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 196
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2259cb5f46a4465c0800000000000000
+      internalID: -4223168753086720734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 179
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea1e295345e9c7b0800000000000000
+      internalID: -5203375817028134161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._59
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 180
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adb3b6b3679ecca0800000000000000
+      internalID: -5994687599460762201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._60
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 180
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6656ff367f99b10800000000000000
+      internalID: 1988892719319443156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b8382d3574cd8b0800000000000000
+      internalID: -5126143850514773199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 181
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0c9ce86cc8bb6a0800000000000000
+      internalID: -6432392858341621540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 178
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537887c22c73c5b00800000000000000
+      internalID: 818590539383867189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._64
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 179
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cadaf64132db5820800000000000000
+      internalID: 2908149093483862721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._65
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 179
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8394373a5f029e90800000000000000
+      internalID: -7020531988969516148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._66
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa836a72f72d0770800000000000000
+      internalID: 8578556787599575794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._67
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 164
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f023bddfd03eea0800000000000000
+      internalID: -5844812507441393798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._68
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 164
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68077c3aa582fbee0800000000000000
+      internalID: -1243230602371043194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._69
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfe874363f847c80800000000000000
+      internalID: -8325872348129857578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 165
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e1ca2659d555990800000000000000
+      internalID: -7397903916699214311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._71
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 163
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaef893434ca1b90800000000000000
+      internalID: -7270282919853167941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 164
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffb45c44451974a0800000000000000
+      internalID: -6595216796224798724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 164
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5588397f93454b0800000000000000
+      internalID: -5452669513343937116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67b676ea72323930800000000000000
+      internalID: 4121412112431363951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._75
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 160
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea45402cc15914730800000000000000
+      internalID: 3981627496318915758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._76
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 160
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039d51aeec8d186e0800000000000000
+      internalID: -1836948789788288720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._77
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3197e950c3bcff0800000000000000
+      internalID: -14852178934426635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._78
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 159
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d1f1ac46b68c380800000000000000
+      internalID: -8950786178766922386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._79
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 128
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546b398a275430720800000000000000
+      internalID: 2811166951166162501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 131
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c19d90160f9bb10800000000000000
+      internalID: 1997892209283243167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 132
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee923286bfc2bb40800000000000000
+      internalID: 5454650481474445032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._82
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcafe570b91c3e2e0800000000000000
+      internalID: -2097620129836762417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._83
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 127
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887a02369e0de9410800000000000000
+      internalID: 1485854627887884168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._84
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 127
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29af7fbd86c71ccf0800000000000000
+      internalID: -233768915837650286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._85
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 128
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27709530c0acf24a0800000000000000
+      internalID: -6615847174639384718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._86
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 133
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d37ea75214fa2e30800000000000000
+      internalID: 4479661138991018964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._87
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 130
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd66b0322c768e860800000000000000
+      internalID: 7559406058050643679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 128
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b6714272ce2e790800000000000000
+      internalID: -7502174376392430712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._89
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 96
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4588f41ad52edceb0800000000000000
+      internalID: -4697849944511379372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._90
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd12c694a8f96fe0800000000000000
+      internalID: -1195150840302527016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._91
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 96
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2563896e720109c0800000000000000
+      internalID: -3962883455149972181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._92
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47207189f455dda0800000000000000
+      internalID: -5920732704513448118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3048ab3b4a6b9ae70800000000000000
+      internalID: 9127026938349257731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._94
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 100
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67687cda18011f60800000000000000
+      internalID: 8003186924275132269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._95
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28082c4a15544a100800000000000000
+      internalID: 118295707177353346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._96
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 96
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb1f23fc2b4f7030800000000000000
+      internalID: 3494594492293389258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._97
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 95
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b050d811bd11a50800000000000000
+      internalID: 6490209406444440469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._98
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 95
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ebeba06be309b0800000000000000
+      internalID: -5114985951328999261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 79
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726c88a86129a0d0800000000000000
+      internalID: -3411158509368352142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._100
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5309e6c29aecd0800000000000000
+      internalID: -2528046857804619888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._101
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 83
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466e46e414bf78cb0800000000000000
+      internalID: -4861641014816479644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._102
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be2019072f94360800000000000000
+      internalID: 7154516048337890073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._103
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ef0606d9036080800000000000000
+      internalID: -9195495199331064846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._104
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 69
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79304ca02f0973840800000000000000
+      internalID: 5203787263687000983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329cdc9316f4332b0800000000000000
+      internalID: -5606049832145925853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._106
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c4bd8a6322cb250800000000000000
+      internalID: 5961677624888216727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34b18cb71c57370800000000000000
+      internalID: 8319768624019227600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._108
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d423a0bbefaa0d0800000000000000
+      internalID: -3410633688496321121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._109
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8983c08a49898a590800000000000000
+      internalID: -7662707001728943976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._110
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ff94f77aba51a30800000000000000
+      internalID: 4185440164594188178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eca34d33007a2b0800000000000000
+      internalID: -5573485791243743735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._112
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 63
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf8f9c52fe1ef2d0800000000000000
+      internalID: -3243120655375298620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._113
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 63
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90734a17f6ea9b290800000000000000
+      internalID: -7874070679809411319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._114
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 66
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bf6c1738d60ba60800000000000000
+      internalID: 7687764975238445969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._115
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 64
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4a5a7a816f46cf0800000000000000
+      internalID: -259812292728347422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946fb3d831a5f5110800000000000000
+      internalID: 1251818261452682825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._117
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 47
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c982c5bc2d3bdf90800000000000000
+      internalID: -6927876339542095422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._118
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 47
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c978756b949d8c0800000000000000
+      internalID: -3974064148676371328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._119
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739758dbc3ef8e2d0800000000000000
+      internalID: -3249067594316678857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._120
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 35
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b879b360970ed20800000000000000
+      internalID: 3305775194166496003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._121
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f24227acb45df60800000000000000
+      internalID: 8058430441119821650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: critters._122
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 35
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a807e58ceba0f8820800000000000000
+      internalID: 2922566497708437642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

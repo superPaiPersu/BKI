@@ -1,0 +1,3380 @@
+fileFormatVersion: 2
+guid: c92ca2219a56bfa4894c05439e52f1b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4352218583234758068
+    second: FQMenu._0
+  - first:
+      213: -2736157695169623273
+    second: FQMenu._1
+  - first:
+      213: -6946234201248732330
+    second: FQMenu._2
+  - first:
+      213: 2120641863489146498
+    second: FQMenu._3
+  - first:
+      213: -313121250260635435
+    second: FQMenu._4
+  - first:
+      213: 5855709300864978322
+    second: FQMenu._5
+  - first:
+      213: 3835650727704365740
+    second: FQMenu._6
+  - first:
+      213: -3808595861963748387
+    second: FQMenu._7
+  - first:
+      213: 1969459536774658322
+    second: FQMenu._8
+  - first:
+      213: 3050587054551041957
+    second: FQMenu._9
+  - first:
+      213: -7252031847074953761
+    second: FQMenu._10
+  - first:
+      213: -5274234416866206643
+    second: FQMenu._11
+  - first:
+      213: 3926878671440871576
+    second: FQMenu._12
+  - first:
+      213: -3933388088126605426
+    second: FQMenu._13
+  - first:
+      213: 561362659933880606
+    second: FQMenu._14
+  - first:
+      213: -2026071521982048051
+    second: FQMenu._15
+  - first:
+      213: 2413483416203244829
+    second: FQMenu._16
+  - first:
+      213: -2758727448117984150
+    second: FQMenu._17
+  - first:
+      213: 93786343707629895
+    second: FQMenu._18
+  - first:
+      213: 7925534765646015324
+    second: FQMenu._19
+  - first:
+      213: 8417451269481701632
+    second: FQMenu._20
+  - first:
+      213: -326928483753965899
+    second: FQMenu._21
+  - first:
+      213: 2437137476291282519
+    second: FQMenu._22
+  - first:
+      213: 809235272468538653
+    second: FQMenu._23
+  - first:
+      213: 4423339020462686678
+    second: FQMenu._24
+  - first:
+      213: 6683573706689443057
+    second: FQMenu._25
+  - first:
+      213: 3806938939542288009
+    second: FQMenu._26
+  - first:
+      213: -2757481308499836657
+    second: FQMenu._27
+  - first:
+      213: 3019852322924567486
+    second: FQMenu._28
+  - first:
+      213: 869121133265036717
+    second: FQMenu._29
+  - first:
+      213: 1755896488352159493
+    second: FQMenu._30
+  - first:
+      213: 4960766269517697509
+    second: FQMenu._31
+  - first:
+      213: -1486614722815773026
+    second: FQMenu._32
+  - first:
+      213: 6335388107621635069
+    second: FQMenu._33
+  - first:
+      213: -2949097538151938299
+    second: FQMenu._34
+  - first:
+      213: 2463932122374412132
+    second: FQMenu._35
+  - first:
+      213: -8233741303443471650
+    second: FQMenu._36
+  - first:
+      213: 9110913757330318050
+    second: FQMenu._37
+  - first:
+      213: 4116409948403572317
+    second: FQMenu._38
+  - first:
+      213: 2181871401494579537
+    second: FQMenu._39
+  - first:
+      213: 4712292778982643524
+    second: FQMenu._40
+  - first:
+      213: 3122122479919893711
+    second: FQMenu._41
+  - first:
+      213: -7729761867023266818
+    second: FQMenu._42
+  - first:
+      213: -1643284283825168830
+    second: FQMenu._43
+  - first:
+      213: -7419747611812085738
+    second: FQMenu._44
+  - first:
+      213: -6763485479838909592
+    second: FQMenu._45
+  - first:
+      213: -3521541411105859540
+    second: FQMenu._46
+  - first:
+      213: 415619299487085158
+    second: FQMenu._47
+  - first:
+      213: -8995313104257016252
+    second: FQMenu._48
+  - first:
+      213: 7792514925395729212
+    second: FQMenu._49
+  - first:
+      213: -3860581514654459897
+    second: FQMenu._50
+  - first:
+      213: 4204905717897528887
+    second: FQMenu._51
+  - first:
+      213: -7710125135462369017
+    second: FQMenu._52
+  - first:
+      213: -348444238942241189
+    second: FQMenu._53
+  - first:
+      213: -7746691746003025298
+    second: FQMenu._54
+  - first:
+      213: 3519759290046844992
+    second: FQMenu._55
+  - first:
+      213: 4182195606195492020
+    second: FQMenu._56
+  - first:
+      213: -4101183729493332600
+    second: FQMenu._57
+  - first:
+      213: 9201458017190706627
+    second: FQMenu._58
+  - first:
+      213: -3359308318145236075
+    second: FQMenu._59
+  - first:
+      213: 3227339881970479434
+    second: FQMenu._60
+  - first:
+      213: -8580153936766700290
+    second: FQMenu._61
+  - first:
+      213: -7032656401732321398
+    second: FQMenu._62
+  - first:
+      213: 5199588418747191213
+    second: FQMenu._63
+  - first:
+      213: 2257165425535439380
+    second: FQMenu._64
+  - first:
+      213: 2001727619425809563
+    second: FQMenu._65
+  - first:
+      213: 8831079794639214658
+    second: FQMenu._66
+  - first:
+      213: 3515184875273820765
+    second: FQMenu._67
+  - first:
+      213: -7023675451852803308
+    second: FQMenu._68
+  - first:
+      213: -2800003536155956414
+    second: FQMenu._69
+  - first:
+      213: 5908248844135365674
+    second: FQMenu._70
+  - first:
+      213: -224261363676081273
+    second: FQMenu._71
+  - first:
+      213: 8942067467759751866
+    second: FQMenu._72
+  - first:
+      213: 4429638344415157877
+    second: FQMenu._73
+  - first:
+      213: -7709551060522836890
+    second: FQMenu._74
+  - first:
+      213: 6363415256966226157
+    second: FQMenu._75
+  - first:
+      213: 6281489858487007370
+    second: FQMenu._76
+  - first:
+      213: 3460688613060538485
+    second: FQMenu._77
+  - first:
+      213: -95357496907377362
+    second: FQMenu._78
+  - first:
+      213: -5317893576752433674
+    second: FQMenu._79
+  - first:
+      213: -6905145017004399488
+    second: FQMenu._80
+  - first:
+      213: 5487327406041889423
+    second: FQMenu._81
+  - first:
+      213: -6940871584989488695
+    second: FQMenu._82
+  - first:
+      213: 759457709300641755
+    second: FQMenu._83
+  - first:
+      213: 8291538316359210675
+    second: FQMenu._84
+  - first:
+      213: -7027654460638447720
+    second: FQMenu._85
+  - first:
+      213: 689207462663619844
+    second: FQMenu._86
+  - first:
+      213: -246540195291252811
+    second: FQMenu._87
+  - first:
+      213: 8395226299949133352
+    second: FQMenu._88
+  - first:
+      213: -1106922191021695880
+    second: FQMenu._89
+  - first:
+      213: 6372000454196052613
+    second: FQMenu._90
+  - first:
+      213: -9060854411100971133
+    second: FQMenu._91
+  - first:
+      213: -605611059155228407
+    second: FQMenu._92
+  - first:
+      213: -1973036389694187412
+    second: FQMenu._93
+  - first:
+      213: -5332861921355076863
+    second: FQMenu._94
+  - first:
+      213: 3638558431261573608
+    second: FQMenu._95
+  - first:
+      213: 36961468330297940
+    second: FQMenu._96
+  - first:
+      213: 871166522991894106
+    second: FQMenu._97
+  - first:
+      213: 8869192876765444476
+    second: FQMenu._98
+  - first:
+      213: 8213225008001374470
+    second: FQMenu._99
+  - first:
+      213: -667906984820838505
+    second: FQMenu._100
+  - first:
+      213: -2055169957027980667
+    second: FQMenu._101
+  - first:
+      213: -7186200990259089176
+    second: FQMenu._102
+  - first:
+      213: -7242288667548828106
+    second: FQMenu._103
+  - first:
+      213: -1846322785647655205
+    second: FQMenu._104
+  - first:
+      213: 3197729514208534610
+    second: FQMenu._105
+  - first:
+      213: 1430055669027481226
+    second: FQMenu._106
+  - first:
+      213: 6771470849065228324
+    second: FQMenu._107
+  - first:
+      213: -1209971904411338851
+    second: FQMenu._108
+  - first:
+      213: -3817745002674640823
+    second: FQMenu._109
+  - first:
+      213: -3889036441458213018
+    second: FQMenu._110
+  - first:
+      213: 3838070781794160484
+    second: FQMenu._111
+  - first:
+      213: 3078559877273294182
+    second: FQMenu._112
+  - first:
+      213: -5852370790707879864
+    second: FQMenu._113
+  - first:
+      213: -5656874366277724935
+    second: FQMenu._114
+  - first:
+      213: 7664508733975256028
+    second: FQMenu._115
+  - first:
+      213: -3139631069508146770
+    second: FQMenu._116
+  - first:
+      213: 6628642379320822590
+    second: FQMenu._117
+  - first:
+      213: -2957008962753048775
+    second: FQMenu._118
+  - first:
+      213: 702270155408277459
+    second: FQMenu._119
+  - first:
+      213: -8870502583987362856
+    second: FQMenu._120
+  - first:
+      213: -7693250696029604150
+    second: FQMenu._121
+  - first:
+      213: -6263276866650073499
+    second: FQMenu._122
+  - first:
+      213: -9153512574837436400
+    second: FQMenu._123
+  - first:
+      213: -2525966821240498690
+    second: FQMenu._124
+  - first:
+      213: 1510714289990603575
+    second: FQMenu._125
+  - first:
+      213: 5820569765996889198
+    second: FQMenu._126
+  - first:
+      213: 8443644790999070772
+    second: FQMenu._127
+  - first:
+      213: 6174261711402459300
+    second: FQMenu._128
+  - first:
+      213: -5201770347337556532
+    second: FQMenu._129
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FQMenu._0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 623
+        width: 177
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5cf8e0ebf266c30800000000000000
+      internalID: 4352218583234758068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 973
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b86f1b217370ad0800000000000000
+      internalID: -2736157695169623273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 973
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b66e3fbc40a9f90800000000000000
+      internalID: -6946234201248732330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 973
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec7190a880e6d10800000000000000
+      internalID: 2120641863489146498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 980
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0b692c1e197abf0800000000000000
+      internalID: -313121250260635435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 973
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d02029598a34150800000000000000
+      internalID: 5855709300864978322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 975
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa8943c308fa3530800000000000000
+      internalID: 3835650727704365740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 973
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbc0aa0e36252bc0800000000000000
+      internalID: -3808595861963748387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 973
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21975f8930de45b10800000000000000
+      internalID: 1969459536774658322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 975
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a78bee63ccd55a20800000000000000
+      internalID: 3050587054551041957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._10
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 962
+        width: 153
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5074f357b9b5b90800000000000000
+      internalID: -7252031847074953761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 575
+        width: 719
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cdc80fdb72ec6b0800000000000000
+      internalID: -5274234416866206643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 943
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8908a4f98531f7630800000000000000
+      internalID: 3926878671440871576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 943
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87f573bf5cc969c0800000000000000
+      internalID: -3933388088126605426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 943
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11078f6d5c5ac700800000000000000
+      internalID: 561362659933880606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._15
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 943
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc899b27fa2f1e3e0800000000000000
+      internalID: -2026071521982048051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 945
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15371e316a6e7120800000000000000
+      internalID: 2413483416203244829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 943
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64cec6900807b9d0800000000000000
+      internalID: -2758727448117984150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._18
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 943
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749d975ce223d4100800000000000000
+      internalID: 93786343707629895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 945
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5be659c0e72dfd60800000000000000
+      internalID: 7925534765646015324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 929
+        width: 153
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012e9ff45bc0d470800000000000000
+      internalID: 8417451269481701632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 913
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b643e2b644867bf0800000000000000
+      internalID: -326928483753965899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 913
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75642274f9372d120800000000000000
+      internalID: 2437137476291282519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._23
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 913
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15243b513bfa3b00800000000000000
+      internalID: 809235272468538653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 915
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d18dcb376bd26d30800000000000000
+      internalID: 4423339020462686678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 914
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f47d5900e2d0cc50800000000000000
+      internalID: 6683573706689443057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._26
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 914
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863505abc6f4d430800000000000000
+      internalID: 3806938939542288009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 914
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0186141c557bb9d0800000000000000
+      internalID: -2757481308499836657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._28
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 915
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb9e0610bba8e920800000000000000
+      internalID: 3019852322924567486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 656
+        width: 196
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da52c0fd01dbf0c00800000000000000
+      internalID: 869121133265036717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 883
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50716929d823e5810800000000000000
+      internalID: 1755896488352159493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 883
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1975c83ae28d440800000000000000
+      internalID: 4960766269517697509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 883
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9633b839cb7e5be0800000000000000
+      internalID: -1486614722815773026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._33
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 890
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df39505eae1dbe750800000000000000
+      internalID: 6335388107621635069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 883
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507897ef963b217d0800000000000000
+      internalID: -2949097538151938299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._35
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4671dc8f535a13220800000000000000
+      internalID: 2463932122374412132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._36
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 884
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24ac3a8efdbbd80800000000000000
+      internalID: -8233741303443471650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._37
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 884
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2a4e46ac7707e70800000000000000
+      internalID: 9110913757330318050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._38
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 884
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e9a74d90d602930800000000000000
+      internalID: 4116409948403572317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._39
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 884
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1590ba7ca70974e10800000000000000
+      internalID: 2181871401494579537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 885
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44716e0d05d656140800000000000000
+      internalID: 4712292778982643524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 853
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc03e09ad1045b20800000000000000
+      internalID: 3122122479919893711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 853
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbc7b5398e5ab490800000000000000
+      internalID: -7729761867023266818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 853
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5e9d76a1e139e0800000000000000
+      internalID: -1643284283825168830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._44
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 860
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61043eacbd2c70990800000000000000
+      internalID: -7419747611812085738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._45
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 853
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b70b26ac54322a0800000000000000
+      internalID: -6763485479838909592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._46
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 855
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2815399eb8f02fc0800000000000000
+      internalID: -3521541411105859540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._47
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 854
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66279b30d8394c500800000000000000
+      internalID: 415619299487085158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 854
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e1851146a3a2380800000000000000
+      internalID: -8995313104257016252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._49
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 854
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b5423c903942c60800000000000000
+      internalID: 7792514925395729212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 854
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708d49011957c6ac0800000000000000
+      internalID: -3860581514654459897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._51
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 855
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7368a4dc873da5a30800000000000000
+      internalID: 4204905717897528887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._52
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 823
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70974fe0a02200590800000000000000
+      internalID: -7710125135462369017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._53
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 823
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ef0d19fc31a2bf0800000000000000
+      internalID: -348444238942241189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 823
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e620a0796e83e7490800000000000000
+      internalID: -7746691746003025298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._55
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 823
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0409f120d62b8d030800000000000000
+      internalID: 3519759290046844992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._56
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 825
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b45b70eeb42a0a30800000000000000
+      internalID: 4182195606195492020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._57
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 823
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d20f4802ba517c0800000000000000
+      internalID: -4101183729493332600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 823
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd7252b05522bf70800000000000000
+      internalID: 9201458017190706627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._59
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 825
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59330fd02e65161d0800000000000000
+      internalID: -3359308318145236075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._60
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 793
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a413d420680d9cc20800000000000000
+      internalID: 3227339881970479434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._61
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 793
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4f9d0447b2de880800000000000000
+      internalID: -8580153936766700290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 793
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f3e53634cf66e90800000000000000
+      internalID: -7032656401732321398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._63
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 795
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf49a54e16a82840800000000000000
+      internalID: 5199588418747191213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._64
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 795
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412555cdeff035f10800000000000000
+      internalID: 2257165425535439380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 793
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94b6fc0aa097cb10800000000000000
+      internalID: 2001727619425809563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 793
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248999eb84c4e8a70800000000000000
+      internalID: 8831079794639214658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 795
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9582150278c030800000000000000
+      internalID: 3515184875273820765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._68
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 763
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413beaab364e68e90800000000000000
+      internalID: -7023675451852803308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._69
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 763
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b26917e936429d0800000000000000
+      internalID: -2800003536155956414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 763
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cfc4f35015ef150800000000000000
+      internalID: 5908248844135365674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._71
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 763
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7831e395a7343ecf0800000000000000
+      internalID: -224261363676081273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._72
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 765
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2956d1cfa981c70800000000000000
+      internalID: 8942067467759751866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._73
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 763
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9052ea9c397d30800000000000000
+      internalID: 4429638344415157877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._74
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 767
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cdccb482c220590800000000000000
+      internalID: -7709551060522836890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._75
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 763
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0e5cd16746f4850800000000000000
+      internalID: 6363415256966226157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 765
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88365bdeb55c2750800000000000000
+      internalID: 6281489858487007370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._77
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 733
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57076b345f5d60030800000000000000
+      internalID: 3460688613060538485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._78
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 733
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e255a2e9cd83daef0800000000000000
+      internalID: -95357496907377362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 733
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5f654a7fb0336b0800000000000000
+      internalID: -5317893576752433674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._80
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 733
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084e4ea213ffb20a0800000000000000
+      internalID: -6905145017004399488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._81
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 735
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a7463e337e62c40800000000000000
+      internalID: 5487327406041889423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._82
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 733
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9591951121daf90800000000000000
+      internalID: -6940871584989488695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._83
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 733
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfebc843c22a8a00800000000000000
+      internalID: 759457709300641755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._84
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 735
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b691241b26711370800000000000000
+      internalID: 8291538316359210675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._85
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 703
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897b47d8081c87e90800000000000000
+      internalID: -7027654460638447720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._86
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 703
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050d94298e809900800000000000000
+      internalID: 689207462663619844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._87
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 703
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b73fc4affc149cf0800000000000000
+      internalID: -246540195291252811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._88
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 703
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e2c7907d5d18470800000000000000
+      internalID: 8395226299949133352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._89
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 705
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c972ac12c63a0f0800000000000000
+      internalID: -1106922191021695880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._90
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 703
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582cbfc17a4ed6850800000000000000
+      internalID: 6372000454196052613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._91
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 703
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f9bc86be0614280800000000000000
+      internalID: -9060854411100971133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._92
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 705
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909210b43ff6897f0800000000000000
+      internalID: -605611059155228407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._93
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 673
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68db5f6bdd5e94e0800000000000000
+      internalID: -1973036389694187412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._94
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 673
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b6c65565eddf5b0800000000000000
+      internalID: -5332861921355076863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._95
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 673
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e149d58d91ce7230800000000000000
+      internalID: 3638558431261573608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._96
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 680
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a44367240538000800000000000000
+      internalID: 36961468330297940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._97
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 673
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ed4274651071c00800000000000000
+      internalID: 871166522991894106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._98
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 675
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7977003ee3b51b70800000000000000
+      internalID: 8869192876765444476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._99
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 673
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609d64611ac3bf170800000000000000
+      internalID: 8213225008001374470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._100
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 673
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f60c2d22e1bb6f0800000000000000
+      internalID: -667906984820838505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._101
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 675
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ada4610d19a73e0800000000000000
+      internalID: -2055169957027980667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._102
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 643
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0fb03064c754c90800000000000000
+      internalID: -7186200990259089176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._103
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 643
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e3ae104d83e7b90800000000000000
+      internalID: -7242288667548828106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 643
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd603cc653b8066e0800000000000000
+      internalID: -1846322785647655205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._105
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 643
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250ae260d0e906c20800000000000000
+      internalID: 3197729514208534610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._106
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 645
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86aa61ed0498d310800000000000000
+      internalID: 1430055669027481226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 643
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42812754cd819fd50800000000000000
+      internalID: 6771470849065228324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 643
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97fb51b6f0553fe0800000000000000
+      internalID: -1209971904411338851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._109
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 645
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9482e88b525a40bc0800000000000000
+      internalID: -3817745002674640823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._110
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 387
+        width: 196
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f755426fd570ac0800000000000000
+      internalID: -3889036441458213018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 576
+        width: 177
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f85a38a01934530800000000000000
+      internalID: 3838070781794160484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._112
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 615
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66515a0c5ed39ba20800000000000000
+      internalID: 3078559877273294182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 613
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8402cf5e5c338cea0800000000000000
+      internalID: -5852370790707879864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 613
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4d00b3cbebe71b0800000000000000
+      internalID: -5656874366277724935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._115
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 615
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5972d51ecd5a60800000000000000
+      internalID: 7664508733975256028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._116
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 585
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9ef204d2acd64d0800000000000000
+      internalID: -3139631069508146770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 583
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b848abf1badfb50800000000000000
+      internalID: 6628642379320822590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._118
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 583
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f4579e30896f6d0800000000000000
+      internalID: -2957008962753048775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._119
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 585
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dff77d4cf6feb900800000000000000
+      internalID: 702270155408277459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._120
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 555
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3af36d5e4a5e480800000000000000
+      internalID: -8870502583987362856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._121
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 553
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6f027a0451c3590800000000000000
+      internalID: -7693250696029604150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._122
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 559
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5669661cfde5419a0800000000000000
+      internalID: -6263276866650073499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._123
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 553
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0105eb18fc038f080800000000000000
+      internalID: -9153512574837436400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._124
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 555
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef599892f86f1fcd0800000000000000
+      internalID: -2525966821240498690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._125
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 525
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7331ff384a227f410800000000000000
+      internalID: 1510714289990603575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._126
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 523
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e648f9c0d51d6c050800000000000000
+      internalID: 5820569765996889198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._127
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 523
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438b319733add2570800000000000000
+      internalID: 8443644790999070772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._128
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 525
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0607a50526fa550800000000000000
+      internalID: 6174261711402459300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FQMenu._129
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 191
+        width: 695
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdd8c3ed699fc7b0800000000000000
+      internalID: -5201770347337556532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

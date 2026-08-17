@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1cf84bfc91387b47aa66f0d5f5d7fef, type: 3}
+  m_Name: park
+  m_EditorClassIdentifier: 
+  locationId: public_park
+  displayName: Public Park
+  type: 4
+  areaId: town_center
+  description: "Shared public park. Good for relaxed walks, outdoor conversations, chance meetings, fresh air, short rests, and low-stakes free talk when the player can see the scene."
+  capabilityTags:
+  - outdoor
+  - public
+  - relax
+  - walk
+  - social
+  - free_talk
+  - group_activity
+  - exercise
+  taskTemplates:
+  - templateId: park_walk
+    displayName: Take a park walk
+    description: "Walk slowly, cool down, think, or watch town life in a public outdoor place."
+    primaryAction: RestAtLocation
+    activityKind: park_walk
+    requiresActorTarget: 0
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - walk
+    defaultPriority: 35
+    interruptible: 1
+  - templateId: park_free_talk
+    displayName: Outdoor free talk
+    description: "Have a relaxed public conversation with someone already nearby."
+    primaryAction: TalkToNpc
+    activityKind: free_talk
+    requiresActorTarget: 1
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - free_talk
+    defaultPriority: 45
+    interruptible: 1
+  - templateId: park_group_meetup
+    displayName: Park meetup
+    description: "Use the park as a casual meeting place for a small group."
+    primaryAction: AttendActivity
+    activityKind: meetup
+    requiresActorTarget: 0
+    requiresGroup: 1
+    requiredCapabilityTags:
+    - group_activity
+    defaultPriority: 45
+    interruptible: 1
+  alwaysOpen: 1
+  openHour: 6
+  closeHour: 22

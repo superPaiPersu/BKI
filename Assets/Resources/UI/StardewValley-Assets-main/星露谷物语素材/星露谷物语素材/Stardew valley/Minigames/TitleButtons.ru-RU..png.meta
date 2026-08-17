@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: f96c2e6042a700b4bbd20b83560ca7e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1158573227667841597
+    second: TitleButtons.ru-RU._0
+  - first:
+      213: -346847927241363745
+    second: TitleButtons.ru-RU._1
+  - first:
+      213: -4003037969860524768
+    second: TitleButtons.ru-RU._2
+  - first:
+      213: 1368965423475521522
+    second: TitleButtons.ru-RU._3
+  - first:
+      213: -6886717545465810135
+    second: TitleButtons.ru-RU._4
+  - first:
+      213: 2588488433984512377
+    second: TitleButtons.ru-RU._5
+  - first:
+      213: -5683714662675281809
+    second: TitleButtons.ru-RU._6
+  - first:
+      213: -4702491471468491604
+    second: TitleButtons.ru-RU._7
+  - first:
+      213: -9048011354524543588
+    second: TitleButtons.ru-RU._8
+  - first:
+      213: 56257466436761080
+    second: TitleButtons.ru-RU._9
+  - first:
+      213: 7491973429789573861
+    second: TitleButtons.ru-RU._10
+  - first:
+      213: 6089592271831713903
+    second: TitleButtons.ru-RU._11
+  - first:
+      213: -1092919061318357556
+    second: TitleButtons.ru-RU._12
+  - first:
+      213: 8226669585952815192
+    second: TitleButtons.ru-RU._13
+  - first:
+      213: -5926505087167536987
+    second: TitleButtons.ru-RU._14
+  - first:
+      213: -5969266873126425635
+    second: TitleButtons.ru-RU._15
+  - first:
+      213: -1003281964114339912
+    second: TitleButtons.ru-RU._16
+  - first:
+      213: -5805800316921939992
+    second: TitleButtons.ru-RU._17
+  - first:
+      213: -8606433312916176754
+    second: TitleButtons.ru-RU._18
+  - first:
+      213: 3025045326529344198
+    second: TitleButtons.ru-RU._19
+  - first:
+      213: 3067874653099152100
+    second: TitleButtons.ru-RU._20
+  - first:
+      213: 2809455201927844428
+    second: TitleButtons.ru-RU._21
+  - first:
+      213: 3399876109480027343
+    second: TitleButtons.ru-RU._22
+  - first:
+      213: 2500180748141433969
+    second: TitleButtons.ru-RU._23
+  - first:
+      213: 9163125319937791796
+    second: TitleButtons.ru-RU._24
+  - first:
+      213: -2905919665075868082
+    second: TitleButtons.ru-RU._25
+  - first:
+      213: 1741446277727982235
+    second: TitleButtons.ru-RU._26
+  - first:
+      213: -200403540850501013
+    second: TitleButtons.ru-RU._27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 400
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd949ea9cbebefe0800000000000000
+      internalID: -1158573227667841597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 406
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea2b9d5afbf2bf0800000000000000
+      internalID: -346847927241363745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0250018ec2a5278c0800000000000000
+      internalID: -4003037969860524768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 279
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7fc00bcca8ff210800000000000000
+      internalID: 1368965423475521522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 287
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9237f0a31e67d60a0800000000000000
+      internalID: -6886717545465810135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 285
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971aadc24882ce320800000000000000
+      internalID: 2588488433984512377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f688f8eb0a36f11b0800000000000000
+      internalID: -5683714662675281809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 210
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac01dbebe46dbeb0800000000000000
+      internalID: -4702491471468491604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 211
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c951dd98c910f6280800000000000000
+      internalID: -9048011354524543588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f53dee1eddd7c000800000000000000
+      internalID: 56257466436761080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2c545e326d8f760800000000000000
+      internalID: 7491973429789573861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 190
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f684e7d38e3928450800000000000000
+      internalID: 6089592271831713903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 202
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdaddd77eb25d0f0800000000000000
+      internalID: -1092919061318357556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 204
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8583a33d6600b2270800000000000000
+      internalID: 8226669585952815192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 100
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a065dfe503d0cda0800000000000000
+      internalID: -5926505087167536987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 174
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbeac9c767e82da0800000000000000
+      internalID: -5969266873126425635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b798678e50a312f0800000000000000
+      internalID: -1003281964114339912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 193
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e774094f57ad6fa0800000000000000
+      internalID: -5805800316921939992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 190
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e800b80308ecf8880800000000000000
+      internalID: -8606433312916176754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 174
+        width: 133
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2bc3572be1bf920800000000000000
+      internalID: 3025045326529344198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e256612eb7439a20800000000000000
+      internalID: 3067874653099152100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 174
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42584bfe903df620800000000000000
+      internalID: 2809455201927844428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4e4e9ee49ce2f20800000000000000
+      internalID: 3399876109480027343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1749d37d42d62b220800000000000000
+      internalID: 2500180748141433969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437974f1ee5f92f70800000000000000
+      internalID: 9163125319937791796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ea459f5791ca7d0800000000000000
+      internalID: -2905919665075868082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92176bb92cda2810800000000000000
+      internalID: 1741446277727982235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.ru-RU._27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a10e79a06083df0800000000000000
+      internalID: -200403540850501013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

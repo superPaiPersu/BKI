@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d757767fee931b418d8dc189a3de449, type: 3}
+  m_Name: schedule
+  m_EditorClassIdentifier: 
+  npc: {fileID: 11400000, guid: 94957ecead85d164db112309e29a7085, type: 2}
+  entries:
+  - label: Sleep at home
+    startTime:
+      hour: 0
+      minute: 0
+    endTime:
+      hour: 6
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 7f787d53a4e18e94e9d7d4b949f4eec1, type: 2}
+    actionType: 1
+    customAction: 
+    priority: 0
+    interruptible: 0
+  - label: Open kitchen and bake bread
+    startTime:
+      hour: 5
+      minute: 30
+    endTime:
+      hour: 7
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 99
+    customAction: open_kitchen_and_bake_bread
+    priority: 20
+    interruptible: 1
+  - label: Breakfast service
+    startTime:
+      hour: 7
+      minute: 30
+    endTime:
+      hour: 10
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 2
+    customAction: 
+    priority: 30
+    interruptible: 0
+  - label: Collect fresh ingredients from Len
+    startTime:
+      hour: 10
+      minute: 0
+    endTime:
+      hour: 11
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: f2b60c209b816ab46a45e09a982d203d, type: 2}
+    actionType: 99
+    customAction: collect_milk_eggs_and_supply_news_from_len
+    priority: 20
+    interruptible: 1
+  - label: Lunch rush
+    startTime:
+      hour: 11
+      minute: 30
+    endTime:
+      hour: 14
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 2
+    customAction: 
+    priority: 35
+    interruptible: 0
+  - label: Afternoon park break
+    startTime:
+      hour: 14
+      minute: 30
+    endTime:
+      hour: 15
+      minute: 45
+    targetLocation: {fileID: 11400000, guid: a7c09be07c2367740999a57e97093051, type: 2}
+    actionType: 99
+    customAction: stretch_walk_and_gossip_before_dinner_prep
+    priority: 5
+    interruptible: 1
+  - label: Inventory and dinner prep
+    startTime:
+      hour: 15
+      minute: 45
+    endTime:
+      hour: 18
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 99
+    customAction: check_pantry_and_prepare_dinner
+    priority: 25
+    interruptible: 1
+  - label: Dinner service
+    startTime:
+      hour: 18
+      minute: 0
+    endTime:
+      hour: 21
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 2
+    customAction: 
+    priority: 35
+    interruptible: 0
+  - label: Late table talk
+    startTime:
+      hour: 21
+      minute: 0
+    endTime:
+      hour: 22
+      minute: 15
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 99
+    customAction: close_tabs_and_gossip_with_regulars
+    priority: 10
+    interruptible: 1
+  - label: Return home and sleep
+    startTime:
+      hour: 22
+      minute: 15
+    endTime:
+      hour: 0
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 7f787d53a4e18e94e9d7d4b949f4eec1, type: 2}
+    actionType: 1
+    customAction: 
+    priority: 0
+    interruptible: 0

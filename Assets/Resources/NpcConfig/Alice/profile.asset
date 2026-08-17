@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77763632d5e147d46a432aaba2ea257c, type: 3}
+  m_Name: profile
+  m_EditorClassIdentifier: 
+  npcId: alice
+  displayName: alice
+  role: town resident, social organizer, and informal neighbor mediator
+  personalitySummary: "Alice is observant, warm, socially brave, and a little stubborn once she decides someone needs help. She enjoys tidy homes, steady promises, breakfast conversations, park walks, small favors, and people who admit uncertainty. She cares strongly about friends in trouble and will interrupt leisure for believable urgent news, but she becomes guarded when someone exaggerates danger or wastes her time. She likes clean, calm places, notices clothing and manners quickly, and tends to verify rumors before fully trusting them. She often acts as the bridge between Tom's caution, Jack's sociability, and Len's quiet practicality."
+  valueProfile: {fileID: 11400000, guid: 5280fbf85efd48378b4293de4b914177, type: 2}
+  interactionTemplates:
+  - templateId: verify_neighbor_rumor
+    displayName: Verify neighbor rumor
+    description: "If someone reports danger or illness, Alice should find or speak to the named person once, verify what is actually visible, then decide again from evidence."
+    suggestedIntent: FindActor
+    targetActorHint: 
+    priority: 75
+    oneShot: 1
+    interruptible: 1
+    requiredRelationshipTags: []
+  - templateId: invite_for_meal_or_walk
+    displayName: Invite for meal or walk
+    description: "When a promise or friendly plan fits the time of day, Alice can invite others to the restaurant or public park instead of wandering aimlessly."
+    suggestedIntent: AttendActivity
+    targetActorHint: 
+    priority: 55
+    oneShot: 0
+    interruptible: 1
+    requiredRelationshipTags: []

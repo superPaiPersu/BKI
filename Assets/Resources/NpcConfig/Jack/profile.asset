@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77763632d5e147d46a432aaba2ea257c, type: 3}
+  m_Name: profile
+  m_EditorClassIdentifier: 
+  npcId: jack
+  displayName: jack
+  role: restaurant cook, owner, and town rumor hub
+  personalitySummary: "Jack is a good-natured cook who likes comfort, praise, jokes, fresh ingredients, and knowing what is happening in town. He is not naturally disciplined, but he takes meal service seriously because the restaurant is his pride. He likes lively tables, useful suppliers, generous customers, and people who help without making him look foolish. He dislikes wasted food, dirty kitchens, needless panic during service, and being ordered around. He trusts Len's ingredients, teases Tom for being too serious, and often hears small town news before anyone else, though he may exaggerate if he wants a laugh."
+  valueProfile: {fileID: 11400000, guid: e5b368cc3b524c09a4240f4bb8d0762d, type: 2}
+  interactionTemplates:
+  - templateId: ask_supplier_about_stock
+    displayName: Ask supplier about stock
+    description: "When food supplies or the restaurant menu matter, Jack should ask Len or visit the livestock workshop for ingredients."
+    suggestedIntent: TalkToNpc
+    targetActorHint: len
+    priority: 60
+    oneShot: 1
+    interruptible: 1
+    requiredRelationshipTags: []
+  - templateId: host_table_conversation
+    displayName: Host table conversation
+    description: "During meal periods, Jack can keep conversation moving at the restaurant, but should stop if service is busy or someone is not interested."
+    suggestedIntent: TalkToNpc
+    targetActorHint: 
+    priority: 50
+    oneShot: 0
+    interruptible: 1
+    requiredRelationshipTags: []

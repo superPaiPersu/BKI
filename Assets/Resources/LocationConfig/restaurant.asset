@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1cf84bfc91387b47aa66f0d5f5d7fef, type: 3}
+  m_Name: restaurant
+  m_EditorClassIdentifier: 
+  locationId: restaurant
+  displayName: Restaurant
+  type: 4
+  areaId: town_center
+  description: "Public restaurant run by Jack. Suitable for meals, food service, group social plans, rumors, casual table talk, and picking up town news."
+  capabilityTags:
+  - eat
+  - meal
+  - breakfast
+  - lunch
+  - dinner
+  - social
+  - group_activity
+  - food_service
+  - work_restaurant
+  taskTemplates:
+  - templateId: eat_meal
+    displayName: Eat a meal
+    description: "Eat breakfast, lunch, supper, or a shared meal here."
+    primaryAction: AttendActivity
+    activityKind: shared_meal
+    requiresActorTarget: 0
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - eat
+    defaultPriority: 55
+    interruptible: 1
+  - templateId: restaurant_work
+    displayName: Work restaurant service
+    description: "Cook, serve tables, prepare ingredients, or clean the kitchen."
+    primaryAction: WorkAtLocation
+    activityKind: food_service
+    requiresActorTarget: 0
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - work_restaurant
+    defaultPriority: 65
+    interruptible: 0
+  - templateId: table_conversation
+    displayName: Table conversation
+    description: "Talk with people who are already gathered for food or town gossip."
+    primaryAction: TalkToNpc
+    activityKind: table_talk
+    requiresActorTarget: 1
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - social
+    defaultPriority: 45
+    interruptible: 1
+  alwaysOpen: 1
+  openHour: 6
+  closeHour: 22

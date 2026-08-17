@@ -1,0 +1,6055 @@
+fileFormatVersion: 2
+guid: cf72ca2324ce78045ac86ff5206d85b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8830884133553916264
+    second: SmallFont.de-DE.texture_0
+  - first:
+      213: 5110656743477874706
+    second: SmallFont.de-DE.texture_1
+  - first:
+      213: 2336038886588347709
+    second: SmallFont.de-DE.texture_2
+  - first:
+      213: 6621763845782664211
+    second: SmallFont.de-DE.texture_3
+  - first:
+      213: -7562712703755844436
+    second: SmallFont.de-DE.texture_4
+  - first:
+      213: -8764879454530555534
+    second: SmallFont.de-DE.texture_5
+  - first:
+      213: -1101135676546235938
+    second: SmallFont.de-DE.texture_6
+  - first:
+      213: -6666392799457256017
+    second: SmallFont.de-DE.texture_7
+  - first:
+      213: -4990487198597158504
+    second: SmallFont.de-DE.texture_8
+  - first:
+      213: 5699894910251479723
+    second: SmallFont.de-DE.texture_9
+  - first:
+      213: 8728233223529990839
+    second: SmallFont.de-DE.texture_10
+  - first:
+      213: 5042190009667467961
+    second: SmallFont.de-DE.texture_11
+  - first:
+      213: -6062076921105036387
+    second: SmallFont.de-DE.texture_12
+  - first:
+      213: 5328275792067970324
+    second: SmallFont.de-DE.texture_13
+  - first:
+      213: -1009456008870070822
+    second: SmallFont.de-DE.texture_14
+  - first:
+      213: 5335172725525039689
+    second: SmallFont.de-DE.texture_15
+  - first:
+      213: -9027568612701933005
+    second: SmallFont.de-DE.texture_16
+  - first:
+      213: 194868725954063303
+    second: SmallFont.de-DE.texture_17
+  - first:
+      213: 1354685046873516113
+    second: SmallFont.de-DE.texture_18
+  - first:
+      213: 2570265567579446124
+    second: SmallFont.de-DE.texture_19
+  - first:
+      213: 6714594387930053237
+    second: SmallFont.de-DE.texture_20
+  - first:
+      213: 5445290759904034554
+    second: SmallFont.de-DE.texture_21
+  - first:
+      213: -8614090528221782316
+    second: SmallFont.de-DE.texture_22
+  - first:
+      213: -2002940328087840534
+    second: SmallFont.de-DE.texture_23
+  - first:
+      213: -1547895302856146908
+    second: SmallFont.de-DE.texture_24
+  - first:
+      213: -142090213363532774
+    second: SmallFont.de-DE.texture_25
+  - first:
+      213: 652687022035871842
+    second: SmallFont.de-DE.texture_26
+  - first:
+      213: 8331375207957686986
+    second: SmallFont.de-DE.texture_27
+  - first:
+      213: -3889568905369724799
+    second: SmallFont.de-DE.texture_28
+  - first:
+      213: 5501767951189217743
+    second: SmallFont.de-DE.texture_29
+  - first:
+      213: 1737839630422014065
+    second: SmallFont.de-DE.texture_30
+  - first:
+      213: 8000714331831135390
+    second: SmallFont.de-DE.texture_31
+  - first:
+      213: -1715484196429370620
+    second: SmallFont.de-DE.texture_32
+  - first:
+      213: 4611863725897447821
+    second: SmallFont.de-DE.texture_33
+  - first:
+      213: 5172689249733063445
+    second: SmallFont.de-DE.texture_34
+  - first:
+      213: -24833361259393094
+    second: SmallFont.de-DE.texture_35
+  - first:
+      213: 4202377769800212682
+    second: SmallFont.de-DE.texture_36
+  - first:
+      213: 3266293726889194235
+    second: SmallFont.de-DE.texture_37
+  - first:
+      213: -2463850778225086889
+    second: SmallFont.de-DE.texture_38
+  - first:
+      213: 873319090551965992
+    second: SmallFont.de-DE.texture_39
+  - first:
+      213: 1790532644228655233
+    second: SmallFont.de-DE.texture_40
+  - first:
+      213: 3213383344407431283
+    second: SmallFont.de-DE.texture_41
+  - first:
+      213: -1365270111121407348
+    second: SmallFont.de-DE.texture_42
+  - first:
+      213: -5991991047714218060
+    second: SmallFont.de-DE.texture_43
+  - first:
+      213: 122375936432799411
+    second: SmallFont.de-DE.texture_44
+  - first:
+      213: -7384618221017252644
+    second: SmallFont.de-DE.texture_45
+  - first:
+      213: 7833362643854313230
+    second: SmallFont.de-DE.texture_46
+  - first:
+      213: -6697387126364754809
+    second: SmallFont.de-DE.texture_47
+  - first:
+      213: 1322845507950169158
+    second: SmallFont.de-DE.texture_48
+  - first:
+      213: 8840812669398788677
+    second: SmallFont.de-DE.texture_49
+  - first:
+      213: 4368869860937137409
+    second: SmallFont.de-DE.texture_50
+  - first:
+      213: 8504288129394620004
+    second: SmallFont.de-DE.texture_51
+  - first:
+      213: -2897127054886980871
+    second: SmallFont.de-DE.texture_52
+  - first:
+      213: 7125059882071321881
+    second: SmallFont.de-DE.texture_53
+  - first:
+      213: -2233993400875864791
+    second: SmallFont.de-DE.texture_54
+  - first:
+      213: -3105131021009203300
+    second: SmallFont.de-DE.texture_55
+  - first:
+      213: 5393888412829851468
+    second: SmallFont.de-DE.texture_56
+  - first:
+      213: 7104337131833273654
+    second: SmallFont.de-DE.texture_57
+  - first:
+      213: -1388083406262085191
+    second: SmallFont.de-DE.texture_58
+  - first:
+      213: 3071497887105102421
+    second: SmallFont.de-DE.texture_59
+  - first:
+      213: -7731589488180087948
+    second: SmallFont.de-DE.texture_60
+  - first:
+      213: 7271938328651763941
+    second: SmallFont.de-DE.texture_61
+  - first:
+      213: -795179233894748974
+    second: SmallFont.de-DE.texture_62
+  - first:
+      213: 8254005080326025755
+    second: SmallFont.de-DE.texture_63
+  - first:
+      213: -9193056095166073702
+    second: SmallFont.de-DE.texture_64
+  - first:
+      213: 44839451226806369
+    second: SmallFont.de-DE.texture_65
+  - first:
+      213: -1742586021729012097
+    second: SmallFont.de-DE.texture_66
+  - first:
+      213: 6275105256024755042
+    second: SmallFont.de-DE.texture_67
+  - first:
+      213: -4246998594049675790
+    second: SmallFont.de-DE.texture_68
+  - first:
+      213: -1147622817987379815
+    second: SmallFont.de-DE.texture_69
+  - first:
+      213: -1650027906087589622
+    second: SmallFont.de-DE.texture_70
+  - first:
+      213: -3972668767383772787
+    second: SmallFont.de-DE.texture_71
+  - first:
+      213: -5849134586219499565
+    second: SmallFont.de-DE.texture_72
+  - first:
+      213: 1424028398776767673
+    second: SmallFont.de-DE.texture_73
+  - first:
+      213: -7408156074309164945
+    second: SmallFont.de-DE.texture_74
+  - first:
+      213: 368535407948443437
+    second: SmallFont.de-DE.texture_75
+  - first:
+      213: -6233528268255281914
+    second: SmallFont.de-DE.texture_76
+  - first:
+      213: 4744934844460588811
+    second: SmallFont.de-DE.texture_77
+  - first:
+      213: 7775095624698484274
+    second: SmallFont.de-DE.texture_78
+  - first:
+      213: 4250627618255486323
+    second: SmallFont.de-DE.texture_79
+  - first:
+      213: -8196218728280484969
+    second: SmallFont.de-DE.texture_80
+  - first:
+      213: 8784354546444310476
+    second: SmallFont.de-DE.texture_81
+  - first:
+      213: -2005584903581732401
+    second: SmallFont.de-DE.texture_82
+  - first:
+      213: 3549202470858706135
+    second: SmallFont.de-DE.texture_83
+  - first:
+      213: 2159699519477735989
+    second: SmallFont.de-DE.texture_84
+  - first:
+      213: 9144280756328930888
+    second: SmallFont.de-DE.texture_85
+  - first:
+      213: -4071072233807280096
+    second: SmallFont.de-DE.texture_86
+  - first:
+      213: -3597484964832423733
+    second: SmallFont.de-DE.texture_87
+  - first:
+      213: -955439134892739543
+    second: SmallFont.de-DE.texture_88
+  - first:
+      213: -487002669313909701
+    second: SmallFont.de-DE.texture_89
+  - first:
+      213: 5522435832244247496
+    second: SmallFont.de-DE.texture_90
+  - first:
+      213: -1899967878901194203
+    second: SmallFont.de-DE.texture_91
+  - first:
+      213: 1180219314432286758
+    second: SmallFont.de-DE.texture_92
+  - first:
+      213: 9065432084138487146
+    second: SmallFont.de-DE.texture_93
+  - first:
+      213: 1737875465168093432
+    second: SmallFont.de-DE.texture_94
+  - first:
+      213: -451905711474296849
+    second: SmallFont.de-DE.texture_95
+  - first:
+      213: -6061656853415817794
+    second: SmallFont.de-DE.texture_96
+  - first:
+      213: -3614791865944665909
+    second: SmallFont.de-DE.texture_97
+  - first:
+      213: 6144446335322107971
+    second: SmallFont.de-DE.texture_98
+  - first:
+      213: 1988935278191207121
+    second: SmallFont.de-DE.texture_99
+  - first:
+      213: -2516738982387398517
+    second: SmallFont.de-DE.texture_100
+  - first:
+      213: 3482585391049752390
+    second: SmallFont.de-DE.texture_101
+  - first:
+      213: 4475723051524236647
+    second: SmallFont.de-DE.texture_102
+  - first:
+      213: 3160827841581995107
+    second: SmallFont.de-DE.texture_103
+  - first:
+      213: -3503787875889153946
+    second: SmallFont.de-DE.texture_104
+  - first:
+      213: -6048992156288497912
+    second: SmallFont.de-DE.texture_105
+  - first:
+      213: -5509461130736331559
+    second: SmallFont.de-DE.texture_106
+  - first:
+      213: 5026832560813605942
+    second: SmallFont.de-DE.texture_107
+  - first:
+      213: 3196559952788885140
+    second: SmallFont.de-DE.texture_108
+  - first:
+      213: -6739820374408033958
+    second: SmallFont.de-DE.texture_109
+  - first:
+      213: 7547431179608156300
+    second: SmallFont.de-DE.texture_110
+  - first:
+      213: 7270420041363208275
+    second: SmallFont.de-DE.texture_111
+  - first:
+      213: -4924698262983610407
+    second: SmallFont.de-DE.texture_112
+  - first:
+      213: 7638052514795787120
+    second: SmallFont.de-DE.texture_113
+  - first:
+      213: -6831979974305120872
+    second: SmallFont.de-DE.texture_114
+  - first:
+      213: -4464305199085182767
+    second: SmallFont.de-DE.texture_115
+  - first:
+      213: 6513675722652634079
+    second: SmallFont.de-DE.texture_116
+  - first:
+      213: 278822807340232322
+    second: SmallFont.de-DE.texture_117
+  - first:
+      213: 1000969450249005749
+    second: SmallFont.de-DE.texture_118
+  - first:
+      213: -1272185888760687332
+    second: SmallFont.de-DE.texture_119
+  - first:
+      213: 8847189687280506774
+    second: SmallFont.de-DE.texture_120
+  - first:
+      213: 8425809498788387595
+    second: SmallFont.de-DE.texture_121
+  - first:
+      213: -3675795669769469142
+    second: SmallFont.de-DE.texture_122
+  - first:
+      213: 6505775976777812447
+    second: SmallFont.de-DE.texture_123
+  - first:
+      213: -3855139736723611713
+    second: SmallFont.de-DE.texture_124
+  - first:
+      213: -4370478068912439
+    second: SmallFont.de-DE.texture_125
+  - first:
+      213: -2966975651846815928
+    second: SmallFont.de-DE.texture_126
+  - first:
+      213: -2672699083371366005
+    second: SmallFont.de-DE.texture_127
+  - first:
+      213: -2842448371404535248
+    second: SmallFont.de-DE.texture_128
+  - first:
+      213: -3296024989402323796
+    second: SmallFont.de-DE.texture_129
+  - first:
+      213: -8845988009196023979
+    second: SmallFont.de-DE.texture_130
+  - first:
+      213: 1476257924342873717
+    second: SmallFont.de-DE.texture_131
+  - first:
+      213: 4478894874422522816
+    second: SmallFont.de-DE.texture_132
+  - first:
+      213: -44223033348648650
+    second: SmallFont.de-DE.texture_133
+  - first:
+      213: -6619865333114056871
+    second: SmallFont.de-DE.texture_134
+  - first:
+      213: 7715449834353781411
+    second: SmallFont.de-DE.texture_135
+  - first:
+      213: -274516796027681666
+    second: SmallFont.de-DE.texture_136
+  - first:
+      213: -3456775373883787775
+    second: SmallFont.de-DE.texture_137
+  - first:
+      213: 1818615539463123005
+    second: SmallFont.de-DE.texture_138
+  - first:
+      213: 5940360717527905339
+    second: SmallFont.de-DE.texture_139
+  - first:
+      213: -3230899345127074604
+    second: SmallFont.de-DE.texture_140
+  - first:
+      213: 438018048893271752
+    second: SmallFont.de-DE.texture_141
+  - first:
+      213: 5874731649870100510
+    second: SmallFont.de-DE.texture_142
+  - first:
+      213: -143674804450789798
+    second: SmallFont.de-DE.texture_143
+  - first:
+      213: -8854030003715820426
+    second: SmallFont.de-DE.texture_144
+  - first:
+      213: 34773749422396581
+    second: SmallFont.de-DE.texture_145
+  - first:
+      213: 5184953685600179717
+    second: SmallFont.de-DE.texture_146
+  - first:
+      213: 7450447421803178645
+    second: SmallFont.de-DE.texture_147
+  - first:
+      213: -6264868626698581524
+    second: SmallFont.de-DE.texture_148
+  - first:
+      213: 144481990370262576
+    second: SmallFont.de-DE.texture_149
+  - first:
+      213: 9161427289308266137
+    second: SmallFont.de-DE.texture_150
+  - first:
+      213: -8138656892511570030
+    second: SmallFont.de-DE.texture_151
+  - first:
+      213: 945624266537093158
+    second: SmallFont.de-DE.texture_152
+  - first:
+      213: 8246210622159654705
+    second: SmallFont.de-DE.texture_153
+  - first:
+      213: -4524924549350411176
+    second: SmallFont.de-DE.texture_154
+  - first:
+      213: 4039655833133551073
+    second: SmallFont.de-DE.texture_155
+  - first:
+      213: -7893195248610690647
+    second: SmallFont.de-DE.texture_156
+  - first:
+      213: 5168988400736113997
+    second: SmallFont.de-DE.texture_157
+  - first:
+      213: 3406820170000817513
+    second: SmallFont.de-DE.texture_158
+  - first:
+      213: -1639332330256368225
+    second: SmallFont.de-DE.texture_159
+  - first:
+      213: -4957004759083166751
+    second: SmallFont.de-DE.texture_160
+  - first:
+      213: -9156822520609041871
+    second: SmallFont.de-DE.texture_161
+  - first:
+      213: -7284380218561677611
+    second: SmallFont.de-DE.texture_162
+  - first:
+      213: 71134927327002254
+    second: SmallFont.de-DE.texture_163
+  - first:
+      213: -2684681381572734103
+    second: SmallFont.de-DE.texture_164
+  - first:
+      213: 1623801248080331403
+    second: SmallFont.de-DE.texture_165
+  - first:
+      213: -1204704912355204505
+    second: SmallFont.de-DE.texture_166
+  - first:
+      213: 5469751640892483932
+    second: SmallFont.de-DE.texture_167
+  - first:
+      213: -2076989905861878290
+    second: SmallFont.de-DE.texture_168
+  - first:
+      213: 2283590984367408589
+    second: SmallFont.de-DE.texture_169
+  - first:
+      213: -1817413042888862292
+    second: SmallFont.de-DE.texture_170
+  - first:
+      213: -8254473061936796468
+    second: SmallFont.de-DE.texture_171
+  - first:
+      213: -2257319173337315597
+    second: SmallFont.de-DE.texture_172
+  - first:
+      213: 3575486257241957790
+    second: SmallFont.de-DE.texture_173
+  - first:
+      213: -5846363672944076756
+    second: SmallFont.de-DE.texture_174
+  - first:
+      213: -3063473071748778689
+    second: SmallFont.de-DE.texture_175
+  - first:
+      213: -2899884605149443562
+    second: SmallFont.de-DE.texture_176
+  - first:
+      213: -5874449028978625315
+    second: SmallFont.de-DE.texture_177
+  - first:
+      213: 1569884523662328718
+    second: SmallFont.de-DE.texture_178
+  - first:
+      213: 7544020553233784087
+    second: SmallFont.de-DE.texture_179
+  - first:
+      213: 3896855107229848780
+    second: SmallFont.de-DE.texture_180
+  - first:
+      213: 427429735986494621
+    second: SmallFont.de-DE.texture_181
+  - first:
+      213: 4829025535450487351
+    second: SmallFont.de-DE.texture_182
+  - first:
+      213: -8057067480029237847
+    second: SmallFont.de-DE.texture_183
+  - first:
+      213: 2027334048127111041
+    second: SmallFont.de-DE.texture_184
+  - first:
+      213: -2177574672654301218
+    second: SmallFont.de-DE.texture_185
+  - first:
+      213: 5454446589947943902
+    second: SmallFont.de-DE.texture_186
+  - first:
+      213: -8686327353170646540
+    second: SmallFont.de-DE.texture_187
+  - first:
+      213: -7540600797625930733
+    second: SmallFont.de-DE.texture_188
+  - first:
+      213: 1252167444144405851
+    second: SmallFont.de-DE.texture_189
+  - first:
+      213: 4812506581422958693
+    second: SmallFont.de-DE.texture_190
+  - first:
+      213: 2081495344956913278
+    second: SmallFont.de-DE.texture_191
+  - first:
+      213: 5820620929776918903
+    second: SmallFont.de-DE.texture_192
+  - first:
+      213: 3490438991712647046
+    second: SmallFont.de-DE.texture_193
+  - first:
+      213: -5240305724527123607
+    second: SmallFont.de-DE.texture_194
+  - first:
+      213: -8302862670015979775
+    second: SmallFont.de-DE.texture_195
+  - first:
+      213: -767701812693350487
+    second: SmallFont.de-DE.texture_196
+  - first:
+      213: -2386147670022558517
+    second: SmallFont.de-DE.texture_197
+  - first:
+      213: -453304752366126239
+    second: SmallFont.de-DE.texture_198
+  - first:
+      213: 4407351147772383674
+    second: SmallFont.de-DE.texture_199
+  - first:
+      213: -1701131341701042456
+    second: SmallFont.de-DE.texture_200
+  - first:
+      213: 3733599899200114290
+    second: SmallFont.de-DE.texture_201
+  - first:
+      213: 445490116913175317
+    second: SmallFont.de-DE.texture_202
+  - first:
+      213: -2625708690732446545
+    second: SmallFont.de-DE.texture_203
+  - first:
+      213: 3483592775159945201
+    second: SmallFont.de-DE.texture_204
+  - first:
+      213: -4251290112073288533
+    second: SmallFont.de-DE.texture_205
+  - first:
+      213: -72298819842728379
+    second: SmallFont.de-DE.texture_206
+  - first:
+      213: 3368112094949950054
+    second: SmallFont.de-DE.texture_207
+  - first:
+      213: 2513616322778407811
+    second: SmallFont.de-DE.texture_208
+  - first:
+      213: 1361755040929756691
+    second: SmallFont.de-DE.texture_209
+  - first:
+      213: -1453964008293697038
+    second: SmallFont.de-DE.texture_210
+  - first:
+      213: -8236810086903578757
+    second: SmallFont.de-DE.texture_211
+  - first:
+      213: -962498293256468822
+    second: SmallFont.de-DE.texture_212
+  - first:
+      213: 7252066803887240726
+    second: SmallFont.de-DE.texture_213
+  - first:
+      213: 6397639985515820573
+    second: SmallFont.de-DE.texture_214
+  - first:
+      213: 5282355099873263303
+    second: SmallFont.de-DE.texture_215
+  - first:
+      213: -8167413998484048008
+    second: SmallFont.de-DE.texture_216
+  - first:
+      213: 8101882317216347612
+    second: SmallFont.de-DE.texture_217
+  - first:
+      213: 302410710702856615
+    second: SmallFont.de-DE.texture_218
+  - first:
+      213: 7393599737108511934
+    second: SmallFont.de-DE.texture_219
+  - first:
+      213: -4052515262732302386
+    second: SmallFont.de-DE.texture_220
+  - first:
+      213: -7498167297543276138
+    second: SmallFont.de-DE.texture_221
+  - first:
+      213: -5160767478914336676
+    second: SmallFont.de-DE.texture_222
+  - first:
+      213: -3316648046842690930
+    second: SmallFont.de-DE.texture_223
+  - first:
+      213: -5724900827176390247
+    second: SmallFont.de-DE.texture_224
+  - first:
+      213: 5599041561696321936
+    second: SmallFont.de-DE.texture_225
+  - first:
+      213: -1292251424372273699
+    second: SmallFont.de-DE.texture_226
+  - first:
+      213: 8548504447392632064
+    second: SmallFont.de-DE.texture_227
+  - first:
+      213: 838360803370069965
+    second: SmallFont.de-DE.texture_228
+  - first:
+      213: 3565708917686800303
+    second: SmallFont.de-DE.texture_229
+  - first:
+      213: 1294004827284297650
+    second: SmallFont.de-DE.texture_230
+  - first:
+      213: 71559228833952433
+    second: SmallFont.de-DE.texture_231
+  - first:
+      213: 7429694203458465251
+    second: SmallFont.de-DE.texture_232
+  - first:
+      213: -6059617478516894247
+    second: SmallFont.de-DE.texture_233
+  - first:
+      213: 1642507507528160032
+    second: SmallFont.de-DE.texture_234
+  - first:
+      213: -1334854872569200921
+    second: SmallFont.de-DE.texture_235
+  - first:
+      213: -5466060836969826140
+    second: SmallFont.de-DE.texture_236
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896b2e62ba5627580800000000000000
+      internalID: -8830884133553916264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 173
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21014f31b33bce640800000000000000
+      internalID: 5110656743477874706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35f8909df64b6020800000000000000
+      internalID: 2336038886588347709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 173
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3147666522b35eb50800000000000000
+      internalID: 6621763845782664211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_4
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 173
+        width: 12
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca48c4a6dd8db0790800000000000000
+      internalID: -7562712703755844436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 155
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271369d0394ec5680800000000000000
+      internalID: -8764879454530555534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 175
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1c3fdafeaf7b0f0800000000000000
+      internalID: -1101135676546235938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadd027a1173c73a0800000000000000
+      internalID: -6666392799457256017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8996b77655a3ebab0800000000000000
+      internalID: -4990487198597158504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2b896b8381a1f40800000000000000
+      internalID: 5699894910251479723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba84456fd9e02970800000000000000
+      internalID: 8728233223529990839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_11
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bab040691579f540800000000000000
+      internalID: 5042190009667467961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_12
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bc074982d2fdba0800000000000000
+      internalID: -6062076921105036387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415468b3a96d1f940800000000000000
+      internalID: 5328275792067970324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad57ae6bb11bdf1f0800000000000000
+      internalID: -1009456008870070822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ac540b3575a0a40800000000000000
+      internalID: 5335172725525039689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_16
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 176
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3327f664d22a7b280800000000000000
+      internalID: -9027568612701933005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 178
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb2354e21054b200800000000000000
+      internalID: 194868725954063303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 160
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158ed696fdeccc210800000000000000
+      internalID: 1354685046873516113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b9df57aea6ba320800000000000000
+      internalID: 2570265567579446124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57af66735080f2d50800000000000000
+      internalID: 6714594387930053237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 153
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afefbc2881f819b40800000000000000
+      internalID: 5445290759904034554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 153
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de9842dd4a947880800000000000000
+      internalID: -8614090528221782316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 153
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8150632602434e0800000000000000
+      internalID: -2002940328087840534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42083c35c65c48ae0800000000000000
+      internalID: -1547895302856146908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c386a24b1370ef0800000000000000
+      internalID: -142090213363532774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_26
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268a4f1736fce0900800000000000000
+      internalID: 652687022035871842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca60d03c9dfe9370800000000000000
+      internalID: 8331375207957686986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188580a30b9750ac0800000000000000
+      internalID: -3889568905369724799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_29
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1134f4dc43a5c40800000000000000
+      internalID: 5501767951189217743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17876e7bfeb0e1810800000000000000
+      internalID: 1737839630422014065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_31
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ceb229b4f380f60800000000000000
+      internalID: 8000714331831135390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_32
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40be70e56306138e0800000000000000
+      internalID: -1715484196429370620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8970aebf91a00040800000000000000
+      internalID: 4611863725897447821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 137
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51332df677519c740800000000000000
+      internalID: 5172689249733063445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_35
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0e838036c7aff0800000000000000
+      internalID: -24833361259393094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 138
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0a0f40158d15a30800000000000000
+      internalID: 4202377769800212682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_37
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2315bc6d4345d20800000000000000
+      internalID: 3266293726889194235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ee25075c4aecdd0800000000000000
+      internalID: -2463850778225086889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 138
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829cae7f517ae1c00800000000000000
+      internalID: 873319090551965992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_40
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1886df904ff39d810800000000000000
+      internalID: 1790532644228655233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 156
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378cf82602b389c20800000000000000
+      internalID: 3213383344407431283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_42
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 125
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82862441169d0de0800000000000000
+      internalID: -1365270111121407348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf5ca793eb28dca0800000000000000
+      internalID: -5991991047714218060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_44
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 135
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bef12c0444c2b100800000000000000
+      internalID: 122375936432799411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_45
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 135
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcb3667ad0948990800000000000000
+      internalID: -7384618221017252644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_46
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 135
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0740c752d1b5bc60800000000000000
+      internalID: 7833362643854313230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_47
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 135
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c21c194e91e03a0800000000000000
+      internalID: -6697387126364754809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 137
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c47121bf0bb5210800000000000000
+      internalID: 1322845507950169158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 119
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aa94d3840e0ba70800000000000000
+      internalID: 8840812669398788677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_50
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 137
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d7113cdf751ac30800000000000000
+      internalID: 4368869860937137409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 119
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466332cfefc450670800000000000000
+      internalID: 8504288129394620004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_52
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 137
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2b9401b465bc7d0800000000000000
+      internalID: -2897127054886980871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 119
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d6f3a663c41e260800000000000000
+      internalID: 7125059882071321881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_54
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 120
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d2a3e86d24ff0e0800000000000000
+      internalID: -2233993400875864791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 120
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f43bfb9cb58e4d0800000000000000
+      internalID: -3105131021009203300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 120
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f91d4fee0fada40800000000000000
+      internalID: 5393888412829851468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_57
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 120
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d2a832bfca79260800000000000000
+      internalID: 7104337131833273654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 120
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b952231f798cbce0800000000000000
+      internalID: -1388083406262085191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55233490e0720aa20800000000000000
+      internalID: 3071497887105102421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 117
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b1eff250e3b490800000000000000
+      internalID: -7731589488180087948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 117
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e016dba16d1be460800000000000000
+      internalID: 7271938328651763941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_62
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 117
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcafe623b4f6f4f0800000000000000
+      internalID: -795179233894748974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 117
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b123a1393ed1c8270800000000000000
+      internalID: 8254005080326025755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 101
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94f2673034bb6080800000000000000
+      internalID: -9193056095166073702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 101
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1681c4a4e3d4f9000800000000000000
+      internalID: 44839451226806369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_66
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76f740fe3711d7e0800000000000000
+      internalID: -1742586021729012097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_67
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 118
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bca81cbf6a51750800000000000000
+      internalID: 6275105256024755042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fde510c741af05c0800000000000000
+      internalID: -4246998594049675790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 118
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dbabd9023d210f0800000000000000
+      internalID: -1147622817987379815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_70
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ea249c5ce919e0800000000000000
+      internalID: -1650027906087589622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_71
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d812dcdddce3ed8c0800000000000000
+      internalID: -3972668767383772787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_72
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 118
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df6fe87513b3dea0800000000000000
+      internalID: -5849134586219499565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_73
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 100
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4582ba84a23c310800000000000000
+      internalID: 1424028398776767673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 118
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60662eec41f03990800000000000000
+      internalID: -7408156074309164945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fabed300d4d1500800000000000000
+      internalID: 368535407948443437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_76
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 101
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60db941111f0e79a0800000000000000
+      internalID: -6233528268255281914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 118
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f527ee91569d140800000000000000
+      internalID: 4744934844460588811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 101
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d8d4c640b6eb60800000000000000
+      internalID: 7775095624698484274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 118
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d359a4c434dfa30800000000000000
+      internalID: 4250627618255486323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 96
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7931077fd7e214e80800000000000000
+      internalID: -8196218728280484969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_81
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 85
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc796e12beb48e970800000000000000
+      internalID: 8784354546444310476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_82
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 102
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1ff1ff72bba24e0800000000000000
+      internalID: -2005584903581732401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_83
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 102
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcc87fb7dc414130800000000000000
+      internalID: 3549202470858706135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 102
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5326d08354bc8fd10800000000000000
+      internalID: 2159699519477735989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_85
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 102
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e1d6f36e207ee70800000000000000
+      internalID: 9144280756328930888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_86
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 102
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02806f07f55a087c0800000000000000
+      internalID: -4071072233807280096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_87
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 102
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0da5a1c7a231ec0800000000000000
+      internalID: -3597484964832423733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92436304b299db2f0800000000000000
+      internalID: -955439134892739543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c90ea07a1dd39f0800000000000000
+      internalID: -487002669313909701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_90
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 100
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb9ecb5122a3ac40800000000000000
+      internalID: 5522435832244247496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_91
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5222175d745f1a5e0800000000000000
+      internalID: -1899967878901194203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_92
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 100
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620aac1a63bf06010800000000000000
+      internalID: 1180219314432286758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_93
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6de0862372eecd70800000000000000
+      internalID: 9065432084138487146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_94
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 100
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f00635278c2e1810800000000000000
+      internalID: 1737875465168093432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_95
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ba9356228ab9f0800000000000000
+      internalID: -451905711474296849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_96
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 100
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd86d5353ba0eba0800000000000000
+      internalID: -6061656853415817794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_97
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0956d23fda5ddc0800000000000000
+      internalID: -3614791865944665909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 84
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34033562365754550800000000000000
+      internalID: 6144446335322107971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_99
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d264d1091e1a9b10800000000000000
+      internalID: 1988935278191207121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_100
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88cb62da3fb21dd0800000000000000
+      internalID: -2516738982387398517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_101
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f3c7d26f0a45030800000000000000
+      internalID: 3482585391049752390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_102
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 83
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7652127e666fc1e30800000000000000
+      internalID: 4475723051524236647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 86
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364d8a5dc248ddb20800000000000000
+      internalID: 3160827841581995107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 84
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6687e41ad7b006fc0800000000000000
+      internalID: -3503787875889153946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 84
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807cc4bcea9ad0ca0800000000000000
+      internalID: -6048992156288497912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_106
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d493aeba467a83b0800000000000000
+      internalID: -5509461130736331559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_107
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63489aca495e2c540800000000000000
+      internalID: 5026832560813605942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_108
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e883947567c5c20800000000000000
+      internalID: 3196559952788885140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_109
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59087d14195772a0800000000000000
+      internalID: -6739820374408033958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_110
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 85
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88604b7bacddb860800000000000000
+      internalID: 7547431179608156300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_111
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 86
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358b55dd188b5e460800000000000000
+      internalID: 7270420041363208275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfe0e0a505f7abb0800000000000000
+      internalID: -4924698262983610407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_113
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0739e284b40dff960800000000000000
+      internalID: 7638052514795787120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_114
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89df5f6296eef21a0800000000000000
+      internalID: -6831979974305120872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_115
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02997031a9b02c0800000000000000
+      internalID: -4464305199085182767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_116
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbcbce0f89356a50800000000000000
+      internalID: 6513675722652634079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_117
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28eaac2bdd39ed300800000000000000
+      internalID: 278822807340232322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_118
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba2c11696824ed00800000000000000
+      internalID: 1000969450249005749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_119
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15972caca9485ee0800000000000000
+      internalID: -1272185888760687332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_120
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6979ada652887ca70800000000000000
+      internalID: 8847189687280506774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_121
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 66
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bd468e81d7ee470800000000000000
+      internalID: 8425809498788387595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23c8744053fcfcc0800000000000000
+      internalID: -3675795669769469142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_123
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 67
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd98c1428c8294a50800000000000000
+      internalID: 6505775976777812447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_124
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 70
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf9819b5dacf7ac0800000000000000
+      internalID: -3855139736723611713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_125
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce2437c21970fff0800000000000000
+      internalID: -4370478068912439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_126
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fff664d5f23d6d0800000000000000
+      internalID: -2966975651846815928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_127
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b893320285aa8ead0800000000000000
+      internalID: -2672699083371366005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_128
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8b0224489d88d0800000000000000
+      internalID: -2842448371404535248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_129
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca42dd73cba2242d0800000000000000
+      internalID: -3296024989402323796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_130
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f818016ccbc3580800000000000000
+      internalID: -8845988009196023979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_131
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 68
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eff49b2c8bc7410800000000000000
+      internalID: 1476257924342873717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3b548782b382e30800000000000000
+      internalID: 4478894874422522816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_133
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6311d5ea263e26ff0800000000000000
+      internalID: -44223033348648650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_134
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f40d69d838124a0800000000000000
+      internalID: -6619865333114056871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_135
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aae0030fb8c21b60800000000000000
+      internalID: 7715449834353781411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_136
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7444efad68b03cf0800000000000000
+      internalID: -274516796027681666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_137
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106b65bbc111700d0800000000000000
+      internalID: -3456775373883787775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_138
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3074bc92350d3910800000000000000
+      internalID: 1818615539463123005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_139
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b347fe56996607250800000000000000
+      internalID: 5940360717527905339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_140
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d498a4e92a8923d0800000000000000
+      internalID: -3230899345127074604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_141
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 49
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce3e714817241600800000000000000
+      internalID: 438018048893271752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_142
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1870455f4d378150800000000000000
+      internalID: 5874731649870100510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_143
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 50
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56798dc680910ef0800000000000000
+      internalID: -143674804450789798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_144
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743edd4f9a202580800000000000000
+      internalID: -8854030003715820426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_145
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a494d57a8a8b7000800000000000000
+      internalID: 34773749422396581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_146
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5061d0fe7e7a4f740800000000000000
+      internalID: 5184953685600179717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_147
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 34
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aad4ab47e456760800000000000000
+      internalID: 7450447421803178645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_148
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9442d3d27be09a0800000000000000
+      internalID: -6264868626698581524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_149
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ef570da9d410200800000000000000
+      internalID: 144481990370262576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_150
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ef9ce849de32f70800000000000000
+      internalID: 9161427289308266137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_151
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297301d3daead0f80800000000000000
+      internalID: -8138656892511570030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_152
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628cee1a2488f1d00800000000000000
+      internalID: 945624266537093158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 34
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f01ecdedc607270800000000000000
+      internalID: 8246210622159654705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_154
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8543680b81d3431c0800000000000000
+      internalID: -4524924549350411176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_155
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 34
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed82c4c39dbf0830800000000000000
+      internalID: 4039655833133551073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_156
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 51
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a932c7cdbcb57290800000000000000
+      internalID: -7893195248610690647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_157
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d459df1609febb740800000000000000
+      internalID: 5168988400736113997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_158
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 51
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd88ef4e4774f20800000000000000
+      internalID: 3406820170000817513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_159
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 34
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d71426eebef39e0800000000000000
+      internalID: -1639332330256368225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e35de85f6e253bb0800000000000000
+      internalID: -4957004759083166751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_161
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1321dc3be6e6ce080800000000000000
+      internalID: -9156822520609041871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_162
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6bfb719cea8ea90800000000000000
+      internalID: -7284380218561677611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_163
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ef27ae6d8bcf000800000000000000
+      internalID: 71134927327002254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_164
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 32
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963904ce1881ebad0800000000000000
+      internalID: -2684681381572734103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_165
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b820aa1c1a6e88610800000000000000
+      internalID: 1623801248080331403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_166
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 33
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76266e7d347084fe0800000000000000
+      internalID: -1204704912355204505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_167
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59a10d232678eb40800000000000000
+      internalID: 5469751640892483932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_168
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedd70b5fac0d23e0800000000000000
+      internalID: -2076989905861878290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_169
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 33
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5018bb6e1f0bf10800000000000000
+      internalID: 2283590984367408589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_170
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca59270777047c6e0800000000000000
+      internalID: -1817413042888862292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_171
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce937fb78327d80800000000000000
+      internalID: -8254473061936796468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_172
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f60d80fb246ca0e0800000000000000
+      internalID: -2257319173337315597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_173
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 33
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95a236aecdae9130800000000000000
+      internalID: 3575486257241957790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_174
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c289b6ef63b8ddea0800000000000000
+      internalID: -5846363672944076756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_175
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 33
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f357073e87b5c75d0800000000000000
+      internalID: -3063473071748778689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_176
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a817cd05a81c7d0800000000000000
+      internalID: -2899884605149443562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_177
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd437987bb3c97ea0800000000000000
+      internalID: -5874449028978625315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_178
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 34
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e83c64b18a959c510800000000000000
+      internalID: 1569884523662328718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_179
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ddeb529beb1b860800000000000000
+      internalID: 7544020553233784087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_180
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41a97d219641630800000000000000
+      internalID: 3896855107229848780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_181
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cf9eb84198ee500800000000000000
+      internalID: 427429735986494621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_182
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a11d3a325240340800000000000000
+      internalID: 4829025535450487351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_183
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 19
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad6189a0db8f2090800000000000000
+      internalID: -8057067480029237847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_184
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fcba35399822c10800000000000000
+      internalID: 2027334048127111041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_185
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 19
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed78d8c5f53b7c1e0800000000000000
+      internalID: -2177574672654301218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_186
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb1030564612bb40800000000000000
+      internalID: 5454446589947943902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_187
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 19
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9218f5b47f37780800000000000000
+      internalID: -8686327353170646540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_188
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31caa70c6876a5790800000000000000
+      internalID: -7540600797625930733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_189
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 19
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d398bf7a7906110800000000000000
+      internalID: 1252167444144405851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_190
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568e1f0fc3579c240800000000000000
+      internalID: 4812506581422958693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_191
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7639cdecf4f2ec10800000000000000
+      internalID: 2081495344956913278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_192
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771ae8b85eff6c050800000000000000
+      internalID: 5820620929776918903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_193
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687743315c7807030800000000000000
+      internalID: 3490438991712647046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_194
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9636d1735b1b647b0800000000000000
+      internalID: -5240305724527123607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_195
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f98de546e46cc80800000000000000
+      internalID: -8302862670015979775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_196
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a74df0d4439855f0800000000000000
+      internalID: -767701812693350487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_197
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcceda22653b2eed0800000000000000
+      internalID: -2386147670022558517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_198
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b783cbab985b9f0800000000000000
+      internalID: -453304752366126239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_199
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1126b848e0a2d30800000000000000
+      internalID: 4407351147772383674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_200
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 20
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee20a5ce0e5468e0800000000000000
+      internalID: -1701131341701042456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_201
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 8
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec14da35960d330800000000000000
+      internalID: 3733599899200114290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b9e89a6e2be2600800000000000000
+      internalID: 445490116913175317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_203
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac8c3d7bdb9f8bd0800000000000000
+      internalID: -2625708690732446545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_204
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f796811c25385030800000000000000
+      internalID: 3483592775159945201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_205
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 7
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4bdb8da226005c0800000000000000
+      internalID: -4251290112073288533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_206
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e189d3b942ffef0800000000000000
+      internalID: -72298819842728379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_207
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 8
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6624037fa10fdbe20800000000000000
+      internalID: 3368112094949950054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_208
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383a4d45ab822e220800000000000000
+      internalID: 2513616322778407811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_209
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 10
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31637bdaefce5e210800000000000000
+      internalID: 1361755040929756691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_210
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f97379107b72dbe0800000000000000
+      internalID: -1453964008293697038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_211
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ff1cfcdd8f0bd80800000000000000
+      internalID: -8236810086903578757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_212
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6478dd6e484a2f0800000000000000
+      internalID: -962498293256468822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_213
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f915c55484a460800000000000000
+      internalID: 7252066803887240726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_214
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d167181bbabf8c850800000000000000
+      internalID: 6397639985515820573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_215
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce3b69e9f1be4940800000000000000
+      internalID: 5282355099873263303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_216
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773ecebd3487ae80800000000000000
+      internalID: -8167413998484048008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_217
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 10
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5f2b9ba0baf6070800000000000000
+      internalID: 8101882317216347612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_218
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 5
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a997bb60f0623400800000000000000
+      internalID: 302410710702856615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_219
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 11
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc36c5b9c75b9660800000000000000
+      internalID: 7393599737108511934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_220
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec70ef5f6d292c7c0800000000000000
+      internalID: -4052515262732302386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_221
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6997b73e19821f790800000000000000
+      internalID: -7498167297543276138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_222
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c583ce222554168b0800000000000000
+      internalID: -5160767478914336676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_223
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 3
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82c2fa7c26e8f1d0800000000000000
+      internalID: -3316648046842690930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_224
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991bfcd87011d80b0800000000000000
+      internalID: -5724900827176390247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_225
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091ce87a2aac3bd40800000000000000
+      internalID: 5599041561696321936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_226
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd4cc91d20011ee0800000000000000
+      internalID: -1292251424372273699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_227
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d4fa3c08362a670800000000000000
+      internalID: 8548504447392632064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_228
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfeb7675b472ab00800000000000000
+      internalID: 838360803370069965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_229
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf0a236e51fb7130800000000000000
+      internalID: 3565708917686800303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_230
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7dbe3d88a35f110800000000000000
+      internalID: 1294004827284297650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_231
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27c0f4dba3ef000800000000000000
+      internalID: 71559228833952433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_232
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edabea83839b1760800000000000000
+      internalID: 7429694203458465251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_233
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5904e220ae7eba0800000000000000
+      internalID: -6059617478516894247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_234
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023d02f20eb5bc610800000000000000
+      internalID: 1642507507528160032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_235
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee30d5d094a97de0800000000000000
+      internalID: -1334854872569200921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallFont.de-DE.texture_236
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a83db311a6a424b0800000000000000
+      internalID: -5466060836969826140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

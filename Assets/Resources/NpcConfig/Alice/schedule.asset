@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d757767fee931b418d8dc189a3de449, type: 3}
+  m_Name: schedule
+  m_EditorClassIdentifier: 
+  npc: {fileID: 11400000, guid: f78186ebbe0f0864ea45e254d0031144, type: 2}
+  entries:
+  - label: Sleep at home
+    startTime:
+      hour: 0
+      minute: 0
+    endTime:
+      hour: 6
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: f4a31fc18e825654ba2831fc1f0d9ed2, type: 2}
+    actionType: 1
+    customAction: 
+    priority: 0
+    interruptible: 0
+  - label: Morning tea and tidy-up
+    startTime:
+      hour: 6
+      minute: 0
+    endTime:
+      hour: 7
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: f4a31fc18e825654ba2831fc1f0d9ed2, type: 2}
+    actionType: 99
+    customAction: tidy_home_and_plan_day
+    priority: 5
+    interruptible: 1
+  - label: Breakfast and town news
+    startTime:
+      hour: 7
+      minute: 30
+    endTime:
+      hour: 9
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 99
+    customAction: breakfast_and_listen_for_news
+    priority: 5
+    interruptible: 1
+  - label: Neighbor check-in walk
+    startTime:
+      hour: 9
+      minute: 0
+    endTime:
+      hour: 10
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 9ebb9a6ba66ad9940931d428b75d62bb, type: 2}
+    actionType: 99
+    customAction: casual_neighbor_check_in
+    priority: 5
+    interruptible: 1
+  - label: Clinic errand and notices
+    startTime:
+      hour: 10
+      minute: 30
+    endTime:
+      hour: 12
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: b9cd1a5babd201c4f9339271fc8a4282, type: 2}
+    actionType: 99
+    customAction: deliver_small_errands_and_check_clinic
+    priority: 5
+    interruptible: 1
+  - label: Lunch and gossip
+    startTime:
+      hour: 12
+      minute: 0
+    endTime:
+      hour: 13
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 3
+    customAction: 
+    priority: 0
+    interruptible: 1
+  - label: Quiet reading and park walk
+    startTime:
+      hour: 13
+      minute: 30
+    endTime:
+      hour: 15
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: a7c09be07c2367740999a57e97093051, type: 2}
+    actionType: 99
+    customAction: read_walk_and_notice_who_is_outside
+    priority: 5
+    interruptible: 1
+  - label: Afternoon social calls at the park
+    startTime:
+      hour: 15
+      minute: 0
+    endTime:
+      hour: 16
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: a7c09be07c2367740999a57e97093051, type: 2}
+    actionType: 99
+    customAction: casual_park_walk_and_social_calls
+    priority: 5
+    interruptible: 1
+  - label: Check livestock notices
+    startTime:
+      hour: 16
+      minute: 30
+    endTime:
+      hour: 17
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: f2b60c209b816ab46a45e09a982d203d, type: 2}
+    actionType: 99
+    customAction: check_livestock_workshop_for_town_supply_news
+    priority: 5
+    interruptible: 1
+  - label: Supper social hour
+    startTime:
+      hour: 17
+      minute: 30
+    endTime:
+      hour: 19
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 99
+    customAction: eat_supper_and_catch_up
+    priority: 5
+    interruptible: 1
+  - label: Home chores and wind-down
+    startTime:
+      hour: 19
+      minute: 0
+    endTime:
+      hour: 22
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: f4a31fc18e825654ba2831fc1f0d9ed2, type: 2}
+    actionType: 99
+    customAction: clean_home_and_wind_down
+    priority: 5
+    interruptible: 1
+  - label: Sleep at home late
+    startTime:
+      hour: 22
+      minute: 0
+    endTime:
+      hour: 0
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: f4a31fc18e825654ba2831fc1f0d9ed2, type: 2}
+    actionType: 1
+    customAction: 
+    priority: 0
+    interruptible: 0

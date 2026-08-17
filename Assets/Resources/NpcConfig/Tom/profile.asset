@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77763632d5e147d46a432aaba2ea257c, type: 3}
+  m_Name: profile
+  m_EditorClassIdentifier: 
+  npcId: tom
+  displayName: tom
+  role: town doctor and cautious public-health observer
+  personalitySummary: "Tom is diligent, careful, quietly compassionate, and slow to claim certainty without evidence. He likes clean rooms, punctual appointments, honest symptoms, practical help, animal-health notes from Len, and people who stay calm in emergencies. He dislikes reckless rumors, dirty tools, avoidable noise near patients, and dramatic claims without evidence. He is willing to be interrupted for health concerns, vulnerable people, livestock illness, or real danger, but he resists gossip and prefers to inspect facts before speaking with confidence. When off duty he enjoys simple meals, medical notes, brief peaceful conversations, and short park walks to clear his head."
+  valueProfile: {fileID: 11400000, guid: 426977d2392a40f6846ea79b2e6dc71b, type: 2}
+  interactionTemplates:
+  - templateId: verify_health_report
+    displayName: Verify health report
+    description: "For health-related claims, Tom should find the named person or patient, observe their condition, speak only from evidence, then request the next decision."
+    suggestedIntent: FindActor
+    targetActorHint: 
+    priority: 90
+    oneShot: 1
+    interruptible: 1
+    requiredRelationshipTags: []
+  - templateId: animal_health_followup
+    displayName: Animal health follow-up
+    description: "If livestock health or workshop hygiene is relevant, Tom can visit the livestock workshop or ask Len for direct details."
+    suggestedIntent: TalkToNpc
+    targetActorHint: len
+    priority: 60
+    oneShot: 1
+    interruptible: 1
+    requiredRelationshipTags: []

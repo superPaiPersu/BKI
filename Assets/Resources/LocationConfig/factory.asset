@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1cf84bfc91387b47aa66f0d5f5d7fef, type: 3}
+  m_Name: factory
+  m_EditorClassIdentifier: 
+  locationId: livestock_factory
+  displayName: Livestock Workshop
+  type: 5
+  areaId: town_workyard
+  description: "Livestock workshop where Len handles animal care, feed, dairy, eggs, small repairs, and food-supply pickups for the restaurant. It is noisy, practical, and work-focused."
+  capabilityTags:
+  - livestock
+  - animal_care
+  - dairy
+  - eggs
+  - feed
+  - food_supply
+  - work_livestock
+  - production
+  - noisy
+  taskTemplates:
+  - templateId: livestock_work
+    displayName: Livestock work
+    description: "Feed animals, clean pens, check health, collect milk or eggs, and keep the workshop running."
+    primaryAction: WorkAtLocation
+    activityKind: livestock_work
+    requiresActorTarget: 0
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - work_livestock
+    defaultPriority: 70
+    interruptible: 0
+  - templateId: collect_food_supplies
+    displayName: Collect food supplies
+    description: "Pick up milk, eggs, or other supplies for cooking and restaurant service."
+    primaryAction: WorkAtLocation
+    activityKind: food_supply_pickup
+    requiresActorTarget: 0
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - food_supply
+    defaultPriority: 60
+    interruptible: 1
+  - templateId: animal_health_check
+    displayName: Animal health check
+    description: "Check animals or ask Len about livestock health and workshop conditions."
+    primaryAction: TalkToNpc
+    activityKind: animal_health_check
+    requiresActorTarget: 1
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - animal_care
+    defaultPriority: 55
+    interruptible: 1
+  alwaysOpen: 1
+  openHour: 6
+  closeHour: 22

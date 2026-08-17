@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d757767fee931b418d8dc189a3de449, type: 3}
+  m_Name: schedule
+  m_EditorClassIdentifier: 
+  npc: {fileID: 11400000, guid: 9688bfb5f3317904ebc08c1088ea9fc8, type: 2}
+  entries:
+  - label: Sleep at home
+    startTime:
+      hour: 0
+      minute: 0
+    endTime:
+      hour: 5
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 67ea83d89aad878468b8de2ee22407a8, type: 2}
+    actionType: 1
+    customAction: 
+    priority: 0
+    interruptible: 0
+  - label: Early animal check
+    startTime:
+      hour: 5
+      minute: 30
+    endTime:
+      hour: 7
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: f2b60c209b816ab46a45e09a982d203d, type: 2}
+    actionType: 2
+    customAction: 
+    priority: 35
+    interruptible: 0
+  - label: Breakfast supply handoff
+    startTime:
+      hour: 7
+      minute: 30
+    endTime:
+      hour: 8
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 99
+    customAction: deliver_milk_and_eggs_to_restaurant
+    priority: 25
+    interruptible: 1
+  - label: Morning livestock work
+    startTime:
+      hour: 8
+      minute: 30
+    endTime:
+      hour: 11
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: f2b60c209b816ab46a45e09a982d203d, type: 2}
+    actionType: 99
+    customAction: feed_animals_clean_pens_and_repair_tools
+    priority: 35
+    interruptible: 0
+  - label: Lunch at restaurant
+    startTime:
+      hour: 11
+      minute: 30
+    endTime:
+      hour: 12
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 3
+    customAction: 
+    priority: 10
+    interruptible: 1
+  - label: Afternoon production work
+    startTime:
+      hour: 12
+      minute: 30
+    endTime:
+      hour: 15
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: f2b60c209b816ab46a45e09a982d203d, type: 2}
+    actionType: 99
+    customAction: sort_feed_collect_dairy_and_record_animal_health
+    priority: 35
+    interruptible: 0
+  - label: Public park cooldown
+    startTime:
+      hour: 15
+      minute: 30
+    endTime:
+      hour: 16
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: a7c09be07c2367740999a57e97093051, type: 2}
+    actionType: 6
+    customAction: 
+    priority: 5
+    interruptible: 1
+  - label: Evening workshop close
+    startTime:
+      hour: 16
+      minute: 30
+    endTime:
+      hour: 18
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: f2b60c209b816ab46a45e09a982d203d, type: 2}
+    actionType: 99
+    customAction: close_workshop_secure_feed_and_check_animals
+    priority: 30
+    interruptible: 1
+  - label: Supper and quiet table talk
+    startTime:
+      hour: 18
+      minute: 30
+    endTime:
+      hour: 19
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 16c31f424b05c6347a26d18123cb9fc0, type: 2}
+    actionType: 3
+    customAction: 
+    priority: 10
+    interruptible: 1
+  - label: Home tool notes
+    startTime:
+      hour: 19
+      minute: 30
+    endTime:
+      hour: 21
+      minute: 30
+    targetLocation: {fileID: 11400000, guid: 67ea83d89aad878468b8de2ee22407a8, type: 2}
+    actionType: 99
+    customAction: repair_small_tools_and_write_supply_notes
+    priority: 5
+    interruptible: 1
+  - label: Sleep at home late
+    startTime:
+      hour: 21
+      minute: 30
+    endTime:
+      hour: 0
+      minute: 0
+    targetLocation: {fileID: 11400000, guid: 67ea83d89aad878468b8de2ee22407a8, type: 2}
+    actionType: 1
+    customAction: 
+    priority: 0
+    interruptible: 0

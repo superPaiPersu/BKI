@@ -1,0 +1,2930 @@
+fileFormatVersion: 2
+guid: 6c409896035117d4aa74d4413c37711c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2225163934021253193
+    second: furniture.zh-CN._0
+  - first:
+      213: -6657599190822023601
+    second: furniture.zh-CN._1
+  - first:
+      213: -2325977261573625239
+    second: furniture.zh-CN._2
+  - first:
+      213: -6535919327461481102
+    second: furniture.zh-CN._3
+  - first:
+      213: -8580955832421422035
+    second: furniture.zh-CN._4
+  - first:
+      213: 8070642464415626071
+    second: furniture.zh-CN._5
+  - first:
+      213: -1354377676968321198
+    second: furniture.zh-CN._6
+  - first:
+      213: 8831564701623860710
+    second: furniture.zh-CN._7
+  - first:
+      213: -7711106146184322069
+    second: furniture.zh-CN._8
+  - first:
+      213: 7974797467251804687
+    second: furniture.zh-CN._9
+  - first:
+      213: -5245765644385649740
+    second: furniture.zh-CN._10
+  - first:
+      213: -6516565021739281693
+    second: furniture.zh-CN._11
+  - first:
+      213: 6814401065678423363
+    second: furniture.zh-CN._12
+  - first:
+      213: 874497870168349988
+    second: furniture.zh-CN._13
+  - first:
+      213: 8695268991518246649
+    second: furniture.zh-CN._14
+  - first:
+      213: -9022644775821040211
+    second: furniture.zh-CN._15
+  - first:
+      213: 4967383818949929612
+    second: furniture.zh-CN._16
+  - first:
+      213: 5680305903833832766
+    second: furniture.zh-CN._17
+  - first:
+      213: -902423597833265120
+    second: furniture.zh-CN._18
+  - first:
+      213: 4181367250950324584
+    second: furniture.zh-CN._19
+  - first:
+      213: 5770816443946801924
+    second: furniture.zh-CN._20
+  - first:
+      213: 3965841647336763068
+    second: furniture.zh-CN._21
+  - first:
+      213: -5520650439044898277
+    second: furniture.zh-CN._22
+  - first:
+      213: -1069298889294103958
+    second: furniture.zh-CN._23
+  - first:
+      213: 2148528916269950986
+    second: furniture.zh-CN._24
+  - first:
+      213: 7663176377278469576
+    second: furniture.zh-CN._25
+  - first:
+      213: -4664599147206417018
+    second: furniture.zh-CN._26
+  - first:
+      213: -2881979421773069492
+    second: furniture.zh-CN._27
+  - first:
+      213: 2720221462688920019
+    second: furniture.zh-CN._28
+  - first:
+      213: -5911374048697668522
+    second: furniture.zh-CN._29
+  - first:
+      213: -4908701883687119342
+    second: furniture.zh-CN._30
+  - first:
+      213: 204681629632904991
+    second: furniture.zh-CN._31
+  - first:
+      213: 8779816231990245659
+    second: furniture.zh-CN._32
+  - first:
+      213: 4174183223675979171
+    second: furniture.zh-CN._33
+  - first:
+      213: 7173572051999663354
+    second: furniture.zh-CN._34
+  - first:
+      213: -7217617085773878370
+    second: furniture.zh-CN._35
+  - first:
+      213: -7655775726794265679
+    second: furniture.zh-CN._36
+  - first:
+      213: 4210446735908591480
+    second: furniture.zh-CN._37
+  - first:
+      213: 4882947693343737515
+    second: furniture.zh-CN._38
+  - first:
+      213: 2944535767224961389
+    second: furniture.zh-CN._39
+  - first:
+      213: -7788623787381905787
+    second: furniture.zh-CN._40
+  - first:
+      213: -5548321862773093129
+    second: furniture.zh-CN._41
+  - first:
+      213: -7209054566764445610
+    second: furniture.zh-CN._42
+  - first:
+      213: -429510168996819885
+    second: furniture.zh-CN._43
+  - first:
+      213: -2695404714726452150
+    second: furniture.zh-CN._44
+  - first:
+      213: 6755940566389083162
+    second: furniture.zh-CN._45
+  - first:
+      213: 2576217027935960121
+    second: furniture.zh-CN._46
+  - first:
+      213: -8974792991030445549
+    second: furniture.zh-CN._47
+  - first:
+      213: -5242637394228970542
+    second: furniture.zh-CN._48
+  - first:
+      213: 2412132923415700529
+    second: furniture.zh-CN._49
+  - first:
+      213: 5289482081505840896
+    second: furniture.zh-CN._50
+  - first:
+      213: 1656300181271138759
+    second: furniture.zh-CN._51
+  - first:
+      213: 7411560980663820429
+    second: furniture.zh-CN._52
+  - first:
+      213: 2179321470354381425
+    second: furniture.zh-CN._53
+  - first:
+      213: 2238240503134032865
+    second: furniture.zh-CN._54
+  - first:
+      213: 4927716615814787981
+    second: furniture.zh-CN._55
+  - first:
+      213: 9177187012708678693
+    second: furniture.zh-CN._56
+  - first:
+      213: 4108899713386102235
+    second: furniture.zh-CN._57
+  - first:
+      213: 5079191899546934791
+    second: furniture.zh-CN._58
+  - first:
+      213: -5265158871401496914
+    second: furniture.zh-CN._59
+  - first:
+      213: -4842575376237821014
+    second: furniture.zh-CN._60
+  - first:
+      213: -152074318715029821
+    second: furniture.zh-CN._61
+  - first:
+      213: -4379236801583037227
+    second: furniture.zh-CN._62
+  - first:
+      213: -3294018696094002653
+    second: furniture.zh-CN._63
+  - first:
+      213: -4802525325620111355
+    second: furniture.zh-CN._64
+  - first:
+      213: 7522360447463075547
+    second: furniture.zh-CN._65
+  - first:
+      213: -1997776763163315544
+    second: furniture.zh-CN._66
+  - first:
+      213: 5398127970260822006
+    second: furniture.zh-CN._67
+  - first:
+      213: 6110985397135619248
+    second: furniture.zh-CN._68
+  - first:
+      213: -5806868315246895121
+    second: furniture.zh-CN._69
+  - first:
+      213: 1665697585529240228
+    second: furniture.zh-CN._70
+  - first:
+      213: -4081081277870776344
+    second: furniture.zh-CN._71
+  - first:
+      213: 4292497239031450699
+    second: furniture.zh-CN._72
+  - first:
+      213: 346978269475858837
+    second: furniture.zh-CN._73
+  - first:
+      213: -1534113280465899359
+    second: furniture.zh-CN._74
+  - first:
+      213: 714882446225325030
+    second: furniture.zh-CN._75
+  - first:
+      213: 2428478519030374372
+    second: furniture.zh-CN._76
+  - first:
+      213: -2397113794970488463
+    second: furniture.zh-CN._77
+  - first:
+      213: 2388778431042156229
+    second: furniture.zh-CN._78
+  - first:
+      213: 6587098905117649106
+    second: furniture.zh-CN._79
+  - first:
+      213: 7593729698338784044
+    second: furniture.zh-CN._80
+  - first:
+      213: -1670299725818699826
+    second: furniture.zh-CN._81
+  - first:
+      213: 1629712617688920406
+    second: furniture.zh-CN._82
+  - first:
+      213: -8750320286818545957
+    second: furniture.zh-CN._83
+  - first:
+      213: 5230450519387499878
+    second: furniture.zh-CN._84
+  - first:
+      213: -233631098908790956
+    second: furniture.zh-CN._85
+  - first:
+      213: -8041893161617590422
+    second: furniture.zh-CN._86
+  - first:
+      213: 8562278478147910131
+    second: furniture.zh-CN._87
+  - first:
+      213: -7922485246537875548
+    second: furniture.zh-CN._88
+  - first:
+      213: 4884971439073303676
+    second: furniture.zh-CN._89
+  - first:
+      213: 3062990798891504508
+    second: furniture.zh-CN._90
+  - first:
+      213: -6872768620339682877
+    second: furniture.zh-CN._91
+  - first:
+      213: 1098549640083787568
+    second: furniture.zh-CN._92
+  - first:
+      213: 1523091088704232662
+    second: furniture.zh-CN._93
+  - first:
+      213: 6859127524061137582
+    second: furniture.zh-CN._94
+  - first:
+      213: -7888986693417583103
+    second: furniture.zh-CN._95
+  - first:
+      213: 7442418472056786003
+    second: furniture.zh-CN._96
+  - first:
+      213: 7800708247220360675
+    second: furniture.zh-CN._97
+  - first:
+      213: -3404773096466794094
+    second: furniture.zh-CN._98
+  - first:
+      213: 5290321909086025276
+    second: furniture.zh-CN._99
+  - first:
+      213: -5734946553907972413
+    second: furniture.zh-CN._100
+  - first:
+      213: -6334243346092858901
+    second: furniture.zh-CN._101
+  - first:
+      213: 909012730404229609
+    second: furniture.zh-CN._102
+  - first:
+      213: -1629306410037594507
+    second: furniture.zh-CN._103
+  - first:
+      213: -7858007238668987470
+    second: furniture.zh-CN._104
+  - first:
+      213: -1499530949707726923
+    second: furniture.zh-CN._105
+  - first:
+      213: -2756346621572908330
+    second: furniture.zh-CN._106
+  - first:
+      213: -5365110836254946038
+    second: furniture.zh-CN._107
+  - first:
+      213: -1617737849842824425
+    second: furniture.zh-CN._108
+  - first:
+      213: 4087244036431699870
+    second: furniture.zh-CN._109
+  - first:
+      213: -7956326978270196037
+    second: furniture.zh-CN._110
+  - first:
+      213: 1307586972806921736
+    second: furniture.zh-CN._111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture.zh-CN._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 289
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948f85efece51ee10800000000000000
+      internalID: 2225163934021253193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 992
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e00263fc47b93a0800000000000000
+      internalID: -6657599190822023601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 992
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa440110878bfd0800000000000000
+      internalID: -2325977261573625239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 959
+        width: 192
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2756c0e1000cb45a0800000000000000
+      internalID: -6535919327461481102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c643f52225ae880800000000000000
+      internalID: -8580955832421422035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 929
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7533da0bf8ea00070800000000000000
+      internalID: 8070642464415626071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 959
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f9598bda8443de0800000000000000
+      internalID: -1354377676968321198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 959
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed3b23fd45009a70800000000000000
+      internalID: 8831564701623860710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 959
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be32a53b0d5acf490800000000000000
+      internalID: -7711106146184322069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 847
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a8a3f4b0c2cae60800000000000000
+      internalID: 7974797467251804687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 895
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbf17f80fb4337b0800000000000000
+      internalID: -5245765644385649740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 847
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e29e7393a28095a0800000000000000
+      internalID: -6516565021739281693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 895
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3454ecc3aad919e50800000000000000
+      internalID: 6814401065678423363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 847
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d583cfd27d22c00800000000000000
+      internalID: 874497870168349988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 879
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f60ae9041dcba870800000000000000
+      internalID: 8695268991518246649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 879
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da527a2616029c280800000000000000
+      internalID: -9022644775821040211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aa887d341bfe440800000000000000
+      internalID: 4967383818949929612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dd19dbf1084de40800000000000000
+      internalID: 5680305903833832766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e73ed482f973f0800000000000000
+      internalID: -902423597833265120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86188546c53370a30800000000000000
+      internalID: 4181367250950324584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b9e6d0bfe061050800000000000000
+      internalID: 5770816443946801924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe25f067ff790730800000000000000
+      internalID: 3965841647336763068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12ef93eca5b263b0800000000000000
+      internalID: -5520650439044898277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ab7e853561921f0800000000000000
+      internalID: -1069298889294103958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08eceb7aab11dd10800000000000000
+      internalID: 2148528916269950986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c519da5052195a60800000000000000
+      internalID: 7663176377278469576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685eb2b2ac3044fb0800000000000000
+      internalID: -4664599147206417018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c430b3b3cf62108d0800000000000000
+      internalID: -2881979421773069492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d177f9020b20c520800000000000000
+      internalID: 2720221462688920019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca9ec5f9496fda0800000000000000
+      internalID: -5911374048697668522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 783
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216d98ae4a9c0ebb0800000000000000
+      internalID: -4908701883687119342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 719
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f31529bdc27d200800000000000000
+      internalID: 204681629632904991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19bcf4785c28d970800000000000000
+      internalID: 8779816231990245659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 783
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a50a92b68dade930800000000000000
+      internalID: 4174183223675979171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 767
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af42c1a26c5ad8360800000000000000
+      internalID: 7173572051999663354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b68a5408fd5db90800000000000000
+      internalID: -7217617085773878370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 783
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbae5cd98831c590800000000000000
+      internalID: -7655775726794265679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._37
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 767
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877d8879ff28e6a30800000000000000
+      internalID: 4210446735908591480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6019e5e07b3c340800000000000000
+      internalID: 4882947693343737515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6940e1fda71dd820800000000000000
+      internalID: 2944535767224961389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 735
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586a1f76eef39e390800000000000000
+      internalID: -7788623787381905787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 735
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc40ed79a66003b0800000000000000
+      internalID: -5548321862773093129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6500995111b44fb90800000000000000
+      internalID: -7209054566764445610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 735
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc685e6c21a0af0800000000000000
+      internalID: -429510168996819885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 719
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4411dc51bff79ad0800000000000000
+      internalID: -2695404714726452150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._45
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 719
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc54f862ce1cd50800000000000000
+      internalID: 6755940566389083162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 735
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c7f6eccbf80c320800000000000000
+      internalID: 2576217027935960121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31af6fc3351237380800000000000000
+      internalID: -8974792991030445549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 623
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db7dce01196e37b0800000000000000
+      internalID: -5242637394228970542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 623
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134a7332d1e997120800000000000000
+      internalID: 2412132923415700529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 623
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f03f1ade3086940800000000000000
+      internalID: 5289482081505840896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._51
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 623
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1d41a4d3c5cf610800000000000000
+      internalID: 1656300181271138759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 449
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80ec9b91772bd660800000000000000
+      internalID: 7411560980663820429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 449
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17adadba4518e3e10800000000000000
+      internalID: 2179321470354381425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 448
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3123ff0e3df0f10800000000000000
+      internalID: 2238240503134032865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 225
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d833e676724c26440800000000000000
+      internalID: 4927716615814787981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._56
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 351
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c34d917faeb5f70800000000000000
+      internalID: 9177187012708678693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd351af48eb50930800000000000000
+      internalID: 4108899713386102235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e59863f1aec7640800000000000000
+      internalID: 5079191899546934791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaefd1807e56ee6b0800000000000000
+      internalID: -5265158871401496914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa38a453a57bbccb0800000000000000
+      internalID: -4842575376237821014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f78d7639b3edf0800000000000000
+      internalID: -152074318715029821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d44356c453d933c0800000000000000
+      internalID: -4379236801583037227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32252d7c27b4942d0800000000000000
+      internalID: -3294018696094002653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 256
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508989549a00a5db0800000000000000
+      internalID: -4802525325620111355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde2c77c8fac46860800000000000000
+      internalID: 7522360447463075547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 223
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2fe1b5e987644e0800000000000000
+      internalID: -1997776763163315544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f72f77d9c00aea40800000000000000
+      internalID: 5398127970260822006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b43edf57d49ec450800000000000000
+      internalID: 6110985397135619248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefdc3c880cd96fa0800000000000000
+      internalID: -5806868315246895121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa32b8f02fbd1710800000000000000
+      internalID: 1665697585529240228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._71
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 226
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efd30543361d57c0800000000000000
+      internalID: -4081081277870776344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._72
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 225
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c80db0f73029b30800000000000000
+      internalID: 4292497239031450699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59963e0d5e6b0d400800000000000000
+      internalID: 346978269475858837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0fe98791cb5bae0800000000000000
+      internalID: -1534113280465899359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb3c671cc5cbe900800000000000000
+      internalID: 714882446225325030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 195
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efd87fa850b3b120800000000000000
+      internalID: 2428478519030374372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._77
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 199
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171789434bdbbbed0800000000000000
+      internalID: -2397113794970488463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6f165a355a62120800000000000000
+      internalID: 2388778431042156229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._79
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 201
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e6e3ed831a6b50800000000000000
+      internalID: 6587098905117649106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._80
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 191
+        width: 200
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2341d56de8526960800000000000000
+      internalID: 7593729698338784044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecfd42ebf37e1d8e0800000000000000
+      internalID: -1670299725818699826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._82
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 179
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651f15fbdf6ed9610800000000000000
+      internalID: 1629712617688920406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 192
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde49417f0e909680800000000000000
+      internalID: -8750320286818545957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._84
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 179
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d6957090b469840800000000000000
+      internalID: 5230450519387499878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fae0dd0c9f1ccf0800000000000000
+      internalID: -233631098908790956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67f32cf6c4756090800000000000000
+      internalID: -8041893161617590422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 147
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f97af539e253d670800000000000000
+      internalID: 8562278478147910131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af36d5b4adad0290800000000000000
+      internalID: -7922485246537875548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c94e364a7eac340800000000000000
+      internalID: 4884971439073303676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._90
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 164
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73d73637ede18a20800000000000000
+      internalID: 3062990798891504508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 163
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a3317a550f90a0800000000000000
+      internalID: -6872768620339682877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._92
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fc359c315de3f00800000000000000
+      internalID: 1098549640083787568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._93
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 162
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc57c6864b132510800000000000000
+      internalID: 1523091088704232662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._94
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaac4c45424803f50800000000000000
+      internalID: 6859127524061137582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._95
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 115
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ebf056660b48290800000000000000
+      internalID: -7888986693417583103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._96
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c00c03b28c84760800000000000000
+      internalID: 7442418472056786003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._97
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5970822dea14c60800000000000000
+      internalID: 7800708247220360675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993a4478e0dfb0d0800000000000000
+      internalID: -3404773096466794094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 129
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f98a3fbffa6940800000000000000
+      internalID: 5290321909086025276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6f6788e706960b0800000000000000
+      internalID: -5734946553907972413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._101
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e04bac3f3818a0800000000000000
+      internalID: -6334243346092858901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._102
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 111
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e15d0c13467d9c00800000000000000
+      internalID: 909012730404229609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._103
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 136
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5763177d37a8369e0800000000000000
+      internalID: -1629306410037594507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._104
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 144
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3dfa8cc00c2f290800000000000000
+      internalID: -7858007238668987470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._105
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 128
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf77fccb88903be0800000000000000
+      internalID: -1499530949707726923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._106
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 111
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da7c47f95d7fb9d0800000000000000
+      internalID: -2756346621572908330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0dcc68be1c4b85b0800000000000000
+      internalID: -5365110836254946038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 116
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b0a682ff3ac89e0800000000000000
+      internalID: -1617737849842824425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._109
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 111
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f58d5cbcec8b830800000000000000
+      internalID: 4087244036431699870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._110
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe095784c2759190800000000000000
+      internalID: -7956326978270196037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.zh-CN._111
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80eb5138c6b752210800000000000000
+      internalID: 1307586972806921736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

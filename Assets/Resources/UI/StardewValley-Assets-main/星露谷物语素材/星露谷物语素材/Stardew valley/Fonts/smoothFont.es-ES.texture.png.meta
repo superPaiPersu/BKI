@@ -1,0 +1,5280 @@
+fileFormatVersion: 2
+guid: 0e79ab9044609ed43ba5e2c72e119e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3173231245899978773
+    second: smoothFont.es-ES.texture_0
+  - first:
+      213: 3348713274191522517
+    second: smoothFont.es-ES.texture_1
+  - first:
+      213: -6491387402448435765
+    second: smoothFont.es-ES.texture_2
+  - first:
+      213: 2239760607899652503
+    second: smoothFont.es-ES.texture_3
+  - first:
+      213: 8263607248854798432
+    second: smoothFont.es-ES.texture_4
+  - first:
+      213: -5214133804979452197
+    second: smoothFont.es-ES.texture_5
+  - first:
+      213: 5626376844505469051
+    second: smoothFont.es-ES.texture_6
+  - first:
+      213: 7835866583009775325
+    second: smoothFont.es-ES.texture_7
+  - first:
+      213: 5734657020734658979
+    second: smoothFont.es-ES.texture_8
+  - first:
+      213: 3930137822900496175
+    second: smoothFont.es-ES.texture_9
+  - first:
+      213: -4607364551239794589
+    second: smoothFont.es-ES.texture_10
+  - first:
+      213: -761614570212796090
+    second: smoothFont.es-ES.texture_11
+  - first:
+      213: -6073985236331868395
+    second: smoothFont.es-ES.texture_12
+  - first:
+      213: 5882159212405618616
+    second: smoothFont.es-ES.texture_13
+  - first:
+      213: 5140014968965757090
+    second: smoothFont.es-ES.texture_14
+  - first:
+      213: -57826436400768355
+    second: smoothFont.es-ES.texture_15
+  - first:
+      213: -3601745975251811305
+    second: smoothFont.es-ES.texture_16
+  - first:
+      213: -1271251639891048942
+    second: smoothFont.es-ES.texture_17
+  - first:
+      213: 1034105220756469188
+    second: smoothFont.es-ES.texture_18
+  - first:
+      213: 1021735491154187265
+    second: smoothFont.es-ES.texture_19
+  - first:
+      213: 7574125438560794387
+    second: smoothFont.es-ES.texture_20
+  - first:
+      213: 3118150938161884588
+    second: smoothFont.es-ES.texture_21
+  - first:
+      213: -1172539311700924772
+    second: smoothFont.es-ES.texture_22
+  - first:
+      213: -8304142463221934929
+    second: smoothFont.es-ES.texture_23
+  - first:
+      213: -8895389499004898242
+    second: smoothFont.es-ES.texture_24
+  - first:
+      213: 8631873128214658684
+    second: smoothFont.es-ES.texture_25
+  - first:
+      213: -6096966011624797894
+    second: smoothFont.es-ES.texture_26
+  - first:
+      213: 3519252239918805900
+    second: smoothFont.es-ES.texture_27
+  - first:
+      213: -4582059545836631910
+    second: smoothFont.es-ES.texture_28
+  - first:
+      213: -8238251134605076660
+    second: smoothFont.es-ES.texture_29
+  - first:
+      213: 4940993599179389112
+    second: smoothFont.es-ES.texture_30
+  - first:
+      213: -5868045645794189005
+    second: smoothFont.es-ES.texture_31
+  - first:
+      213: -5636020305371414159
+    second: smoothFont.es-ES.texture_32
+  - first:
+      213: -2227965897216345614
+    second: smoothFont.es-ES.texture_33
+  - first:
+      213: -6897641745087069648
+    second: smoothFont.es-ES.texture_34
+  - first:
+      213: 7111350390238501623
+    second: smoothFont.es-ES.texture_35
+  - first:
+      213: -750074430066554767
+    second: smoothFont.es-ES.texture_36
+  - first:
+      213: 5664964213133708750
+    second: smoothFont.es-ES.texture_37
+  - first:
+      213: -6977401812778129411
+    second: smoothFont.es-ES.texture_38
+  - first:
+      213: -1354564504495324697
+    second: smoothFont.es-ES.texture_39
+  - first:
+      213: 2198124961566939583
+    second: smoothFont.es-ES.texture_40
+  - first:
+      213: -302372119516324199
+    second: smoothFont.es-ES.texture_41
+  - first:
+      213: 5069636310403877424
+    second: smoothFont.es-ES.texture_42
+  - first:
+      213: -7355621534415354855
+    second: smoothFont.es-ES.texture_43
+  - first:
+      213: -2054294908722669678
+    second: smoothFont.es-ES.texture_44
+  - first:
+      213: -5514393578659991532
+    second: smoothFont.es-ES.texture_45
+  - first:
+      213: 8164772350958958842
+    second: smoothFont.es-ES.texture_46
+  - first:
+      213: 4788329927733482226
+    second: smoothFont.es-ES.texture_47
+  - first:
+      213: 7997733408507786182
+    second: smoothFont.es-ES.texture_48
+  - first:
+      213: 4894531363033436132
+    second: smoothFont.es-ES.texture_49
+  - first:
+      213: 5400746220151903415
+    second: smoothFont.es-ES.texture_50
+  - first:
+      213: 4187368796760642315
+    second: smoothFont.es-ES.texture_51
+  - first:
+      213: 520372333733522574
+    second: smoothFont.es-ES.texture_52
+  - first:
+      213: 3320855906338352851
+    second: smoothFont.es-ES.texture_53
+  - first:
+      213: -1555731487820826257
+    second: smoothFont.es-ES.texture_54
+  - first:
+      213: -6061737213764901339
+    second: smoothFont.es-ES.texture_55
+  - first:
+      213: 1675959086234591635
+    second: smoothFont.es-ES.texture_56
+  - first:
+      213: 4390397824130286847
+    second: smoothFont.es-ES.texture_57
+  - first:
+      213: 614933331515160751
+    second: smoothFont.es-ES.texture_58
+  - first:
+      213: 1127850392317823822
+    second: smoothFont.es-ES.texture_59
+  - first:
+      213: 4554530947973012531
+    second: smoothFont.es-ES.texture_60
+  - first:
+      213: -4353152111701110779
+    second: smoothFont.es-ES.texture_61
+  - first:
+      213: -1526633149669346676
+    second: smoothFont.es-ES.texture_62
+  - first:
+      213: 159003833757051353
+    second: smoothFont.es-ES.texture_63
+  - first:
+      213: -6450047709669838068
+    second: smoothFont.es-ES.texture_64
+  - first:
+      213: 6064487978295400191
+    second: smoothFont.es-ES.texture_65
+  - first:
+      213: 8028214487191026187
+    second: smoothFont.es-ES.texture_66
+  - first:
+      213: -6162874056465979177
+    second: smoothFont.es-ES.texture_67
+  - first:
+      213: 6660071686225708704
+    second: smoothFont.es-ES.texture_68
+  - first:
+      213: -4518931245248251389
+    second: smoothFont.es-ES.texture_69
+  - first:
+      213: -2075862491125514186
+    second: smoothFont.es-ES.texture_70
+  - first:
+      213: -3194757405138016874
+    second: smoothFont.es-ES.texture_71
+  - first:
+      213: -3098929260356952191
+    second: smoothFont.es-ES.texture_72
+  - first:
+      213: 5237525052382454979
+    second: smoothFont.es-ES.texture_73
+  - first:
+      213: -875549790234121487
+    second: smoothFont.es-ES.texture_74
+  - first:
+      213: 7561445723259259408
+    second: smoothFont.es-ES.texture_75
+  - first:
+      213: -3710463351327176380
+    second: smoothFont.es-ES.texture_76
+  - first:
+      213: -6019769276182248902
+    second: smoothFont.es-ES.texture_77
+  - first:
+      213: 1252241230335375344
+    second: smoothFont.es-ES.texture_78
+  - first:
+      213: -4113032105299181823
+    second: smoothFont.es-ES.texture_79
+  - first:
+      213: 8442112116629604959
+    second: smoothFont.es-ES.texture_80
+  - first:
+      213: 7091497393579263947
+    second: smoothFont.es-ES.texture_81
+  - first:
+      213: -5981732391073221070
+    second: smoothFont.es-ES.texture_82
+  - first:
+      213: 6377354130097055360
+    second: smoothFont.es-ES.texture_83
+  - first:
+      213: -9186221964724905535
+    second: smoothFont.es-ES.texture_84
+  - first:
+      213: 2834604591580025685
+    second: smoothFont.es-ES.texture_85
+  - first:
+      213: -8125142015549493951
+    second: smoothFont.es-ES.texture_86
+  - first:
+      213: -8463972572594011551
+    second: smoothFont.es-ES.texture_87
+  - first:
+      213: 7841776132474392868
+    second: smoothFont.es-ES.texture_88
+  - first:
+      213: -8333365432251548934
+    second: smoothFont.es-ES.texture_89
+  - first:
+      213: -7053319445492666783
+    second: smoothFont.es-ES.texture_90
+  - first:
+      213: -2850344352371727329
+    second: smoothFont.es-ES.texture_91
+  - first:
+      213: -1005521974747886188
+    second: smoothFont.es-ES.texture_92
+  - first:
+      213: 1519405947104813109
+    second: smoothFont.es-ES.texture_93
+  - first:
+      213: -5664646357106999469
+    second: smoothFont.es-ES.texture_94
+  - first:
+      213: 5638678091194272664
+    second: smoothFont.es-ES.texture_95
+  - first:
+      213: 2097509064275593029
+    second: smoothFont.es-ES.texture_96
+  - first:
+      213: 9190572005675892241
+    second: smoothFont.es-ES.texture_97
+  - first:
+      213: 2003854962759478068
+    second: smoothFont.es-ES.texture_98
+  - first:
+      213: -5692219281238970722
+    second: smoothFont.es-ES.texture_99
+  - first:
+      213: -6739576747629406062
+    second: smoothFont.es-ES.texture_100
+  - first:
+      213: 5220950480709017471
+    second: smoothFont.es-ES.texture_101
+  - first:
+      213: 8031521950968878222
+    second: smoothFont.es-ES.texture_102
+  - first:
+      213: -6964161394854742601
+    second: smoothFont.es-ES.texture_103
+  - first:
+      213: 2897903557014555036
+    second: smoothFont.es-ES.texture_104
+  - first:
+      213: -2512169495723978986
+    second: smoothFont.es-ES.texture_105
+  - first:
+      213: -3690700473203600515
+    second: smoothFont.es-ES.texture_106
+  - first:
+      213: -7893628112345996856
+    second: smoothFont.es-ES.texture_107
+  - first:
+      213: 7413565009266662193
+    second: smoothFont.es-ES.texture_108
+  - first:
+      213: -8355472113991188772
+    second: smoothFont.es-ES.texture_109
+  - first:
+      213: 2607763520869115604
+    second: smoothFont.es-ES.texture_110
+  - first:
+      213: -6722912702645124490
+    second: smoothFont.es-ES.texture_111
+  - first:
+      213: -7208835928927437247
+    second: smoothFont.es-ES.texture_112
+  - first:
+      213: -880985957242412273
+    second: smoothFont.es-ES.texture_113
+  - first:
+      213: -4715401593744022596
+    second: smoothFont.es-ES.texture_114
+  - first:
+      213: 8573204203381743839
+    second: smoothFont.es-ES.texture_115
+  - first:
+      213: -7399371297732800787
+    second: smoothFont.es-ES.texture_116
+  - first:
+      213: -4622610670025734231
+    second: smoothFont.es-ES.texture_117
+  - first:
+      213: 4145960415641757
+    second: smoothFont.es-ES.texture_118
+  - first:
+      213: -913784155689490354
+    second: smoothFont.es-ES.texture_119
+  - first:
+      213: 1775348417234086970
+    second: smoothFont.es-ES.texture_120
+  - first:
+      213: -5168872686574089275
+    second: smoothFont.es-ES.texture_121
+  - first:
+      213: 44283128303044479
+    second: smoothFont.es-ES.texture_122
+  - first:
+      213: 1085999993618481551
+    second: smoothFont.es-ES.texture_123
+  - first:
+      213: -7717964944760411225
+    second: smoothFont.es-ES.texture_124
+  - first:
+      213: -3345305360133330570
+    second: smoothFont.es-ES.texture_125
+  - first:
+      213: -5971294132363924314
+    second: smoothFont.es-ES.texture_126
+  - first:
+      213: -7564151631818069533
+    second: smoothFont.es-ES.texture_127
+  - first:
+      213: -4792590783792638372
+    second: smoothFont.es-ES.texture_128
+  - first:
+      213: 4062416531021497878
+    second: smoothFont.es-ES.texture_129
+  - first:
+      213: 140679877795178065
+    second: smoothFont.es-ES.texture_130
+  - first:
+      213: 8437396518269129490
+    second: smoothFont.es-ES.texture_131
+  - first:
+      213: 5604829084934093997
+    second: smoothFont.es-ES.texture_132
+  - first:
+      213: -3580560963101149244
+    second: smoothFont.es-ES.texture_133
+  - first:
+      213: -4389560586948185254
+    second: smoothFont.es-ES.texture_134
+  - first:
+      213: -5929634549202265160
+    second: smoothFont.es-ES.texture_135
+  - first:
+      213: -2964175326408301016
+    second: smoothFont.es-ES.texture_136
+  - first:
+      213: 2272648201778617763
+    second: smoothFont.es-ES.texture_137
+  - first:
+      213: 3077976889456235928
+    second: smoothFont.es-ES.texture_138
+  - first:
+      213: -1222072666961752925
+    second: smoothFont.es-ES.texture_139
+  - first:
+      213: -5903183506142987677
+    second: smoothFont.es-ES.texture_140
+  - first:
+      213: -5268844261446366116
+    second: smoothFont.es-ES.texture_141
+  - first:
+      213: 5699034584250846370
+    second: smoothFont.es-ES.texture_142
+  - first:
+      213: -8814767414809244149
+    second: smoothFont.es-ES.texture_143
+  - first:
+      213: 6683729461411233545
+    second: smoothFont.es-ES.texture_144
+  - first:
+      213: 161972328684264576
+    second: smoothFont.es-ES.texture_145
+  - first:
+      213: -6330430037678229686
+    second: smoothFont.es-ES.texture_146
+  - first:
+      213: 1570388863534442481
+    second: smoothFont.es-ES.texture_147
+  - first:
+      213: 6248790749532469331
+    second: smoothFont.es-ES.texture_148
+  - first:
+      213: 16007290342535975
+    second: smoothFont.es-ES.texture_149
+  - first:
+      213: 5471738248081968074
+    second: smoothFont.es-ES.texture_150
+  - first:
+      213: 858969866721199535
+    second: smoothFont.es-ES.texture_151
+  - first:
+      213: -8865486951661665910
+    second: smoothFont.es-ES.texture_152
+  - first:
+      213: -719979068266197911
+    second: smoothFont.es-ES.texture_153
+  - first:
+      213: -6319802903224443316
+    second: smoothFont.es-ES.texture_154
+  - first:
+      213: 7729335026938643415
+    second: smoothFont.es-ES.texture_155
+  - first:
+      213: 703007689688296716
+    second: smoothFont.es-ES.texture_156
+  - first:
+      213: 2012959747086631281
+    second: smoothFont.es-ES.texture_157
+  - first:
+      213: 9011730659509836727
+    second: smoothFont.es-ES.texture_158
+  - first:
+      213: 4281305040538963873
+    second: smoothFont.es-ES.texture_159
+  - first:
+      213: -3761410478478624420
+    second: smoothFont.es-ES.texture_160
+  - first:
+      213: -5440730580632551725
+    second: smoothFont.es-ES.texture_161
+  - first:
+      213: 4662495878731461266
+    second: smoothFont.es-ES.texture_162
+  - first:
+      213: -5877604863253679720
+    second: smoothFont.es-ES.texture_163
+  - first:
+      213: 6168528233519045092
+    second: smoothFont.es-ES.texture_164
+  - first:
+      213: -5884269169025693788
+    second: smoothFont.es-ES.texture_165
+  - first:
+      213: -6004620607077673330
+    second: smoothFont.es-ES.texture_166
+  - first:
+      213: -7273455364337842043
+    second: smoothFont.es-ES.texture_167
+  - first:
+      213: -7529437844553455310
+    second: smoothFont.es-ES.texture_168
+  - first:
+      213: 3797620752293651725
+    second: smoothFont.es-ES.texture_169
+  - first:
+      213: -1108203672481165890
+    second: smoothFont.es-ES.texture_170
+  - first:
+      213: 3317378575411897083
+    second: smoothFont.es-ES.texture_171
+  - first:
+      213: 8435030991016185819
+    second: smoothFont.es-ES.texture_172
+  - first:
+      213: 2794717351416275637
+    second: smoothFont.es-ES.texture_173
+  - first:
+      213: 6169131749838327394
+    second: smoothFont.es-ES.texture_174
+  - first:
+      213: 2756429920757093364
+    second: smoothFont.es-ES.texture_175
+  - first:
+      213: 4903705194510351256
+    second: smoothFont.es-ES.texture_176
+  - first:
+      213: 1222853534635082473
+    second: smoothFont.es-ES.texture_177
+  - first:
+      213: -4632351037436703446
+    second: smoothFont.es-ES.texture_178
+  - first:
+      213: 9157921663137601442
+    second: smoothFont.es-ES.texture_179
+  - first:
+      213: -3837703279442418340
+    second: smoothFont.es-ES.texture_180
+  - first:
+      213: 1862266037632622448
+    second: smoothFont.es-ES.texture_181
+  - first:
+      213: -1517515486225105436
+    second: smoothFont.es-ES.texture_182
+  - first:
+      213: 4341034801444813620
+    second: smoothFont.es-ES.texture_183
+  - first:
+      213: 4604056627153271726
+    second: smoothFont.es-ES.texture_184
+  - first:
+      213: 8380941585112665061
+    second: smoothFont.es-ES.texture_185
+  - first:
+      213: -5139669493320840447
+    second: smoothFont.es-ES.texture_186
+  - first:
+      213: -7134551757856345005
+    second: smoothFont.es-ES.texture_187
+  - first:
+      213: 458835849010305040
+    second: smoothFont.es-ES.texture_188
+  - first:
+      213: -8967134056602341113
+    second: smoothFont.es-ES.texture_189
+  - first:
+      213: -8968726943446157740
+    second: smoothFont.es-ES.texture_190
+  - first:
+      213: 6741067074896418941
+    second: smoothFont.es-ES.texture_191
+  - first:
+      213: 1053480885431864586
+    second: smoothFont.es-ES.texture_192
+  - first:
+      213: 1545097384667849403
+    second: smoothFont.es-ES.texture_193
+  - first:
+      213: -2384615595943322266
+    second: smoothFont.es-ES.texture_194
+  - first:
+      213: 3427140186367720154
+    second: smoothFont.es-ES.texture_195
+  - first:
+      213: 2263926000541960419
+    second: smoothFont.es-ES.texture_196
+  - first:
+      213: -7471126239040689939
+    second: smoothFont.es-ES.texture_197
+  - first:
+      213: -7665196069924323809
+    second: smoothFont.es-ES.texture_198
+  - first:
+      213: -7524944296998670491
+    second: smoothFont.es-ES.texture_199
+  - first:
+      213: -7838353360177420109
+    second: smoothFont.es-ES.texture_200
+  - first:
+      213: -1106798565052399694
+    second: smoothFont.es-ES.texture_201
+  - first:
+      213: 2802631370435660456
+    second: smoothFont.es-ES.texture_202
+  - first:
+      213: 5233810956215134586
+    second: smoothFont.es-ES.texture_203
+  - first:
+      213: -7353276687426016383
+    second: smoothFont.es-ES.texture_204
+  - first:
+      213: 7037871488190380476
+    second: smoothFont.es-ES.texture_205
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be726fd8efa66f3d0800000000000000
+      internalID: -3173231245899978773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da22da0bf4097e20800000000000000
+      internalID: 3348713274191522517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 179
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc58d91ec85f9e5a0800000000000000
+      internalID: -6491387402448435765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79195c7f76a351f10800000000000000
+      internalID: 2239760607899652503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0605557a20b3ea270800000000000000
+      internalID: 8263607248854798432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd608d61eeca3a7b0800000000000000
+      internalID: -5214133804979452197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_6
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b705b352ee7e41e40800000000000000
+      internalID: 5626376844505469051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddec6ab14279ebc60800000000000000
+      internalID: 7835866583009775325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d6954d28959f40800000000000000
+      internalID: 5734657020734658979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27af44f687aa8630800000000000000
+      internalID: 3930137822900496175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_10
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36000acf95a5f00c0800000000000000
+      internalID: -4607364551239794589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64954b665933e65f0800000000000000
+      internalID: -761614570212796090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fc871eb9ed4bba0800000000000000
+      internalID: -6073985236331868395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b77abf73a0a1a150800000000000000
+      internalID: 5882159212405618616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8f46d9160055740800000000000000
+      internalID: 5140014968965757090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a94b7992f823ff0800000000000000
+      internalID: -57826436400768355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7144ced4e17040ec0800000000000000
+      internalID: -3601745975251811305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21649207e5b9b5ee0800000000000000
+      internalID: -1271251639891048942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_18
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5f0972831e95e00800000000000000
+      internalID: 1034105220756469188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10497ac040fed2e00800000000000000
+      internalID: 1021735491154187265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3177aa9f4f2bc1960800000000000000
+      internalID: 7574125438560794387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_21
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cada031f1c5e54b20800000000000000
+      internalID: 3118150938161884588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96a2e855bd4abfe0800000000000000
+      internalID: -1172539311700924772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa45b6b4d62c1cc80800000000000000
+      internalID: -8304142463221934929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34b215616a3d8480800000000000000
+      internalID: -8895389499004898242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_25
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e797160e29ac770800000000000000
+      internalID: 8631873128214658684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39497d27b9336ba0800000000000000
+      internalID: -6096966011624797894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83bb533445e6d030800000000000000
+      internalID: 3519252239918805900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9848beae114960c0800000000000000
+      internalID: -4582059545836631910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47d76fbd3adbad80800000000000000
+      internalID: -8238251134605076660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f09cff7fe19440800000000000000
+      internalID: 4940993599179389112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_31
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 147
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331e8ac4393809ea0800000000000000
+      internalID: -5868045645794189005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 162
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171c277a465d8c1b0800000000000000
+      internalID: -5636020305371414159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 149
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f93cbc12dca411e0800000000000000
+      internalID: -2227965897216345614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_34
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 149
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0320e2cc067a640a0800000000000000
+      internalID: -6897641745087069648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa508b908790b260800000000000000
+      internalID: 7111350390238501623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17887c8a7433795f0800000000000000
+      internalID: -750074430066554767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd822500fefd9e40800000000000000
+      internalID: 5664964213133708750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df76136e40a4b2f90800000000000000
+      internalID: -6977401812778129411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1043c82ce933de0800000000000000
+      internalID: -1354564504495324697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9dd12a10f418e10800000000000000
+      internalID: 2198124961566939583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_41
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e5f3ac822cdcbf0800000000000000
+      internalID: -302372119516324199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a8b0e3d57fa5640800000000000000
+      internalID: 5069636310403877424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91485faaf259be990800000000000000
+      internalID: -7355621534415354855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29711b52aadad73e0800000000000000
+      internalID: -2054294908722669678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410b648b140f873b0800000000000000
+      internalID: -5514393578659991532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 134
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8f6d2c1391f4170800000000000000
+      internalID: 8164772350958958842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f21de913b0937240800000000000000
+      internalID: 4788329927733482226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_48
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 136
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c371664928adfe60800000000000000
+      internalID: 7997733408507786182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_49
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efcd93a75edce340800000000000000
+      internalID: 4894531363033436132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_50
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 136
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b41036a21e43fa40800000000000000
+      internalID: 5400746220151903415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03197a2cb58c1a30800000000000000
+      internalID: 4187368796760642315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca02761ebb83700800000000000000
+      internalID: 520372333733522574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de2e872adc061e20800000000000000
+      internalID: 3320855906338352851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69bc86547ee86ae0800000000000000
+      internalID: -1555731487820826257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 108
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526e6cbde1260eba0800000000000000
+      internalID: -6061737213764901339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391e919c8e3324710800000000000000
+      internalID: 1675959086234591635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_57
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 108
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff40fe94f83ddec30800000000000000
+      internalID: 4390397824130286847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_58
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa832816b9ea88800800000000000000
+      internalID: 614933331515160751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_59
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 108
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b83e9c4fde6af00800000000000000
+      internalID: 1127850392317823822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 108
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c547824c1f43f30800000000000000
+      internalID: 4554530947973012531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50050d8e73f7693c0800000000000000
+      internalID: -4353152111701110779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c827f932d3f40dae0800000000000000
+      internalID: -1526633149669346676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_63
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a305f425e43200800000000000000
+      internalID: 159003833757051353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_64
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 97
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03bec828c3dc76a0800000000000000
+      internalID: -6450047709669838068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff69cea6fa3692450800000000000000
+      internalID: 6064487978295400191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 109
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a7aa17a82f96f60800000000000000
+      internalID: 8028214487191026187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_67
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8efdca2b2197aa0800000000000000
+      internalID: -6162874056465979177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_68
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6ce1c79e35d6c50800000000000000
+      internalID: 6660071686225708704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 109
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a709a89f78941c0800000000000000
+      internalID: -4518931245248251389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_70
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63008ed001e0133e0800000000000000
+      internalID: -2075862491125514186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_71
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 109
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695233b0111f9a3d0800000000000000
+      internalID: -3194757405138016874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_72
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 121
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f1c5ca1446ef4d0800000000000000
+      internalID: -3098929260356952191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_73
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 109
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c42779194d6fa840800000000000000
+      internalID: 5237525052382454979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 121
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6de9ca1c69d3f0800000000000000
+      internalID: -875549790234121487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_75
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 110
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ac343b2d6afe860800000000000000
+      internalID: 7561445723259259408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_76
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 110
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449c908ad39c18cc0800000000000000
+      internalID: -3710463351327176380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_77
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 110
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32c857ccbb757ca0800000000000000
+      internalID: -6019769276182248902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 97
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7fc3ba3cad06110800000000000000
+      internalID: 1252241230335375344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f7ddd87139be6c0800000000000000
+      internalID: -4113032105299181823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 109
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a8ab9ed38682570800000000000000
+      internalID: 8442112116629604959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_81
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc786ed9e4f0a6260800000000000000
+      internalID: 7091497393579263947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_82
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 97
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f1a8351e9cfca0800000000000000
+      internalID: -5981732391073221070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_83
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0862e4beac9e08850800000000000000
+      internalID: 6377354130097055360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_84
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c95ea43bcbf38080800000000000000
+      internalID: -9186221964724905535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 93
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55391df8bd9865720800000000000000
+      internalID: 2834604591580025685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d229db262bd3f80800000000000000
+      internalID: -8125142015549493951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_87
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 98
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16282ed0acde98a80800000000000000
+      internalID: -8463972572594011551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_88
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 96
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421d54058d593dc60800000000000000
+      internalID: 7841776132474392868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa702b9a40f95c80800000000000000
+      internalID: -8333365432251548934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16eed0c95539d1e90800000000000000
+      internalID: -7053319445492666783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_91
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 97
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14a75dc9ea8178d0800000000000000
+      internalID: -2850344352371727329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_92
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d8d49671bab02f0800000000000000
+      internalID: -1005521974747886188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_93
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5306cc2a8a3061510800000000000000
+      internalID: 1519405947104813109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_94
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f3d6a96222361b0800000000000000
+      internalID: -5664646357106999469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_95
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 97
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b896459db904e40800000000000000
+      internalID: 5638678091194272664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_96
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5470f418169db1d10800000000000000
+      internalID: 2097509064275593029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ef5f0ab887b8f70800000000000000
+      internalID: 9190572005675892241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_98
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43baea4c87f1fcb10800000000000000
+      internalID: 2003854962759478068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_99
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e2f1ee8bc2101b0800000000000000
+      internalID: -5692219281238970722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_100
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2981115e7a63872a0800000000000000
+      internalID: -6739576747629406062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fd098ecca847840800000000000000
+      internalID: 5220950480709017471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84904d59a2b57f60800000000000000
+      internalID: 8031521950968878222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 86
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5b13deb145a5f90800000000000000
+      internalID: -6964161394854742601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_104
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 87
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99813d6eeb673820800000000000000
+      internalID: 2897903557014555036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 87
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fccc7572bf22dd0800000000000000
+      internalID: -2512169495723978986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_106
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 87
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73555a497ff7ccc0800000000000000
+      internalID: -3690700473203600515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16496dd03347290800000000000000
+      internalID: -7893628112345996856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_108
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bda90e81642e660800000000000000
+      internalID: 7413565009266662193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_109
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde7fdaa1666b0c80800000000000000
+      internalID: -8355472113991188772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_110
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d620af0b13a03420800000000000000
+      internalID: 2607763520869115604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67240e6348a63b2a0800000000000000
+      internalID: -6722912702645124490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef43caae115fb90800000000000000
+      internalID: -7208835928927437247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_113
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03657680fb16c3f0800000000000000
+      internalID: -880985957242412273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_114
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3a397db378f8eb0800000000000000
+      internalID: -4715401593744022596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd06479dcc32af670800000000000000
+      internalID: 8573204203381743839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_116
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 75
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee4a6d1207205990800000000000000
+      internalID: -7399371297732800787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_117
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 76
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a78f26561039dfb0800000000000000
+      internalID: -4622610670025734231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_118
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90c3d1aababe0000800000000000000
+      internalID: 4145960415641757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_119
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e486fbed6269153f0800000000000000
+      internalID: -913784155689490354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_120
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c2ac1bafd43a810800000000000000
+      internalID: 1775348417234086970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_121
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb488b6da97448b0800000000000000
+      internalID: -5168872686574089275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_122
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77cb0445435d9000800000000000000
+      internalID: 44283128303044479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_123
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 76
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81c4b58d3f321f00800000000000000
+      internalID: 1085999993618481551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_124
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 65
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab63a636c744e490800000000000000
+      internalID: -7717964944760411225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679ea08cf761391d0800000000000000
+      internalID: -3345305360133330570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ace217bf93b12da0800000000000000
+      internalID: -5971294132363924314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9ea4eda2cb60790800000000000000
+      internalID: -7564151631818069533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_128
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c569a3a031c4d7db0800000000000000
+      internalID: -4792590783792638372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_129
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6160635bf4a906830800000000000000
+      internalID: 4062416531021497878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_130
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156e60f7a9bc3f100800000000000000
+      internalID: 140679877795178065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_131
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2139c8c1e67a71570800000000000000
+      internalID: 8437396518269129490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_132
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac364a6b5a58cd40800000000000000
+      internalID: 5604829084934093997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_133
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7b9b156ca4f4ec0800000000000000
+      internalID: -3580560963101149244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_134
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53f5ee27e52513c0800000000000000
+      internalID: -4389560586948185254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_135
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb5ae64bc4b5bda0800000000000000
+      internalID: -5929634549202265160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_136
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826a479de322dd6d0800000000000000
+      internalID: -2964175326408301016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_137
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add17e9f711a8f10800000000000000
+      internalID: 2272648201778617763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_138
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89596e25cab27ba20800000000000000
+      internalID: 3077976889456235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_139
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc70c52635a0fe0800000000000000
+      internalID: -1222072666961752925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_140
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36af668a0eda31ea0800000000000000
+      internalID: -5903183506142987677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_141
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c42ab4f0e41e6b0800000000000000
+      internalID: -5268844261446366116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_142
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac00f472c9071f40800000000000000
+      internalID: 5699034584250846370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_143
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e4b962db7aba580800000000000000
+      internalID: -8814767414809244149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_144
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 53
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fba32888061cc50800000000000000
+      internalID: 6683729461411233545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_145
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c1baa89f07f3200800000000000000
+      internalID: 161972328684264576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_146
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47f9b8bb6bc528a0800000000000000
+      internalID: -6330430037678229686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_147
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f72332e9542bc510800000000000000
+      internalID: 1570388863534442481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_148
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 54
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35831a5441a28b650800000000000000
+      internalID: 6248790749532469331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723fea6bb8ed83000800000000000000
+      internalID: 16007290342535975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_150
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb08d432f48feb40800000000000000
+      internalID: 5471738248081968074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_151
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa58ea2fa8cabeb00800000000000000
+      internalID: 858969866721199535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_152
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81885db69677f480800000000000000
+      internalID: -8865486951661665910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_153
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cc64e1ade1206f0800000000000000
+      internalID: -719979068266197911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_154
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e13d64ebc8b48a0800000000000000
+      internalID: -6319802903224443316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_155
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d389a6514d144b60800000000000000
+      internalID: 7729335026938643415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_156
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 42
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d2d32e4c591c900800000000000000
+      internalID: 703007689688296716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_157
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171424099387feb10800000000000000
+      internalID: 2012959747086631281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_158
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 42
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb9493e949101d70800000000000000
+      internalID: 9011730659509836727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_159
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af0a6440404a6b30800000000000000
+      internalID: 4281305040538963873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_160
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 43
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5979df3919cccbc0800000000000000
+      internalID: -3761410478478624420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_161
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3debac6fc54ae74b0800000000000000
+      internalID: -5440730580632551725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_162
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 43
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f28a7c4384b040800000000000000
+      internalID: 4662495878731461266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_163
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891f7ab848d8e6ea0800000000000000
+      internalID: -5877604863253679720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_164
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 43
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9ded10fb30b9550800000000000000
+      internalID: 6168528233519045092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_165
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7c071fd50e65ea0800000000000000
+      internalID: -5884269169025693788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_166
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 43
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8615282f5d4baca0800000000000000
+      internalID: -6004620607077673330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_167
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 32
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588cbfee1ee7f0b90800000000000000
+      internalID: -7273455364337842043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239220d4c20128790800000000000000
+      internalID: -7529437844553455310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_169
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 31
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d056d1c14fbd3b430800000000000000
+      internalID: 3797620752293651725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_170
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd0af2a1aede90f0800000000000000
+      internalID: -1108203672481165890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_171
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2eae4fc32b90e20800000000000000
+      internalID: 3317378575411897083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_172
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 31
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf4ee0eeff3f0570800000000000000
+      internalID: 8435030991016185819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_173
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a9c2cf94d8c620800000000000000
+      internalID: 2794717351416275637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_174
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e82b914a82d9550800000000000000
+      internalID: 6169131749838327394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_175
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f31cf2a86ec04620800000000000000
+      internalID: 2756429920757093364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_176
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bf60ab4e57d0440800000000000000
+      internalID: 4903705194510351256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_177
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e241409fc278f010800000000000000
+      internalID: 1222853534635082473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_178
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4ca2564596bfb0800000000000000
+      internalID: -4632351037436703446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_179
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7db2c5b39771f70800000000000000
+      internalID: 9157921663137601442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_180
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55ab7b433dbdbac0800000000000000
+      internalID: -3837703279442418340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_181
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 22
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fdd52381918d910800000000000000
+      internalID: 1862266037632622448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_182
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edf56694b3b0fae0800000000000000
+      internalID: -1517515486225105436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_183
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 14
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bf9b1f6247e3c30800000000000000
+      internalID: 4341034801444813620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_184
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 5
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf04beb15e4ef30800000000000000
+      internalID: 4604056627153271726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_185
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb80ffa7f51f4470800000000000000
+      internalID: 8380941585112665061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_186
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 21
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b03b3b3d93ca8b0800000000000000
+      internalID: -5139669493320840447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_187
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35475590afafcfc90800000000000000
+      internalID: -7134551757856345005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_188
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 8
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018597e06cc1e5600800000000000000
+      internalID: 458835849010305040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_189
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 8
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701f8eed5175e8380800000000000000
+      internalID: -8967134056602341113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_190
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456ba600d5ea88380800000000000000
+      internalID: -8968726943446157740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_191
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d785846f9c41d8d50800000000000000
+      internalID: 6741067074896418941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_192
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d84d1a847be9e00800000000000000
+      internalID: 1053480885431864586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_193
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2238492e9417510800000000000000
+      internalID: 1545097384667849403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_194
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d11fdefb428eed0800000000000000
+      internalID: -2384615595943322266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_195
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaf9eb77d5af8f20800000000000000
+      internalID: 3427140186367720154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_196
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80314e3b41b6f10800000000000000
+      internalID: 2263926000541960419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_197
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de821e1f44a315890800000000000000
+      internalID: -7471126239040689939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_198
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb07e49c0cf9590800000000000000
+      internalID: -7665196069924323809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56feaced707029790800000000000000
+      internalID: -7524944296998670491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8a2a6f523983390800000000000000
+      internalID: -7838353360177420109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_201
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfb324b19cd3a0f0800000000000000
+      internalID: -1106798565052399694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_202
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa0f27e162f4e620800000000000000
+      internalID: 2802631370435660456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_203
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7920c2b55b32a840800000000000000
+      internalID: 5233810956215134586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_204
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 4
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bafc6efc9e3f990800000000000000
+      internalID: -7353276687426016383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: smoothFont.es-ES.texture_205
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ff6c84da8ba160800000000000000
+      internalID: 7037871488190380476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

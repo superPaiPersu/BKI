@@ -1,0 +1,8130 @@
+fileFormatVersion: 2
+guid: 3130f5d51ae48e646b2da7a08298e65e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2907985184304391664
+    second: tinyFont.texture_0
+  - first:
+      213: -1282044963936094936
+    second: tinyFont.texture_1
+  - first:
+      213: -3771240155158141182
+    second: tinyFont.texture_2
+  - first:
+      213: 3752129862195234515
+    second: tinyFont.texture_3
+  - first:
+      213: 4116210750326087278
+    second: tinyFont.texture_4
+  - first:
+      213: 6146333022037187679
+    second: tinyFont.texture_5
+  - first:
+      213: -5458909490097777037
+    second: tinyFont.texture_6
+  - first:
+      213: -5443391766932374799
+    second: tinyFont.texture_7
+  - first:
+      213: -7748962485119940687
+    second: tinyFont.texture_8
+  - first:
+      213: -952532766985243835
+    second: tinyFont.texture_9
+  - first:
+      213: -5758531660354057215
+    second: tinyFont.texture_10
+  - first:
+      213: 8120269771126837498
+    second: tinyFont.texture_11
+  - first:
+      213: 8191908952503853060
+    second: tinyFont.texture_12
+  - first:
+      213: 6943039215676215595
+    second: tinyFont.texture_13
+  - first:
+      213: -6099106371163464796
+    second: tinyFont.texture_14
+  - first:
+      213: 1697142043055778302
+    second: tinyFont.texture_15
+  - first:
+      213: -7560064739111703541
+    second: tinyFont.texture_16
+  - first:
+      213: 7377246027037172310
+    second: tinyFont.texture_17
+  - first:
+      213: 1697954855606353252
+    second: tinyFont.texture_18
+  - first:
+      213: 2086908367215479226
+    second: tinyFont.texture_19
+  - first:
+      213: 2568809712004016538
+    second: tinyFont.texture_20
+  - first:
+      213: 1826702813193813696
+    second: tinyFont.texture_21
+  - first:
+      213: -606625097816086076
+    second: tinyFont.texture_22
+  - first:
+      213: -5625235135756861881
+    second: tinyFont.texture_23
+  - first:
+      213: 6379554017265864479
+    second: tinyFont.texture_24
+  - first:
+      213: 7790494889701909285
+    second: tinyFont.texture_25
+  - first:
+      213: 3426225550238527749
+    second: tinyFont.texture_26
+  - first:
+      213: 8582261201668273195
+    second: tinyFont.texture_27
+  - first:
+      213: 2973575850161738611
+    second: tinyFont.texture_28
+  - first:
+      213: -6128917210664297261
+    second: tinyFont.texture_29
+  - first:
+      213: -4607086058297578831
+    second: tinyFont.texture_30
+  - first:
+      213: -2679695772862808246
+    second: tinyFont.texture_31
+  - first:
+      213: 4793488781774544548
+    second: tinyFont.texture_32
+  - first:
+      213: -5907431567503724198
+    second: tinyFont.texture_33
+  - first:
+      213: 7038113212709463551
+    second: tinyFont.texture_34
+  - first:
+      213: -6973858124747815742
+    second: tinyFont.texture_35
+  - first:
+      213: 4526291809740504137
+    second: tinyFont.texture_36
+  - first:
+      213: -7135362383268094677
+    second: tinyFont.texture_37
+  - first:
+      213: 3891217676541738177
+    second: tinyFont.texture_38
+  - first:
+      213: 3653266746338954032
+    second: tinyFont.texture_39
+  - first:
+      213: 5155433164935603234
+    second: tinyFont.texture_40
+  - first:
+      213: -6075642183823864724
+    second: tinyFont.texture_41
+  - first:
+      213: 4473121126163240014
+    second: tinyFont.texture_42
+  - first:
+      213: 8551501640161432478
+    second: tinyFont.texture_43
+  - first:
+      213: 3011681818623986309
+    second: tinyFont.texture_44
+  - first:
+      213: -2773416169344547348
+    second: tinyFont.texture_45
+  - first:
+      213: -1909455577385812660
+    second: tinyFont.texture_46
+  - first:
+      213: -6174636092261369926
+    second: tinyFont.texture_47
+  - first:
+      213: -3226430671814481656
+    second: tinyFont.texture_48
+  - first:
+      213: 5822806593401662097
+    second: tinyFont.texture_49
+  - first:
+      213: -9114098745741791426
+    second: tinyFont.texture_50
+  - first:
+      213: 8453490310469626430
+    second: tinyFont.texture_51
+  - first:
+      213: 437982190996928574
+    second: tinyFont.texture_52
+  - first:
+      213: -1888959420187103172
+    second: tinyFont.texture_53
+  - first:
+      213: 7191505440679527216
+    second: tinyFont.texture_54
+  - first:
+      213: 8783975084767455482
+    second: tinyFont.texture_55
+  - first:
+      213: -7174206652631639909
+    second: tinyFont.texture_56
+  - first:
+      213: 2082368423561908369
+    second: tinyFont.texture_57
+  - first:
+      213: -6217616869503152989
+    second: tinyFont.texture_58
+  - first:
+      213: -647073187841400818
+    second: tinyFont.texture_59
+  - first:
+      213: 1838852847480138676
+    second: tinyFont.texture_60
+  - first:
+      213: 4991916511688363170
+    second: tinyFont.texture_61
+  - first:
+      213: -5773617987900690036
+    second: tinyFont.texture_62
+  - first:
+      213: -4435965528430239992
+    second: tinyFont.texture_63
+  - first:
+      213: -6839771749032328487
+    second: tinyFont.texture_64
+  - first:
+      213: -17889470222307408
+    second: tinyFont.texture_65
+  - first:
+      213: -5565131083723522156
+    second: tinyFont.texture_66
+  - first:
+      213: -122478532459171767
+    second: tinyFont.texture_67
+  - first:
+      213: -5777068638970457073
+    second: tinyFont.texture_68
+  - first:
+      213: -4574036530710594715
+    second: tinyFont.texture_69
+  - first:
+      213: 4588872631462915791
+    second: tinyFont.texture_70
+  - first:
+      213: -4537497680937899678
+    second: tinyFont.texture_71
+  - first:
+      213: 8500446663596551044
+    second: tinyFont.texture_72
+  - first:
+      213: -203974634235040814
+    second: tinyFont.texture_73
+  - first:
+      213: 2841694189024732079
+    second: tinyFont.texture_74
+  - first:
+      213: 1657343937449175412
+    second: tinyFont.texture_75
+  - first:
+      213: -8822881625599275840
+    second: tinyFont.texture_76
+  - first:
+      213: -6618699956214274066
+    second: tinyFont.texture_77
+  - first:
+      213: 7095869655730593365
+    second: tinyFont.texture_78
+  - first:
+      213: 7159621981899129717
+    second: tinyFont.texture_79
+  - first:
+      213: -4895211178893367161
+    second: tinyFont.texture_80
+  - first:
+      213: 4853667777962257399
+    second: tinyFont.texture_81
+  - first:
+      213: 6393496167875748817
+    second: tinyFont.texture_82
+  - first:
+      213: -6390706697567282688
+    second: tinyFont.texture_83
+  - first:
+      213: 467587418845980016
+    second: tinyFont.texture_84
+  - first:
+      213: -341264162898512742
+    second: tinyFont.texture_85
+  - first:
+      213: 1447993882461558316
+    second: tinyFont.texture_86
+  - first:
+      213: 8310325725811198221
+    second: tinyFont.texture_87
+  - first:
+      213: -2618021763303214577
+    second: tinyFont.texture_88
+  - first:
+      213: -8991546138299812249
+    second: tinyFont.texture_89
+  - first:
+      213: -8669941989015750415
+    second: tinyFont.texture_90
+  - first:
+      213: -1418971504887402673
+    second: tinyFont.texture_91
+  - first:
+      213: -5321182598832818489
+    second: tinyFont.texture_92
+  - first:
+      213: -5837940613159337770
+    second: tinyFont.texture_93
+  - first:
+      213: -7690464234612868740
+    second: tinyFont.texture_94
+  - first:
+      213: 2842727852422876719
+    second: tinyFont.texture_95
+  - first:
+      213: 1862210648894100476
+    second: tinyFont.texture_96
+  - first:
+      213: -5277941185213827725
+    second: tinyFont.texture_97
+  - first:
+      213: 752003251460483368
+    second: tinyFont.texture_98
+  - first:
+      213: -5683258171399759054
+    second: tinyFont.texture_99
+  - first:
+      213: -6387493093211007810
+    second: tinyFont.texture_100
+  - first:
+      213: -5108196224393055977
+    second: tinyFont.texture_101
+  - first:
+      213: -8785083881336616444
+    second: tinyFont.texture_102
+  - first:
+      213: -6924823309344139903
+    second: tinyFont.texture_103
+  - first:
+      213: -7649370815684829367
+    second: tinyFont.texture_104
+  - first:
+      213: -6728762469770982054
+    second: tinyFont.texture_105
+  - first:
+      213: -6315546101433532048
+    second: tinyFont.texture_106
+  - first:
+      213: 6639691739641613550
+    second: tinyFont.texture_107
+  - first:
+      213: -2220122416389325565
+    second: tinyFont.texture_108
+  - first:
+      213: 5927894211616785020
+    second: tinyFont.texture_109
+  - first:
+      213: -5113603650265783982
+    second: tinyFont.texture_110
+  - first:
+      213: -3609700372381882132
+    second: tinyFont.texture_111
+  - first:
+      213: -7915092673549928687
+    second: tinyFont.texture_112
+  - first:
+      213: -1561416802859554675
+    second: tinyFont.texture_113
+  - first:
+      213: -3840122912874921543
+    second: tinyFont.texture_114
+  - first:
+      213: 3413854856475031459
+    second: tinyFont.texture_115
+  - first:
+      213: -2807033210939098855
+    second: tinyFont.texture_116
+  - first:
+      213: -8626664864787734023
+    second: tinyFont.texture_117
+  - first:
+      213: 4403754200394038038
+    second: tinyFont.texture_118
+  - first:
+      213: 9117684568595078929
+    second: tinyFont.texture_119
+  - first:
+      213: -6225544710889786184
+    second: tinyFont.texture_120
+  - first:
+      213: 259042343208626539
+    second: tinyFont.texture_121
+  - first:
+      213: 3695039911651588737
+    second: tinyFont.texture_122
+  - first:
+      213: -7787836524778678203
+    second: tinyFont.texture_123
+  - first:
+      213: -5372042577862526536
+    second: tinyFont.texture_124
+  - first:
+      213: 7224221238035436332
+    second: tinyFont.texture_125
+  - first:
+      213: -2065922128262693719
+    second: tinyFont.texture_126
+  - first:
+      213: 2313841651084466426
+    second: tinyFont.texture_127
+  - first:
+      213: 5264807691039161516
+    second: tinyFont.texture_128
+  - first:
+      213: 7958719125076775852
+    second: tinyFont.texture_129
+  - first:
+      213: -4305266265053027881
+    second: tinyFont.texture_130
+  - first:
+      213: 4521120842656237135
+    second: tinyFont.texture_131
+  - first:
+      213: 6526384483940764632
+    second: tinyFont.texture_132
+  - first:
+      213: -7249405315021133113
+    second: tinyFont.texture_133
+  - first:
+      213: 3231823689702185984
+    second: tinyFont.texture_134
+  - first:
+      213: 7137798725041157536
+    second: tinyFont.texture_135
+  - first:
+      213: 4260504670983145902
+    second: tinyFont.texture_136
+  - first:
+      213: 5012508304145361055
+    second: tinyFont.texture_137
+  - first:
+      213: -4714804804411514753
+    second: tinyFont.texture_138
+  - first:
+      213: -5424030810265095244
+    second: tinyFont.texture_139
+  - first:
+      213: -2621272244750519599
+    second: tinyFont.texture_140
+  - first:
+      213: -4765246800391500548
+    second: tinyFont.texture_141
+  - first:
+      213: 2043979392878662375
+    second: tinyFont.texture_142
+  - first:
+      213: -2925582533369705654
+    second: tinyFont.texture_143
+  - first:
+      213: -394397592490463216
+    second: tinyFont.texture_144
+  - first:
+      213: 940854428477838423
+    second: tinyFont.texture_145
+  - first:
+      213: 5659516289199054661
+    second: tinyFont.texture_146
+  - first:
+      213: 6716911682400808577
+    second: tinyFont.texture_147
+  - first:
+      213: -4503916722276694244
+    second: tinyFont.texture_148
+  - first:
+      213: 7980696856743340100
+    second: tinyFont.texture_149
+  - first:
+      213: -8614507952112107771
+    second: tinyFont.texture_150
+  - first:
+      213: 3235682320863276591
+    second: tinyFont.texture_151
+  - first:
+      213: -1589831432896123074
+    second: tinyFont.texture_152
+  - first:
+      213: -2954460507645586168
+    second: tinyFont.texture_153
+  - first:
+      213: -4601387834209960932
+    second: tinyFont.texture_154
+  - first:
+      213: 262416343898452460
+    second: tinyFont.texture_155
+  - first:
+      213: -3656066501317916862
+    second: tinyFont.texture_156
+  - first:
+      213: 3754719753478288528
+    second: tinyFont.texture_157
+  - first:
+      213: 5572470310180824088
+    second: tinyFont.texture_158
+  - first:
+      213: -8002465598649368789
+    second: tinyFont.texture_159
+  - first:
+      213: -4377757235637027770
+    second: tinyFont.texture_160
+  - first:
+      213: 4208846324941403171
+    second: tinyFont.texture_161
+  - first:
+      213: 3864168399057957953
+    second: tinyFont.texture_162
+  - first:
+      213: 7379505100237317700
+    second: tinyFont.texture_163
+  - first:
+      213: -4897282335903548912
+    second: tinyFont.texture_164
+  - first:
+      213: 8643157059633752672
+    second: tinyFont.texture_165
+  - first:
+      213: -1377773047600394034
+    second: tinyFont.texture_166
+  - first:
+      213: -5784121996228649684
+    second: tinyFont.texture_167
+  - first:
+      213: -6623147722562660361
+    second: tinyFont.texture_168
+  - first:
+      213: -4410951904802972320
+    second: tinyFont.texture_169
+  - first:
+      213: -5104536483994904478
+    second: tinyFont.texture_170
+  - first:
+      213: -1554577492069443375
+    second: tinyFont.texture_171
+  - first:
+      213: 6803033991377053205
+    second: tinyFont.texture_172
+  - first:
+      213: 2423333062156487607
+    second: tinyFont.texture_173
+  - first:
+      213: 3404279208601398511
+    second: tinyFont.texture_174
+  - first:
+      213: -7726982788671444082
+    second: tinyFont.texture_175
+  - first:
+      213: 4734600625839789458
+    second: tinyFont.texture_176
+  - first:
+      213: -1522470726077515043
+    second: tinyFont.texture_177
+  - first:
+      213: -5518747752952865441
+    second: tinyFont.texture_178
+  - first:
+      213: 8734693735876279472
+    second: tinyFont.texture_179
+  - first:
+      213: 8154921328454930296
+    second: tinyFont.texture_180
+  - first:
+      213: 1794019377683465391
+    second: tinyFont.texture_181
+  - first:
+      213: -3779263655348940306
+    second: tinyFont.texture_182
+  - first:
+      213: 5322818990802352940
+    second: tinyFont.texture_183
+  - first:
+      213: -5571577683351267544
+    second: tinyFont.texture_184
+  - first:
+      213: -3681338983488043817
+    second: tinyFont.texture_185
+  - first:
+      213: -2063724109589660671
+    second: tinyFont.texture_186
+  - first:
+      213: 5598258938948503242
+    second: tinyFont.texture_187
+  - first:
+      213: -587563551591903668
+    second: tinyFont.texture_188
+  - first:
+      213: 2375225203347014115
+    second: tinyFont.texture_189
+  - first:
+      213: -3741016040972291715
+    second: tinyFont.texture_190
+  - first:
+      213: 281497714280408362
+    second: tinyFont.texture_191
+  - first:
+      213: 7115908262050341107
+    second: tinyFont.texture_192
+  - first:
+      213: 6869612165089057264
+    second: tinyFont.texture_193
+  - first:
+      213: -2859786952554299061
+    second: tinyFont.texture_194
+  - first:
+      213: 3070999529473725347
+    second: tinyFont.texture_195
+  - first:
+      213: 2474866908047978865
+    second: tinyFont.texture_196
+  - first:
+      213: 9092978151460071145
+    second: tinyFont.texture_197
+  - first:
+      213: -2736201820905924722
+    second: tinyFont.texture_198
+  - first:
+      213: -3923362616572395182
+    second: tinyFont.texture_199
+  - first:
+      213: -5832251943687922374
+    second: tinyFont.texture_200
+  - first:
+      213: -1307270498302498901
+    second: tinyFont.texture_201
+  - first:
+      213: -4388029831762660620
+    second: tinyFont.texture_202
+  - first:
+      213: -8714453855226118131
+    second: tinyFont.texture_203
+  - first:
+      213: 4001669297864081490
+    second: tinyFont.texture_204
+  - first:
+      213: -3566377081037576423
+    second: tinyFont.texture_205
+  - first:
+      213: 848211104345260469
+    second: tinyFont.texture_206
+  - first:
+      213: 3446295064136453163
+    second: tinyFont.texture_207
+  - first:
+      213: -4164137780065365100
+    second: tinyFont.texture_208
+  - first:
+      213: -8620381133535613236
+    second: tinyFont.texture_209
+  - first:
+      213: -8699574146701457029
+    second: tinyFont.texture_210
+  - first:
+      213: -1402873274173077027
+    second: tinyFont.texture_211
+  - first:
+      213: 3342056083547060377
+    second: tinyFont.texture_212
+  - first:
+      213: 7570902220978746194
+    second: tinyFont.texture_213
+  - first:
+      213: 1760593092677961738
+    second: tinyFont.texture_214
+  - first:
+      213: 9057938195504153356
+    second: tinyFont.texture_215
+  - first:
+      213: -1437309999320392767
+    second: tinyFont.texture_216
+  - first:
+      213: 907691841336756433
+    second: tinyFont.texture_217
+  - first:
+      213: 854731237392345493
+    second: tinyFont.texture_218
+  - first:
+      213: 250361179585411843
+    second: tinyFont.texture_219
+  - first:
+      213: -5554661415817427082
+    second: tinyFont.texture_220
+  - first:
+      213: 3454197951836783746
+    second: tinyFont.texture_221
+  - first:
+      213: -9036244713158473497
+    second: tinyFont.texture_222
+  - first:
+      213: -4858000713115719546
+    second: tinyFont.texture_223
+  - first:
+      213: 6568746068452494038
+    second: tinyFont.texture_224
+  - first:
+      213: -1545830131757644218
+    second: tinyFont.texture_225
+  - first:
+      213: 5329416667641092061
+    second: tinyFont.texture_226
+  - first:
+      213: -6686034722526600286
+    second: tinyFont.texture_227
+  - first:
+      213: -353354086125342998
+    second: tinyFont.texture_228
+  - first:
+      213: 397878274052833703
+    second: tinyFont.texture_229
+  - first:
+      213: -8468800638802352849
+    second: tinyFont.texture_230
+  - first:
+      213: -8339566948961476908
+    second: tinyFont.texture_231
+  - first:
+      213: -2643380848957391062
+    second: tinyFont.texture_232
+  - first:
+      213: -6493711632166288076
+    second: tinyFont.texture_233
+  - first:
+      213: 7800679011406715355
+    second: tinyFont.texture_234
+  - first:
+      213: 5537617691929534981
+    second: tinyFont.texture_235
+  - first:
+      213: -1698450827629828014
+    second: tinyFont.texture_236
+  - first:
+      213: -4463509893915361188
+    second: tinyFont.texture_237
+  - first:
+      213: -7294326212787120468
+    second: tinyFont.texture_238
+  - first:
+      213: 7234211641361208829
+    second: tinyFont.texture_239
+  - first:
+      213: 6963572078807347993
+    second: tinyFont.texture_240
+  - first:
+      213: 1007294251668903071
+    second: tinyFont.texture_241
+  - first:
+      213: 6831346528157628051
+    second: tinyFont.texture_242
+  - first:
+      213: 9117705455627765735
+    second: tinyFont.texture_243
+  - first:
+      213: 8429882713794454270
+    second: tinyFont.texture_244
+  - first:
+      213: 6953925223836655483
+    second: tinyFont.texture_245
+  - first:
+      213: 4795634570365271036
+    second: tinyFont.texture_246
+  - first:
+      213: 2465963519382157915
+    second: tinyFont.texture_247
+  - first:
+      213: -1450015340395916584
+    second: tinyFont.texture_248
+  - first:
+      213: -1257654059097711151
+    second: tinyFont.texture_249
+  - first:
+      213: -8593848307957328925
+    second: tinyFont.texture_250
+  - first:
+      213: -7633692447513631922
+    second: tinyFont.texture_251
+  - first:
+      213: 7993922532821224139
+    second: tinyFont.texture_252
+  - first:
+      213: -7064707369087585381
+    second: tinyFont.texture_253
+  - first:
+      213: -4861198111206405177
+    second: tinyFont.texture_254
+  - first:
+      213: 4635515355229684271
+    second: tinyFont.texture_255
+  - first:
+      213: -6281534856553299076
+    second: tinyFont.texture_256
+  - first:
+      213: -5351866823017080488
+    second: tinyFont.texture_257
+  - first:
+      213: 2154614982690631517
+    second: tinyFont.texture_258
+  - first:
+      213: -8023983746326981757
+    second: tinyFont.texture_259
+  - first:
+      213: 8578260569871160174
+    second: tinyFont.texture_260
+  - first:
+      213: 2366122732463620726
+    second: tinyFont.texture_261
+  - first:
+      213: -7917544057487757754
+    second: tinyFont.texture_262
+  - first:
+      213: -1430177277637405917
+    second: tinyFont.texture_263
+  - first:
+      213: 4945786526846336649
+    second: tinyFont.texture_264
+  - first:
+      213: -1815320010318970702
+    second: tinyFont.texture_265
+  - first:
+      213: 136840119818411833
+    second: tinyFont.texture_266
+  - first:
+      213: 4595910630576212649
+    second: tinyFont.texture_267
+  - first:
+      213: -8250061180488784929
+    second: tinyFont.texture_268
+  - first:
+      213: -624489473168126592
+    second: tinyFont.texture_269
+  - first:
+      213: -4528879084932995699
+    second: tinyFont.texture_270
+  - first:
+      213: -2292324728377397530
+    second: tinyFont.texture_271
+  - first:
+      213: 6758767116924744471
+    second: tinyFont.texture_272
+  - first:
+      213: 2975554596204709751
+    second: tinyFont.texture_273
+  - first:
+      213: 6769543473919596508
+    second: tinyFont.texture_274
+  - first:
+      213: 8897332166076069951
+    second: tinyFont.texture_275
+  - first:
+      213: -1667184224342901362
+    second: tinyFont.texture_276
+  - first:
+      213: -7317683655585953940
+    second: tinyFont.texture_277
+  - first:
+      213: 5133460404153415146
+    second: tinyFont.texture_278
+  - first:
+      213: -8063602619309191388
+    second: tinyFont.texture_279
+  - first:
+      213: 2266436874328588563
+    second: tinyFont.texture_280
+  - first:
+      213: 2397521717036581209
+    second: tinyFont.texture_281
+  - first:
+      213: -8045766121736013487
+    second: tinyFont.texture_282
+  - first:
+      213: -2683813429730511563
+    second: tinyFont.texture_283
+  - first:
+      213: -8293528722987307749
+    second: tinyFont.texture_284
+  - first:
+      213: 4312305057190919672
+    second: tinyFont.texture_285
+  - first:
+      213: 8850507874527674720
+    second: tinyFont.texture_286
+  - first:
+      213: -6189222475428975408
+    second: tinyFont.texture_287
+  - first:
+      213: 8634537554193390862
+    second: tinyFont.texture_288
+  - first:
+      213: -2046530841620004629
+    second: tinyFont.texture_289
+  - first:
+      213: -2396965457760500412
+    second: tinyFont.texture_290
+  - first:
+      213: -3004539948766591371
+    second: tinyFont.texture_291
+  - first:
+      213: -5151836954190837942
+    second: tinyFont.texture_292
+  - first:
+      213: -135307302358296290
+    second: tinyFont.texture_293
+  - first:
+      213: -6913946407787973547
+    second: tinyFont.texture_294
+  - first:
+      213: -1629007893023656695
+    second: tinyFont.texture_295
+  - first:
+      213: -3558651726557375407
+    second: tinyFont.texture_296
+  - first:
+      213: -3528436541035662363
+    second: tinyFont.texture_297
+  - first:
+      213: 4194814651218033605
+    second: tinyFont.texture_298
+  - first:
+      213: 383706544463742379
+    second: tinyFont.texture_299
+  - first:
+      213: -2029086303390778652
+    second: tinyFont.texture_300
+  - first:
+      213: -5727126643342099112
+    second: tinyFont.texture_301
+  - first:
+      213: -3946341426410211595
+    second: tinyFont.texture_302
+  - first:
+      213: 4692004468884313039
+    second: tinyFont.texture_303
+  - first:
+      213: 4934123074464801976
+    second: tinyFont.texture_304
+  - first:
+      213: 870960466303417640
+    second: tinyFont.texture_305
+  - first:
+      213: 5866229805648673429
+    second: tinyFont.texture_306
+  - first:
+      213: -7855692759605898278
+    second: tinyFont.texture_307
+  - first:
+      213: 1686359830229786020
+    second: tinyFont.texture_308
+  - first:
+      213: 3335513645036965011
+    second: tinyFont.texture_309
+  - first:
+      213: -7512063840685122426
+    second: tinyFont.texture_310
+  - first:
+      213: -1856750268897654125
+    second: tinyFont.texture_311
+  - first:
+      213: -2463595335344391474
+    second: tinyFont.texture_312
+  - first:
+      213: -2430365593303445505
+    second: tinyFont.texture_313
+  - first:
+      213: 8232251751760783480
+    second: tinyFont.texture_314
+  - first:
+      213: 5782199242281188333
+    second: tinyFont.texture_315
+  - first:
+      213: -3996177617243578637
+    second: tinyFont.texture_316
+  - first:
+      213: 3874831402684384173
+    second: tinyFont.texture_317
+  - first:
+      213: 4220400461944046577
+    second: tinyFont.texture_318
+  - first:
+      213: 3639421679581188936
+    second: tinyFont.texture_319
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tinyFont.texture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a107dc1e2c4a7d0800000000000000
+      internalID: -2907985184304391664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 173
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825b28ad5e2453ee0800000000000000
+      internalID: -1282044963936094936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2072c1d4f0dd9abc0800000000000000
+      internalID: -3771240155158141182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 158
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d64843ea3e321430800000000000000
+      internalID: 3752129862195234515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 158
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e94d96ed7bf1930800000000000000
+      internalID: 4116210750326087278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 158
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c97c1a1592c4550800000000000000
+      internalID: 6146333022037187679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 158
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37696b5cdbe0e34b0800000000000000
+      internalID: -5458909490097777037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 158
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fab5be37003574b0800000000000000
+      internalID: -5443391766932374799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 158
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70990fca7267490800000000000000
+      internalID: -7748962485119940687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 158
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543bce2ce7ce7c2f0800000000000000
+      internalID: -952532766985243835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 185
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c81c407f59510b0800000000000000
+      internalID: -5758531660354057215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 186
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09b54755ef0b070800000000000000
+      internalID: 8120269771126837498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 158
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400a55a2ac18fa170800000000000000
+      internalID: 8191908952503853060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 158
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21dcff7161aa5060800000000000000
+      internalID: 6943039215676215595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_14
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 158
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abda73e11f9b5ba0800000000000000
+      internalID: -6099106371163464796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 158
+        width: 10
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef968b142b57d8710800000000000000
+      internalID: 1697142043055778302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_16
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 131
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c6a4abc21451790800000000000000
+      internalID: -7560064739111703541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 158
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652663edc2e316660800000000000000
+      internalID: 7377246027037172310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 158
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46df01de1f8509710800000000000000
+      internalID: 1697954855606353252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab94ba26a1036fc10800000000000000
+      internalID: 2086908367215479226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 151
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99a29ba2de36a320800000000000000
+      internalID: 2568809712004016538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_21
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 158
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cebf92c780c95910800000000000000
+      internalID: 1826702813193813696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_22
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9e5d400b5d497f0800000000000000
+      internalID: -606625097816086076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_23
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e7a23a2762fe1b0800000000000000
+      internalID: -5625235135756861881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 161
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f4c80149ab88850800000000000000
+      internalID: 6379554017265864479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_25
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523ad2d83d56d1c60800000000000000
+      internalID: 7790494889701909285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 186
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501b55a2cf56c8f20800000000000000
+      internalID: 3426225550238527749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_27
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24fd0797115a1770800000000000000
+      internalID: 8582261201668273195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 161
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37312952b73444920800000000000000
+      internalID: 2973575850161738611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_29
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 161
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc9390f446b1faa0800000000000000
+      internalID: -6128917210664297261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_30
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 161
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baa48da3a75010c0800000000000000
+      internalID: -4607086058297578831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_31
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 161
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f756864eecfcad0800000000000000
+      internalID: -2679695772862808246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aedd7866a4e58240800000000000000
+      internalID: 4793488781774544548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f20cc946940ea0800000000000000
+      internalID: -5907431567503724198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 156
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5e78c6da66ca160800000000000000
+      internalID: 7038113212709463551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_35
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c44f601cf0e73f90800000000000000
+      internalID: -6973858124747815742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 156
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cb75d6b6e90de30800000000000000
+      internalID: 4526291809740504137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_37
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 158
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dde9997b91afc90800000000000000
+      internalID: -7135362383268094677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 158
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccbdf93cd1600630800000000000000
+      internalID: 3891217676541738177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_39
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 158
+        width: 9
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc74dffb203b230800000000000000
+      internalID: 3653266746338954032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224214b1627cb8740800000000000000
+      internalID: 5155433164935603234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_41
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ccccabf9bfeaba0800000000000000
+      internalID: -6075642183823864724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_42
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 154
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e445142f6f7b31e30800000000000000
+      internalID: 4473121126163240014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 130
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e931ef51f690da670800000000000000
+      internalID: 8551501640161432478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_44
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac59f48a4abc920800000000000000
+      internalID: 3011681818623986309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_45
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 130
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c4eb20b8d289d0800000000000000
+      internalID: -2773416169344547348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 130
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db783e4404085e0800000000000000
+      internalID: -1909455577385812660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_47
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 130
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7747f40394f4aa0800000000000000
+      internalID: -6174636092261369926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_48
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 130
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809a21af56a6933d0800000000000000
+      internalID: -3226430671814481656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_49
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a22830fb3cec050800000000000000
+      internalID: 5822806593401662097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_50
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f2a34ba77348180800000000000000
+      internalID: -9114098745741791426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_51
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 154
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3aafbb16a4d05570800000000000000
+      internalID: 8453490310469626430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_52
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38b1507b76041600800000000000000
+      internalID: 437982190996928574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_53
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30be9c5a6119c5e0800000000000000
+      internalID: -1888959420187103172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0330ef7981c5dc360800000000000000
+      internalID: 7191505440679527216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82273dcc2f6e970800000000000000
+      internalID: 8783975084767455482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 127
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9895ac5f09107c90800000000000000
+      internalID: -7174206652631639909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 151
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190d5e16c0f06ec10800000000000000
+      internalID: 2082368423561908369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_58
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 127
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc9c7466696b9a0800000000000000
+      internalID: -6217616869503152989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00a80f2d522507f0800000000000000
+      internalID: -647073187841400818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_60
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 127
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbe4401ceae48910800000000000000
+      internalID: 1838852847480138676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 127
+        width: 8
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac879b7e99d64540800000000000000
+      internalID: 4991916511688363170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_62
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 128
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81bf5aa70dffdfa0800000000000000
+      internalID: -5773617987900690036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_63
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 128
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f990acad84072c0800000000000000
+      internalID: -4435965528430239992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_64
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 128
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d20d2a35df3411a0800000000000000
+      internalID: -6839771749032328487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_65
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfed222f9170cff0800000000000000
+      internalID: -17889470222307408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 128
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fbc22c3cea4c2b0800000000000000
+      internalID: -5565131083723522156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_67
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 131
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f8247c6edc4ef0800000000000000
+      internalID: -122478532459171767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_68
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 131
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04dd1b5eaab3dfa0800000000000000
+      internalID: -5777068638970457073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_69
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 131
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bb5557202c580c0800000000000000
+      internalID: -4574036530710594715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_70
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 131
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceebdd6853feaf30800000000000000
+      internalID: 4588872631462915791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_71
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 131
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269a98e56e19701c0800000000000000
+      internalID: -4537497680937899678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_72
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ba3d70437a7f570800000000000000
+      internalID: 8500446663596551044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_73
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbea3f96265b2df0800000000000000
+      internalID: -203974634235040814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_74
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 130
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa36c191fc9bf6720800000000000000
+      internalID: 2841694189024732079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_75
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 130
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4792e46b781100710800000000000000
+      internalID: 1657343937449175412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_76
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 130
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc85da38e3de8580800000000000000
+      internalID: -8822881625599275840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_77
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 130
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee764fa0577a524a0800000000000000
+      internalID: -6618699956214274066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_78
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 130
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e9b4a3bd7997260800000000000000
+      internalID: 7095869655730593365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730d2d52461c5360800000000000000
+      internalID: 7159621981899129717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_80
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 132
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7882a856e57b01cb0800000000000000
+      internalID: -4895211178893367161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_81
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb2333d021bb5340800000000000000
+      internalID: 4853667777962257399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 101
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d32e07f3e24ab850800000000000000
+      internalID: 6393496167875748817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_83
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00adac33e16af47a0800000000000000
+      internalID: -6390706697567282688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_84
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 121
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075a1c1b7443d7600800000000000000
+      internalID: 467587418845980016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_85
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 102
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94fcdb4d06934bf0800000000000000
+      internalID: -341264162898512742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_86
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 102
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c265f09a3ce481410800000000000000
+      internalID: 1447993882461558316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_87
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 102
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0944c6b735345370800000000000000
+      internalID: 8310325725811198221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_88
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 104
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02f110c31beaabd0800000000000000
+      internalID: -2618021763303214577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_89
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 104
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766ba1d2d6c973380800000000000000
+      internalID: -8991546138299812249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_90
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 105
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8f87142bd2ea780800000000000000
+      internalID: -8669941989015750415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fe8c03fecce4ce0800000000000000
+      internalID: -1418971504887402673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_92
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 105
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c674938e9c5726b0800000000000000
+      internalID: -5321182598832818489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_93
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 104
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0cfcc61f77bfea0800000000000000
+      internalID: -5837940613159337770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_94
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 115
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79bd02468bf54590800000000000000
+      internalID: -7690464234612868740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_95
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 104
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e46cc9be5637720800000000000000
+      internalID: 2842727852422876719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_96
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 115
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3584008b6e7d910800000000000000
+      internalID: 1862210648894100476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_97
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 104
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375fceda47cf0c6b0800000000000000
+      internalID: -5277941185213827725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_98
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 115
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829ad3119f6af6a00800000000000000
+      internalID: 752003251460483368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_99
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 104
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b91e6edc20121b0800000000000000
+      internalID: -5683258171399759054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_100
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb495e5cfd01b57a0800000000000000
+      internalID: -6387493093211007810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_101
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 104
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7117f0a299a0c19b0800000000000000
+      internalID: -5108196224393055977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_102
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 115
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40acbea51cc151680800000000000000
+      internalID: -8785083881336616444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_103
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 104
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859232b3e516ef90800000000000000
+      internalID: -6924823309344139903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_104
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 123
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f9ddf65c9f7d590800000000000000
+      internalID: -7649370815684829367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_105
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 104
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d025b2f22ae92a0800000000000000
+      internalID: -6728762469770982054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 102
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071837d284caa58a0800000000000000
+      internalID: -6315546101433532048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 79
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec0f67657ce42c50800000000000000
+      internalID: 6639691739641613550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_108
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 79
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d7b3dcc6a8031e0800000000000000
+      internalID: -2220122416389325565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_109
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 105
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72438dc06c144250800000000000000
+      internalID: 5927894211616785020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_110
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 79
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25164c7b294d809b0800000000000000
+      internalID: -5113603650265783982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_111
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 105
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce82596e2a4c7edc0800000000000000
+      internalID: -3609700372381882132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_112
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 79
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11772cc3621f72290800000000000000
+      internalID: -7915092673549928687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_113
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 104
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88ea37c0bbb45ae0800000000000000
+      internalID: -1561416802859554675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_114
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 104
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1804c7e8425bac0800000000000000
+      internalID: -3840122912874921543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_115
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 104
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7bfe297e2706f20800000000000000
+      internalID: 3413854856475031459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_116
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 104
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919304dba2a6b09d0800000000000000
+      internalID: -2807033210939098855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_117
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1ebf1f20ee74880800000000000000
+      internalID: -8626664864787734023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_118
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 75
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bfe98fc174d1d30800000000000000
+      internalID: 4403754200394038038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_119
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 94
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f9b2dbec5888e70800000000000000
+      internalID: 9117684568595078929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_120
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 77
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b43a1ed11c6a99a0800000000000000
+      internalID: -6225544710889786184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_121
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b692cb083ad489300800000000000000
+      internalID: 259042343208626539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_122
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 76
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a32e4f83b674330800000000000000
+      internalID: 3695039911651588737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_123
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54811c341fb0ce390800000000000000
+      internalID: -7787836524778678203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_124
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9fa3cdcbba275b0800000000000000
+      internalID: -5372042577862526536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_125
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c235fefb0f6914460800000000000000
+      internalID: 7224221238035436332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_126
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac784325ce5453e0800000000000000
+      internalID: -2065922128262693719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_127
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 98
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8946fe8ba6c1020800000000000000
+      internalID: 2313841651084466426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac322b63ba501940800000000000000
+      internalID: 5264807691039161516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_129
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca31f4d80ec037e60800000000000000
+      internalID: 7958719125076775852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_130
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1aa08642f9044c0800000000000000
+      internalID: -4305266265053027881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_131
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c325d37f3ebe30800000000000000
+      internalID: 4521120842656237135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_132
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db09e02c10629a50800000000000000
+      internalID: 6526384483940764632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_133
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 78
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca26556640f46b90800000000000000
+      internalID: -7249405315021133113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_134
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 78
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c1469d58eb9dc20800000000000000
+      internalID: 3231823689702185984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_135
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 78
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5705c6f1e8e0360800000000000000
+      internalID: 7137798725041157536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_136
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 78
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9c7d5dc6a502b30800000000000000
+      internalID: 4260504670983145902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_137
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 78
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98a746ceb1009540800000000000000
+      internalID: 5012508304145361055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_138
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 78
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f702fbfa206a19eb0800000000000000
+      internalID: -4714804804411514753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_139
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 69
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3ff5f37b8f9b4b0800000000000000
+      internalID: -5424030810265095244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_140
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 82
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2fd0018ce5f9bd0800000000000000
+      internalID: -2621272244750519599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_141
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 79
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc099b48417eddb0800000000000000
+      internalID: -4765246800391500548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e250c8ad6cad5c10800000000000000
+      internalID: 2043979392878662375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_143
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 68
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b4961bf2e3667d0800000000000000
+      internalID: -2925582533369705654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_144
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 55
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010365faa71d68af0800000000000000
+      internalID: -394397592490463216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_145
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 50
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75456ca2e169e0d00800000000000000
+      internalID: 940854428477838423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_146
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f1f326414aa8e40800000000000000
+      internalID: 5659516289199054661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_147
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 50
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18eeb216693473d50800000000000000
+      internalID: 6716911682400808577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_148
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1781c69a9fde71c0800000000000000
+      internalID: -4503916722276694244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_149
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4486346f18121ce60800000000000000
+      internalID: 7980696856743340100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_150
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 70
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f749fb8ae137880800000000000000
+      internalID: -8614507952112107771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_151
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e211d6de377ec20800000000000000
+      internalID: 3235682320863276591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_152
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 52
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fe97d2cb8cfe9e0800000000000000
+      internalID: -1589831432896123074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_153
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 72
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8055dda52d5aff6d0800000000000000
+      internalID: -2954460507645586168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_154
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 72
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c7c1cd4269420c0800000000000000
+      internalID: -4601387834209960932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_155
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 73
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1f251464a44a300800000000000000
+      internalID: 262416343898452460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_156
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 53
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478db143ea034dc0800000000000000
+      internalID: -3656066501317916862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_157
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0943731f8b17b1430800000000000000
+      internalID: 3754719753478288528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_158
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 71
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8142dbf0934655d40800000000000000
+      internalID: 5572470310180824088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_159
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 72
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f7839dfe781f090800000000000000
+      internalID: -8002465598649368789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_160
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 52
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c75f01df41f33c0800000000000000
+      internalID: -4377757235637027770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_161
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 52
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3243750ee63d86a30800000000000000
+      internalID: 4208846324941403171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_162
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 52
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144b32a8fa840a530800000000000000
+      internalID: 3864168399057957953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_163
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 52
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44624d55ac4496660800000000000000
+      internalID: 7379505100237317700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_164
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 52
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a7ca399ab590cb0800000000000000
+      internalID: -4897282335903548912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_165
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a21656d89a2f770800000000000000
+      internalID: 8643157059633752672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_166
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 71
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0dba486ba21ece0800000000000000
+      internalID: -1377773047600394034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_167
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 71
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9445a0bbaabfa0800000000000000
+      internalID: -5784121996228649684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_168
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 72
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f717bdbc3ad514a0800000000000000
+      internalID: -6623147722562660361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_169
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dd2e0ec9629c2c0800000000000000
+      internalID: -4410951904802972320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_170
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 52
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2685670ec1b0929b0800000000000000
+      internalID: -5104536483994904478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_171
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d81269e1080d6ae0800000000000000
+      internalID: -1554577492069443375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 49
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516efe20f5b396e50800000000000000
+      internalID: 6803033991377053205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_173
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 49
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb0c46a49861a120800000000000000
+      internalID: 2423333062156487607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_174
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec2fe057ed6e3f20800000000000000
+      internalID: 3404279208601398511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_175
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 50
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b6eafc71e34c490800000000000000
+      internalID: -7726982788671444082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_176
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 50
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295d5882f2ea4b140800000000000000
+      internalID: 4734600625839789458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_177
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddaf737e0f81fdae0800000000000000
+      internalID: -1522470726077515043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_178
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 52
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d524488287963b0800000000000000
+      internalID: -5518747752952865441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_179
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc3cb4acadd73970800000000000000
+      internalID: 8734693735876279472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_180
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f00d9ddb91c2170800000000000000
+      internalID: 8154921328454930296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_181
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa48dfe6e13a5e810800000000000000
+      internalID: 1794019377683465391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_182
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1d1669abb5d8bc0800000000000000
+      internalID: -3779263655348940306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_183
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 27
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b3a7eaba37ed940800000000000000
+      internalID: 5322818990802352940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_184
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 47
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8279a51dd97cda2b0800000000000000
+      internalID: -5571577683351267544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_185
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 27
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c567f2b149ecc0800000000000000
+      internalID: -3681338983488043817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_186
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cbf7d3bdd2c53e0800000000000000
+      internalID: -2063724109589660671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_187
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 47
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64ea818d201bd40800000000000000
+      internalID: 5598258938948503242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_188
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 47
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec568101e88d7f0800000000000000
+      internalID: -587563551591903668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_189
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 29
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1cd0becbe76f020800000000000000
+      internalID: 2375225203347014115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_190
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71fec24bbd351cc0800000000000000
+      internalID: -3741016040972291715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_191
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 29
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a4c00ea418e300800000000000000
+      internalID: 281497714280408362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_192
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 52
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f027c5dcd8c0c260800000000000000
+      internalID: 7115908262050341107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_193
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 52
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d5dc0ed3c55f50800000000000000
+      internalID: 6869612165089057264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_194
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 52
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4144bf1beeff48d0800000000000000
+      internalID: -2859786952554299061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_195
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 52
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a35cab1dc16e9a20800000000000000
+      internalID: 3070999529473725347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_196
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 52
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171b198275e785220800000000000000
+      internalID: 2474866908047978865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_197
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 52
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e66a2cb37fb03e70800000000000000
+      internalID: 9092978151460071145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_198
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 52
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87102fd0fe070ad0800000000000000
+      internalID: -2736201820905924722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_199
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251c722bc7a6d89c0800000000000000
+      internalID: -3923362616572395182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_200
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 30
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d56eff1cdaf0fa0800000000000000
+      internalID: -5832251943687922374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_201
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7e4537864abdde0800000000000000
+      internalID: -1307270498302498901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_202
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 26
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f238f5ed169a13c0800000000000000
+      internalID: -4388029831762660620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_203
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 26
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00c6bbc36a001780800000000000000
+      internalID: -8714453855226118131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_204
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 26
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25086cf4609c88730800000000000000
+      internalID: 4001669297864081490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_205
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91729a5b0fea18ec0800000000000000
+      internalID: -3566377081037576423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_206
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 28
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b18a01618375cb00800000000000000
+      internalID: 848211104345260469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_207
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 30
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c09010a13b3df20800000000000000
+      internalID: 3446295064136453163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_208
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 31
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4939b6760c20636c0800000000000000
+      internalID: -4164137780065365100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_209
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce612328014e5880800000000000000
+      internalID: -8620381133535613236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_210
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 28
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7900b8e767e44780800000000000000
+      internalID: -8699574146701457029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_211
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9460c903ef78ce0800000000000000
+      internalID: -1402873274173077027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_212
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 27
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998714f0d4e516e20800000000000000
+      internalID: 3342056083547060377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_213
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 27
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25377a6257f311960800000000000000
+      internalID: 7570902220978746194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_214
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 28
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08831bf612ee6810800000000000000
+      internalID: 1760593092677961738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_215
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 28
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c77c3cc244bd70800000000000000
+      internalID: 9057938195504153356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_216
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb146abb26ad0ce0800000000000000
+      internalID: -1437309999320392767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c568abe4c89c00800000000000000
+      internalID: 907691841336756433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_218
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5996337288d9cdb00800000000000000
+      internalID: 854731237392345493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_219
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b7cb69a26797300800000000000000
+      internalID: 250361179585411843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_220
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67742a64fd0e9e2b0800000000000000
+      internalID: -5554661415817427082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_221
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2840d1f6cb6cfef20800000000000000
+      internalID: 3454197951836783746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_222
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e800b83f4fc89280800000000000000
+      internalID: -9036244713158473497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_223
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a428171ae49cb0800000000000000
+      internalID: -4858000713115719546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_224
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dacadd1fbfd82b50800000000000000
+      internalID: 6568746068452494038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_225
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6468d717fab1c8ae0800000000000000
+      internalID: -1545830131757644218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_226
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd71bc60934e5f940800000000000000
+      internalID: 5329416667641092061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_227
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3efdf08de6633a0800000000000000
+      internalID: -6686034722526600286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_228
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeee090b452a81bf0800000000000000
+      internalID: -353354086125342998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_229
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1c3c4ae2c858500800000000000000
+      internalID: 397878274052833703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_230
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25a59a40b6c87a80800000000000000
+      internalID: -8468800638802352849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_231
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de109a7b08e34c80800000000000000
+      internalID: -8339566948961476908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_232
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ff2d38f13d05bd0800000000000000
+      internalID: -2643380848957391062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_233
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43508eafca3b1e5a0800000000000000
+      internalID: -6493711632166288076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_234
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91eb92b34914c60800000000000000
+      internalID: 7800679011406715355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_235
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502e06583f199dc40800000000000000
+      internalID: 5537617691929534981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_236
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 28
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258e7a698f3ed68e0800000000000000
+      internalID: -1698450827629828014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50cbb1766d6e02c0800000000000000
+      internalID: -4463509893915361188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_238
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 11
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6d00bd4f855ca90800000000000000
+      internalID: -7294326212787120468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_239
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 11
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df59459c825156460800000000000000
+      internalID: 7234211641361208829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_240
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 13
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913f32d39e393a060800000000000000
+      internalID: 6963572078807347993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_241
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 13
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f949407f8c0aafd00800000000000000
+      internalID: 1007294251668903071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_242
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 14
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396fe6c2971ddce50800000000000000
+      internalID: 6831346528157628051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_243
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 10
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e78551edc8988e70800000000000000
+      internalID: 9117705455627765735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_244
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 10
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2aced2aa5fcf470800000000000000
+      internalID: 8429882713794454270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_245
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 9
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f9969c52e418060800000000000000
+      internalID: 6953925223836655483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_246
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 9
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb743fbb348d8240800000000000000
+      internalID: 4795634570365271036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_247
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 12
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a78d171ccd83220800000000000000
+      internalID: 2465963519382157915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_248
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 14
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d295dcfab280ebe0800000000000000
+      internalID: -1450015340395916584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_249
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 14
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd172deb4aeb8ee0800000000000000
+      internalID: -1257654059097711151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_250
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 9
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e39c9efe748cb880800000000000000
+      internalID: -8593848307957328925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_251
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 4
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e432e5df92daf0690800000000000000
+      internalID: -7633692447513631922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_252
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 10
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaccc2a03e10fe60800000000000000
+      internalID: 7993922532821224139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_253
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 9
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b933377041e15fd90800000000000000
+      internalID: -7064707369087585381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_254
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 9
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0eb6d21e898cb0800000000000000
+      internalID: -4861198111206405177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_255
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f228553d7a8a45040800000000000000
+      internalID: 4635515355229684271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_256
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 9
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7308e6345183d8a0800000000000000
+      internalID: -6281534856553299076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_257
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 10
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8595ed8da795ab5b0800000000000000
+      internalID: -5351866823017080488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_258
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 10
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f620f39eab6ed10800000000000000
+      internalID: 2154614982690631517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_259
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 10
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3831cacab4515a090800000000000000
+      internalID: -8023983746326981757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_260
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 10
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6319e9e98a1c0770800000000000000
+      internalID: 8578260569871160174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_261
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 11
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6728873c61826d020800000000000000
+      internalID: 2366122732463620726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_262
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 11
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eefefe0ab3f1290800000000000000
+      internalID: -7917544057487757754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_263
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 11
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235698e75df62ce0800000000000000
+      internalID: -1430177277637405917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_264
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 11
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98eb69b64a6f2a440800000000000000
+      internalID: 4945786526846336649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_265
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 12
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0874f8110bec6e0800000000000000
+      internalID: -1815320010318970702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_266
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 11
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f5ccc2d5726e100800000000000000
+      internalID: 136840119818411833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_267
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 11
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aacfea4e54f7cf30800000000000000
+      internalID: 4595910630576212649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_268
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 17
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3e9b92115e18d80800000000000000
+      internalID: -8250061180488784929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_269
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dc7d1022e5557f0800000000000000
+      internalID: -624489473168126592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_270
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 13
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d856fdf97703621c0800000000000000
+      internalID: -4528879084932995699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_271
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eea8370ec60030e0800000000000000
+      internalID: -2292324728377397530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_272
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f3e322e6fbcd50800000000000000
+      internalID: 6758767116924744471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_273
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777009cd32b4b4920800000000000000
+      internalID: 2975554596204709751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_274
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd79a864cef32fd50800000000000000
+      internalID: 6769543473919596508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_275
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38fe97077ca97b70800000000000000
+      internalID: 8897332166076069951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_276
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8df7e4f7c8fcd8e0800000000000000
+      internalID: -1667184224342901362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_277
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c670e1a6c7d527a90800000000000000
+      internalID: -7317683655585953940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_278
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5f8121a07bd3740800000000000000
+      internalID: 5133460404153415146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_279
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f8a2af324581090800000000000000
+      internalID: -8063602619309191388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_280
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311c3304450047f10800000000000000
+      internalID: 2266436874328588563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_281
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951004d8c45b54120800000000000000
+      internalID: 2397521717036581209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_282
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1597d003752b75090800000000000000
+      internalID: -8045766121736013487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_283
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5357d75b7ed21cad0800000000000000
+      internalID: -2683813429730511563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_284
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1da7d3419777ec80800000000000000
+      internalID: -8293528722987307749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_285
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd3cf81a9268db30800000000000000
+      internalID: 4312305057190919672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_286
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0610507150253da70800000000000000
+      internalID: 8850507874527674720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_287
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc213453f67b1aa0800000000000000
+      internalID: -6189222475428975408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_288
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9775682a04d770800000000000000
+      internalID: 8634537554193390862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_289
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0cb53ea034993e0800000000000000
+      internalID: -2046530841620004629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_290
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445cd47ad944cbed0800000000000000
+      internalID: -2396965457760500412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_291
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5760c48d5dabd46d0800000000000000
+      internalID: -3004539948766591371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_292
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4789b4f59ff088b0800000000000000
+      internalID: -5151836954190837942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_293
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19da63b9ba4f1ef0800000000000000
+      internalID: -135307302358296290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_294
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554b5bfaf5abc00a0800000000000000
+      internalID: -6913946407787973547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_295
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057400c3f99469e0800000000000000
+      internalID: -1629007893023656695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_296
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1549737fb112d9ec0800000000000000
+      internalID: -3558651726557375407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_297
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3bf0f09a9780fc0800000000000000
+      internalID: -3528436541035662363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_298
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb747043b9f63a30800000000000000
+      internalID: 4194814651218033605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_299
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba501c8b113335500800000000000000
+      internalID: 383706544463742379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_300
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea38c3f1cc37d3e0800000000000000
+      internalID: -2029086303390778652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_301
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d3be759a82580b0800000000000000
+      internalID: -5727126643342099112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_302
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6396c9167cb39c0800000000000000
+      internalID: -3946341426410211595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_303
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3156484395d1140800000000000000
+      internalID: 4692004468884313039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_304
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4688b4bc6897440800000000000000
+      internalID: 4934123074464801976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_305
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d7c67fde5461c00800000000000000
+      internalID: 870960466303417640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_306
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a7f787de8096150800000000000000
+      internalID: 5866229805648673429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_307
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3151f6e09faf290800000000000000
+      internalID: -7855692759605898278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_308
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad9554b457276710800000000000000
+      internalID: 1686359830229786020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_309
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c85e3ecff1a4e20800000000000000
+      internalID: 3335513645036965011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_310
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c18edccb9cfb790800000000000000
+      internalID: -7512063840685122426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_311
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a8eb9c77f7b36e0800000000000000
+      internalID: -1856750268897654125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_312
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecafc7e581d8fcdd0800000000000000
+      internalID: -2463595335344391474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_313
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff01d89e5b954ed0800000000000000
+      internalID: -2430365593303445505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_314
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878e9451a55de3270800000000000000
+      internalID: 8232251751760783480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_315
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 4
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf3b0539f7e3050800000000000000
+      internalID: 5782199242281188333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_316
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe54d831a9ba88c0800000000000000
+      internalID: -3996177617243578637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_317
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3088981aa26c530800000000000000
+      internalID: 3874831402684384173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_318
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3c1180cdfd19a30800000000000000
+      internalID: 4220400461944046577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tinyFont.texture_319
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843da4f2cb2d18230800000000000000
+      internalID: 3639421679581188936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

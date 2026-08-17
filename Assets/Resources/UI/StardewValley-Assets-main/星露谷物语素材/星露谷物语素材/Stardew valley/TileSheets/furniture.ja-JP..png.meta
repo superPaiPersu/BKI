@@ -1,0 +1,2930 @@
+fileFormatVersion: 2
+guid: 9ee1f9d47d1e35f4a81052a6f67a070b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -886607998791313045
+    second: furniture.ja-JP._0
+  - first:
+      213: -3754593408736976056
+    second: furniture.ja-JP._1
+  - first:
+      213: -2162480433103814936
+    second: furniture.ja-JP._2
+  - first:
+      213: -6879476912795478232
+    second: furniture.ja-JP._3
+  - first:
+      213: -8296727119330850831
+    second: furniture.ja-JP._4
+  - first:
+      213: -755025413186905663
+    second: furniture.ja-JP._5
+  - first:
+      213: 1148955004889538960
+    second: furniture.ja-JP._6
+  - first:
+      213: 8539111927910921216
+    second: furniture.ja-JP._7
+  - first:
+      213: -1662286676615962576
+    second: furniture.ja-JP._8
+  - first:
+      213: -5395584327928460495
+    second: furniture.ja-JP._9
+  - first:
+      213: 3978254838618426611
+    second: furniture.ja-JP._10
+  - first:
+      213: -3889532357288209436
+    second: furniture.ja-JP._11
+  - first:
+      213: -4743895519379387315
+    second: furniture.ja-JP._12
+  - first:
+      213: 7855253660056059480
+    second: furniture.ja-JP._13
+  - first:
+      213: -8277630674222078579
+    second: furniture.ja-JP._14
+  - first:
+      213: 7404576060858491823
+    second: furniture.ja-JP._15
+  - first:
+      213: -1347355465106708230
+    second: furniture.ja-JP._16
+  - first:
+      213: -8929011387824575139
+    second: furniture.ja-JP._17
+  - first:
+      213: 4852318297967857168
+    second: furniture.ja-JP._18
+  - first:
+      213: -5249915501018995511
+    second: furniture.ja-JP._19
+  - first:
+      213: 1360264457511245420
+    second: furniture.ja-JP._20
+  - first:
+      213: 3327212140810485505
+    second: furniture.ja-JP._21
+  - first:
+      213: -855788548564666961
+    second: furniture.ja-JP._22
+  - first:
+      213: 7593789535260393669
+    second: furniture.ja-JP._23
+  - first:
+      213: 8308657321852670406
+    second: furniture.ja-JP._24
+  - first:
+      213: -1581919489865808221
+    second: furniture.ja-JP._25
+  - first:
+      213: 6106429298771328119
+    second: furniture.ja-JP._26
+  - first:
+      213: -9158416508800365106
+    second: furniture.ja-JP._27
+  - first:
+      213: 3255485432049599318
+    second: furniture.ja-JP._28
+  - first:
+      213: -2509877676946766826
+    second: furniture.ja-JP._29
+  - first:
+      213: -8696100393169590549
+    second: furniture.ja-JP._30
+  - first:
+      213: -2098737186535313482
+    second: furniture.ja-JP._31
+  - first:
+      213: 6205495380977737736
+    second: furniture.ja-JP._32
+  - first:
+      213: 8030268330517121517
+    second: furniture.ja-JP._33
+  - first:
+      213: -3105456365061906940
+    second: furniture.ja-JP._34
+  - first:
+      213: 5776225606208960149
+    second: furniture.ja-JP._35
+  - first:
+      213: -5368627822062565089
+    second: furniture.ja-JP._36
+  - first:
+      213: -2600960408019367007
+    second: furniture.ja-JP._37
+  - first:
+      213: 5922648249241759188
+    second: furniture.ja-JP._38
+  - first:
+      213: 3244627869806935273
+    second: furniture.ja-JP._39
+  - first:
+      213: 3188019133010692587
+    second: furniture.ja-JP._40
+  - first:
+      213: -387947064024233392
+    second: furniture.ja-JP._41
+  - first:
+      213: -5177674786433261297
+    second: furniture.ja-JP._42
+  - first:
+      213: 5751383503139885107
+    second: furniture.ja-JP._43
+  - first:
+      213: -377353702750435606
+    second: furniture.ja-JP._44
+  - first:
+      213: -6821014828078906576
+    second: furniture.ja-JP._45
+  - first:
+      213: -6856080704923313088
+    second: furniture.ja-JP._46
+  - first:
+      213: -8450877063418155693
+    second: furniture.ja-JP._47
+  - first:
+      213: 480744139128036407
+    second: furniture.ja-JP._48
+  - first:
+      213: 2371741215957863392
+    second: furniture.ja-JP._49
+  - first:
+      213: -4635173320329581338
+    second: furniture.ja-JP._50
+  - first:
+      213: -1726311084502749051
+    second: furniture.ja-JP._51
+  - first:
+      213: -1757820541724421307
+    second: furniture.ja-JP._52
+  - first:
+      213: 3737075294472857474
+    second: furniture.ja-JP._53
+  - first:
+      213: 4343689269483161394
+    second: furniture.ja-JP._54
+  - first:
+      213: 5706956029619765977
+    second: furniture.ja-JP._55
+  - first:
+      213: 3537716012640939191
+    second: furniture.ja-JP._56
+  - first:
+      213: -6628556391563763777
+    second: furniture.ja-JP._57
+  - first:
+      213: -5804570605636264144
+    second: furniture.ja-JP._58
+  - first:
+      213: 3171352396715705266
+    second: furniture.ja-JP._59
+  - first:
+      213: -8132659589415500119
+    second: furniture.ja-JP._60
+  - first:
+      213: 1142029295966947207
+    second: furniture.ja-JP._61
+  - first:
+      213: 1717203373990786704
+    second: furniture.ja-JP._62
+  - first:
+      213: 3868332295330658886
+    second: furniture.ja-JP._63
+  - first:
+      213: 5494180546208688584
+    second: furniture.ja-JP._64
+  - first:
+      213: -1161993326932191885
+    second: furniture.ja-JP._65
+  - first:
+      213: -6512258128606427588
+    second: furniture.ja-JP._66
+  - first:
+      213: -4386059793138358886
+    second: furniture.ja-JP._67
+  - first:
+      213: 7887399264702610604
+    second: furniture.ja-JP._68
+  - first:
+      213: 4346976297730262179
+    second: furniture.ja-JP._69
+  - first:
+      213: 4294743052575896028
+    second: furniture.ja-JP._70
+  - first:
+      213: 5501414997055600570
+    second: furniture.ja-JP._71
+  - first:
+      213: 1572806004854408543
+    second: furniture.ja-JP._72
+  - first:
+      213: 7204356022940306013
+    second: furniture.ja-JP._73
+  - first:
+      213: -597639471765344201
+    second: furniture.ja-JP._74
+  - first:
+      213: 3265918490261658151
+    second: furniture.ja-JP._75
+  - first:
+      213: 7835131167497258890
+    second: furniture.ja-JP._76
+  - first:
+      213: -1650146091204467723
+    second: furniture.ja-JP._77
+  - first:
+      213: -4080090175999893442
+    second: furniture.ja-JP._78
+  - first:
+      213: 1894610646875639698
+    second: furniture.ja-JP._79
+  - first:
+      213: -8037738400434902989
+    second: furniture.ja-JP._80
+  - first:
+      213: 7968699698143195234
+    second: furniture.ja-JP._81
+  - first:
+      213: -9073118422689911401
+    second: furniture.ja-JP._82
+  - first:
+      213: -7266980216513226649
+    second: furniture.ja-JP._83
+  - first:
+      213: -7506020762203515220
+    second: furniture.ja-JP._84
+  - first:
+      213: -4883584490832311113
+    second: furniture.ja-JP._85
+  - first:
+      213: 24547639207049926
+    second: furniture.ja-JP._86
+  - first:
+      213: 2305413665037734960
+    second: furniture.ja-JP._87
+  - first:
+      213: -725129154790306783
+    second: furniture.ja-JP._88
+  - first:
+      213: -4608117412502798953
+    second: furniture.ja-JP._89
+  - first:
+      213: -693751390261287109
+    second: furniture.ja-JP._90
+  - first:
+      213: 2000575632331673957
+    second: furniture.ja-JP._91
+  - first:
+      213: -7429499618194319654
+    second: furniture.ja-JP._92
+  - first:
+      213: -5216167780250711936
+    second: furniture.ja-JP._93
+  - first:
+      213: -5085290034383686091
+    second: furniture.ja-JP._94
+  - first:
+      213: 4543084513817538376
+    second: furniture.ja-JP._95
+  - first:
+      213: -2116753520560591475
+    second: furniture.ja-JP._96
+  - first:
+      213: 1412641958124005112
+    second: furniture.ja-JP._97
+  - first:
+      213: 4525468242937705711
+    second: furniture.ja-JP._98
+  - first:
+      213: 184212737612257899
+    second: furniture.ja-JP._99
+  - first:
+      213: -939765886295152756
+    second: furniture.ja-JP._100
+  - first:
+      213: -8921777934115012865
+    second: furniture.ja-JP._101
+  - first:
+      213: -4320615541149954204
+    second: furniture.ja-JP._102
+  - first:
+      213: 2798560792598139287
+    second: furniture.ja-JP._103
+  - first:
+      213: 4025691217253822447
+    second: furniture.ja-JP._104
+  - first:
+      213: 6696005616175012251
+    second: furniture.ja-JP._105
+  - first:
+      213: 5094873769223366502
+    second: furniture.ja-JP._106
+  - first:
+      213: -6173117616215395427
+    second: furniture.ja-JP._107
+  - first:
+      213: -1298023738236477489
+    second: furniture.ja-JP._108
+  - first:
+      213: -8272503917531476619
+    second: furniture.ja-JP._109
+  - first:
+      213: -8454722294087412889
+    second: furniture.ja-JP._110
+  - first:
+      213: 1666393504664242308
+    second: furniture.ja-JP._111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture.ja-JP._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 289
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b691609f8b222b3f0800000000000000
+      internalID: -886607998791313045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 992
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843a53cff2105ebc0800000000000000
+      internalID: -3754593408736976056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 992
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee3d1fd0835df1e0800000000000000
+      internalID: -2162480433103814936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 959
+        width: 192
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827135462303780a0800000000000000
+      internalID: -6879476912795478232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f74fe594aa1cdc80800000000000000
+      internalID: -8296727119330850831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 929
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c91a92136c9585f0800000000000000
+      internalID: -755025413186905663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 959
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09129515d78e1ff00800000000000000
+      internalID: 1148955004889538960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 959
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0047e686e05018670800000000000000
+      internalID: 8539111927910921216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 959
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030e075231f5ee8e0800000000000000
+      internalID: -1662286676615962576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 847
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bc82a04a80f15b0800000000000000
+      internalID: -5395584327928460495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._10
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 895
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc84d1b2b9953730800000000000000
+      internalID: 3978254838618426611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 847
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3d27dbdea950ac0800000000000000
+      internalID: -3889532357288209436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 895
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c03dbc82c4a2eb0800000000000000
+      internalID: -4743895519379387315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 847
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e7a3cb597730d60800000000000000
+      internalID: 7855253660056059480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._14
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 879
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85ad1132c2ff1d80800000000000000
+      internalID: -8277630674222078579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 879
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e4db32b652c660800000000000000
+      internalID: 7404576060858491823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 847
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af82224d75b3d4de0800000000000000
+      internalID: -1347355465106708230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6c416377c51480800000000000000
+      internalID: -8929011387824575139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._18
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e808788c5e65340800000000000000
+      internalID: 4852318297967857168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c422f4caad8427b0800000000000000
+      internalID: -5249915501018995511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c661c8e2151a0e210800000000000000
+      internalID: 1360264457511245420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._21
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f306150d1ac2e20800000000000000
+      internalID: 3327212140810485505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5b4f769d0af14f0800000000000000
+      internalID: -855788548564666961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c04644495f826960800000000000000
+      internalID: 7593789535260393669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c11a7520d74e4370800000000000000
+      internalID: 8308657321852670406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 847
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a60847fa94eb0ae0800000000000000
+      internalID: -1581919489865808221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._26
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 847
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c7d4f08156eb450800000000000000
+      internalID: 6106429298771328119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 783
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd81e765b4c6e080800000000000000
+      internalID: -9158416508800365106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 719
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65386cc80cecd2d20800000000000000
+      internalID: 3255485432049599318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._29
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614c7ebfc8f1b2dd0800000000000000
+      internalID: -2509877676946766826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 783
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6edfd24ce315780800000000000000
+      internalID: -8696100393169590549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._31
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 719
+        width: 33
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfe8aff5a9cfd2e0800000000000000
+      internalID: -2098737186535313482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800618ebb295e1650800000000000000
+      internalID: 6205495380977737736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 783
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9ca8b108e317f60800000000000000
+      internalID: 8030268330517121517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._34
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 767
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e520fa3e337e4d0800000000000000
+      internalID: -3105456365061906940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b998c596492050800000000000000
+      internalID: 5776225606208960149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._36
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 783
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f198ea6a07dce75b0800000000000000
+      internalID: -5368627822062565089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._37
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 767
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab86251a4887ebd0800000000000000
+      internalID: -2600960408019367007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._38
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 783
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dde4a10439713250800000000000000
+      internalID: 5922648249241759188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecbc285bdb370d20800000000000000
+      internalID: 3244627869806935273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._40
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 735
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be94048b28e1e3c20800000000000000
+      internalID: 3188019133010692587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 735
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a0e21633cbd9af0800000000000000
+      internalID: -387947064024233392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 735
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f012628d6343528b0800000000000000
+      internalID: -5177674786433261297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._43
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 735
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330d1bfe2d401df40800000000000000
+      internalID: 5751383503139885107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._44
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 719
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6c1e08ece53caf0800000000000000
+      internalID: -377353702750435606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._45
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 719
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0334fa43723e651a0800000000000000
+      internalID: -6821014828078906576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._46
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 735
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cd2a78cee4ad0a0800000000000000
+      internalID: -6856080704923313088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 623
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35de672e51478ba80800000000000000
+      internalID: -8450877063418155693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 623
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cd3985f32fba600800000000000000
+      internalID: 480744139128036407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 623
+        width: 81
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb4254e11e1ae020800000000000000
+      internalID: 2371741215957863392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._50
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 623
+        width: 81
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec23616c6e8cafb0800000000000000
+      internalID: -4635173320329581338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._51
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 623
+        width: 130
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580f46c0739ea08e0800000000000000
+      internalID: -1726311084502749051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 449
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54391a7d787fa97e0800000000000000
+      internalID: -1757820541724421307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 449
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28761f13e22ccd330800000000000000
+      internalID: 3737075294472857474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 448
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23748327062e74c30800000000000000
+      internalID: 4343689269483161394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._55
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 415
+        width: 225
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2824ea54e233f40800000000000000
+      internalID: 5706956029619765977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._56
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 351
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcaca948fd781130800000000000000
+      internalID: 3537716012640939191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf523bd413a204a0800000000000000
+      internalID: -6628556391563763777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f5061c9c5027fa0800000000000000
+      internalID: -5804570605636264144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._59
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 255
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c2d7c338e20c20800000000000000
+      internalID: 3171352396715705266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a607bd213df22f80800000000000000
+      internalID: -8132659589415500119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._61
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787033d089d49df00800000000000000
+      internalID: 1142029295966947207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096b2d9de5bb4d710800000000000000
+      internalID: 1717203373990786704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 226
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64afa503ab31fa530800000000000000
+      internalID: 3868332295330658886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._64
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 256
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c961ace8104f3c40800000000000000
+      internalID: 5494180546208688584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._65
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37515d4c935cfdfe0800000000000000
+      internalID: -1161993326932191885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._66
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 223
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3683c64cbfcf95a0800000000000000
+      internalID: -6512258128606427588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._67
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 223
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a956d524bd59123c0800000000000000
+      internalID: -4386059793138358886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._68
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 224
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb64e87dba57d60800000000000000
+      internalID: 7887399264702610604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4414959ef835c30800000000000000
+      internalID: 4346976297730262179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1fc524d0ef99b30800000000000000
+      internalID: 4294743052575896028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._71
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 226
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab77185cac3f85c40800000000000000
+      internalID: 5501414997055600570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._72
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 225
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55c2f37abab3d510800000000000000
+      internalID: 1572806004854408543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8dcee1a30bf360800000000000000
+      internalID: 7204356022940306013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 199
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730bcad1112c4b7f0800000000000000
+      internalID: -597639471765344201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._75
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 203
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a1d65309fd25d20800000000000000
+      internalID: 3265918490261658151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 195
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a870447d84afbbc60800000000000000
+      internalID: 7835131167497258890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._77
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 199
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f322467fd08919e0800000000000000
+      internalID: -1650146091204467723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 209
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3027f72a9b9067c0800000000000000
+      internalID: -4080090175999893442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._79
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 201
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f02b268520b4a10800000000000000
+      internalID: 1894610646875639698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._80
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 191
+        width: 200
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338af84b287347090800000000000000
+      internalID: -8037738400434902989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._81
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260769dc722869e60800000000000000
+      internalID: 7968699698143195234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._82
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 179
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79de382bddec51280800000000000000
+      internalID: -9073118422689911401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._83
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 192
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76810f4ceff762b90800000000000000
+      internalID: -7266980216513226649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._84
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 179
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca61728a2e145d790800000000000000
+      internalID: -7506020762203515220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc4559a7c50a3cb0800000000000000
+      internalID: -4883584490832311113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 160
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cab203a2f5375000800000000000000
+      internalID: 24547639207049926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 147
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d7e483897eff10800000000000000
+      internalID: 2305413665037734960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 127
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc17820e2dfe5f0800000000000000
+      internalID: -725129154790306783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 127
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d7a70d0adac00c0800000000000000
+      internalID: -4608117412502798953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._90
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 164
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ea0549cc4f56f0800000000000000
+      internalID: -693751390261287109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 163
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5619e6720f873cb10800000000000000
+      internalID: 2000575632331673957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._92
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad690aed57d15e890800000000000000
+      internalID: -7429499618194319654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._93
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 162
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08881515a037c97b0800000000000000
+      internalID: -5216167780250711936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._94
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536f9b028ab6d69b0800000000000000
+      internalID: -5085290034383686091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._95
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 115
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f2ca68b474c0f30800000000000000
+      internalID: 4543084513817538376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._96
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 132
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dade953e7cf92e0800000000000000
+      internalID: -2116753520560591475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._97
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 127
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f62bcc5066ba9310800000000000000
+      internalID: 1412641958124005112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4fc96d361bdce30800000000000000
+      internalID: 4525468242937705711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._99
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 129
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a1b7442847e8200800000000000000
+      internalID: 184212737612257899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._100
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87e85fc7e745f2f0800000000000000
+      internalID: -939765886295152756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._101
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 111
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef7201d3a7f2480800000000000000
+      internalID: -8921777934115012865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._102
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 111
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f89b29e071a04c0800000000000000
+      internalID: -4320615541149954204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._103
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 136
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791d525a63c76d620800000000000000
+      internalID: 2798560792598139287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._104
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 144
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe2d345d02ed730800000000000000
+      internalID: 4025691217253822447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._105
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 128
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d12681adfcec50800000000000000
+      internalID: 6696005616175012251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._106
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 111
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667a30603b0a4b640800000000000000
+      internalID: 5094873769223366502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9376c01c3ea45aa0800000000000000
+      internalID: -6173117616215395427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 116
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd36c894e7cfde0800000000000000
+      internalID: -1298023738236477489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._109
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 111
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d42804489223d80800000000000000
+      internalID: -8272503917531476619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._110
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763185a5edacaaa80800000000000000
+      internalID: -8454722294087412889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture.ja-JP._111
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 119
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c7854018302710800000000000000
+      internalID: 1666393504664242308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

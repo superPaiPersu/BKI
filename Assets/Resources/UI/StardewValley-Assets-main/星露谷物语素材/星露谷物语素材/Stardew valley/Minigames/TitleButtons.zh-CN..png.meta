@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: f0f14fcb8ed719e489b8aa603985652f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6785878374365525283
+    second: TitleButtons.zh-CN._0
+  - first:
+      213: -6370300192907618492
+    second: TitleButtons.zh-CN._1
+  - first:
+      213: -3430547692198301383
+    second: TitleButtons.zh-CN._2
+  - first:
+      213: -5029065805842375782
+    second: TitleButtons.zh-CN._3
+  - first:
+      213: 4516169243894165996
+    second: TitleButtons.zh-CN._4
+  - first:
+      213: -1388843383555930727
+    second: TitleButtons.zh-CN._5
+  - first:
+      213: 8339455189723470059
+    second: TitleButtons.zh-CN._6
+  - first:
+      213: -630842564892710776
+    second: TitleButtons.zh-CN._7
+  - first:
+      213: -3167877979811588956
+    second: TitleButtons.zh-CN._8
+  - first:
+      213: -7027612602401614991
+    second: TitleButtons.zh-CN._9
+  - first:
+      213: 8199896293300724150
+    second: TitleButtons.zh-CN._10
+  - first:
+      213: 4520535384297564067
+    second: TitleButtons.zh-CN._11
+  - first:
+      213: 1918393066055372086
+    second: TitleButtons.zh-CN._12
+  - first:
+      213: 64479136255966623
+    second: TitleButtons.zh-CN._13
+  - first:
+      213: -7627414388339833890
+    second: TitleButtons.zh-CN._14
+  - first:
+      213: -2328408201981430140
+    second: TitleButtons.zh-CN._15
+  - first:
+      213: -9053270772366716640
+    second: TitleButtons.zh-CN._16
+  - first:
+      213: 927805262216735861
+    second: TitleButtons.zh-CN._17
+  - first:
+      213: -5565580396252520916
+    second: TitleButtons.zh-CN._18
+  - first:
+      213: -8428663555890462325
+    second: TitleButtons.zh-CN._19
+  - first:
+      213: 1952822231933836599
+    second: TitleButtons.zh-CN._20
+  - first:
+      213: 8872951774561804154
+    second: TitleButtons.zh-CN._21
+  - first:
+      213: 4737103502439617101
+    second: TitleButtons.zh-CN._22
+  - first:
+      213: -6530915706349868994
+    second: TitleButtons.zh-CN._23
+  - first:
+      213: 4635740709869536555
+    second: TitleButtons.zh-CN._24
+  - first:
+      213: 2317345854373300771
+    second: TitleButtons.zh-CN._25
+  - first:
+      213: 3533487215672992039
+    second: TitleButtons.zh-CN._26
+  - first:
+      213: 7630129081898550403
+    second: TitleButtons.zh-CN._27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 400
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325ff09ad684c2e50800000000000000
+      internalID: 6785878374365525283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 406
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4479321d9b52897a0800000000000000
+      internalID: -6370300192907618492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931fb7dbc0f3460d0800000000000000
+      internalID: -3430547692198301383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 279
+        width: 87
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b93b27b4b253ab0800000000000000
+      internalID: -5029065805842375782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 287
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce13bd7eff7acae30800000000000000
+      internalID: 4516169243894165996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 285
+        width: 112
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9954f721d46d9bce0800000000000000
+      internalID: -1388843383555930727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be851cb8f42bbb370800000000000000
+      internalID: 8339455189723470059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 210
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888af52970cce37f0800000000000000
+      internalID: -630842564892710776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 211
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a45c81f2cf6904d0800000000000000
+      internalID: -3167877979811588956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1731bce6297e87e90800000000000000
+      internalID: -7027612602401614991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b16b3ddb32ebc170800000000000000
+      internalID: 8199896293300724150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 190
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7e3af2bfa2cbe30800000000000000
+      internalID: 4520535384297564067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 202
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d8dc954508f9a10800000000000000
+      internalID: 1918393066055372086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 204
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9df5fbce6315e000800000000000000
+      internalID: 64479136255966623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 100
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed30d4c860bf52690800000000000000
+      internalID: -7627414388339833890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 174
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867ac4a315dfafd0800000000000000
+      internalID: -2328408201981430140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021d7a5e2325c5280800000000000000
+      internalID: -9053270772366716640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 193
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57caa2368f930ec00800000000000000
+      internalID: 927805262216735861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 190
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e9d780e1613c2b0800000000000000
+      internalID: -5565580396252520916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 174
+        width: 133
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b814ed3272f570b80800000000000000
+      internalID: -8428663555890462325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._20
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dd6e33971d91b10800000000000000
+      internalID: 1952822231933836599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 174
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f9de7c0ae032b70800000000000000
+      internalID: 8872951774561804154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._22
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 174
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d421c2789829db140800000000000000
+      internalID: 4737103502439617101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e382ff074c68d55a0800000000000000
+      internalID: -6530915706349868994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25479a4d95755040800000000000000
+      internalID: 4635740709869536555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a05a7d6cdd82020800000000000000
+      internalID: 2317345854373300771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._26
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 174
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a294c6e7790130800000000000000
+      internalID: 3533487215672992039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleButtons.zh-CN._27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384c0fc49f9a3e960800000000000000
+      internalID: 7630129081898550403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1cf84bfc91387b47aa66f0d5f5d7fef, type: 3}
+  m_Name: hosptIal
+  m_EditorClassIdentifier: 
+  locationId: hospital
+  displayName: Hospital
+  type: 4
+  areaId: town_center
+  description: "Town hospital and clinic. Suitable for medical work, patient checkups, emergency triage, quiet recovery, and verifying health-related claims."
+  capabilityTags:
+  - medical
+  - clinic
+  - emergency
+  - health_check
+  - recovery
+  - work_medical
+  - quiet
+  taskTemplates:
+  - templateId: medical_work
+    displayName: Medical work
+    description: "Treat patients, review symptoms, update records, or clean tools."
+    primaryAction: WorkAtLocation
+    activityKind: medical_work
+    requiresActorTarget: 0
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - work_medical
+    defaultPriority: 70
+    interruptible: 0
+  - templateId: check_patient
+    displayName: Check a patient
+    description: "Observe and speak with a specific person about their health."
+    primaryAction: TalkToNpc
+    activityKind: health_check
+    requiresActorTarget: 1
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - health_check
+    defaultPriority: 75
+    interruptible: 1
+  - templateId: emergency_triage
+    displayName: Emergency triage
+    description: "Respond to an urgent health report and verify the person's condition."
+    primaryAction: FindActor
+    activityKind: emergency
+    requiresActorTarget: 1
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - emergency
+    defaultPriority: 90
+    interruptible: 1
+  alwaysOpen: 1
+  openHour: 6
+  closeHour: 22

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1cf84bfc91387b47aa66f0d5f5d7fef, type: 3}
+  m_Name: Toms
+  m_EditorClassIdentifier: 
+  locationId: tom_home
+  displayName: Toms
+  type: 2
+  areaId: town_residential
+  description: "Tom's private home. Quiet, orderly, and suitable for sleep, off-duty study, recovery, or a private check-in."
+  capabilityTags:
+  - home
+  - rest
+  - private_visit
+  - quiet
+  - study
+  taskTemplates:
+  - templateId: rest_at_tom_home
+    displayName: Rest at Tom's home
+    description: "Sleep, study medical notes, or rest away from clinic duties."
+    primaryAction: RestAtLocation
+    activityKind: rest
+    requiresActorTarget: 0
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - rest
+    defaultPriority: 35
+    interruptible: 1
+  - templateId: private_visit_tom_home
+    displayName: Private home visit
+    description: "Visit Tom at home for a personal matter, not a clinic appointment."
+    primaryAction: TalkToNpc
+    activityKind: private_visit
+    requiresActorTarget: 1
+    requiresGroup: 0
+    requiredCapabilityTags:
+    - private_visit
+    defaultPriority: 45
+    interruptible: 1
+  alwaysOpen: 1
+  openHour: 6
+  closeHour: 22

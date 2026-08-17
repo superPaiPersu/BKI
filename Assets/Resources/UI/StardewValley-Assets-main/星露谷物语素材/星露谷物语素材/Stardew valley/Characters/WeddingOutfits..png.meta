@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 095ccb2556655bd47b149c15a908da98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4638833637661150894
+    second: WeddingOutfits._0
+  - first:
+      213: -1553185468232023124
+    second: WeddingOutfits._1
+  - first:
+      213: -9172550133518605324
+    second: WeddingOutfits._2
+  - first:
+      213: 3635217296976422480
+    second: WeddingOutfits._3
+  - first:
+      213: 6248348881491367316
+    second: WeddingOutfits._4
+  - first:
+      213: 190527700935268180
+    second: WeddingOutfits._5
+  - first:
+      213: 3422018708191322172
+    second: WeddingOutfits._6
+  - first:
+      213: 933669771122457084
+    second: WeddingOutfits._7
+  - first:
+      213: -3680776019064075409
+    second: WeddingOutfits._8
+  - first:
+      213: -4251457200247125859
+    second: WeddingOutfits._9
+  - first:
+      213: -6877490608365088426
+    second: WeddingOutfits._10
+  - first:
+      213: 3711128736173178916
+    second: WeddingOutfits._11
+  - first:
+      213: 5486861369109419025
+    second: WeddingOutfits._12
+  - first:
+      213: -734519241129390952
+    second: WeddingOutfits._13
+  - first:
+      213: -3342145341578553143
+    second: WeddingOutfits._14
+  - first:
+      213: 2325446354494645368
+    second: WeddingOutfits._15
+  - first:
+      213: 4112544066454235081
+    second: WeddingOutfits._16
+  - first:
+      213: -56011594508082225
+    second: WeddingOutfits._17
+  - first:
+      213: -8135362497959292737
+    second: WeddingOutfits._18
+  - first:
+      213: -2343372932013156514
+    second: WeddingOutfits._19
+  - first:
+      213: 5597743678685913339
+    second: WeddingOutfits._20
+  - first:
+      213: 7040843518682093030
+    second: WeddingOutfits._21
+  - first:
+      213: 3795130466958510161
+    second: WeddingOutfits._22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WeddingOutfits._0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 863
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae0de8ad92706040800000000000000
+      internalID: 4638833637661150894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 863
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca34bb7bb0af17ae0800000000000000
+      internalID: -1553185468232023124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 863
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f36927704e84b080800000000000000
+      internalID: -9172550133518605324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 767
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056a2a31fd2e27230800000000000000
+      internalID: 3635217296976422480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 767
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495900ad33896b650800000000000000
+      internalID: 6248348881491367316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4575e1e3fe3e4a200800000000000000
+      internalID: 190527700935268180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 671
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c302c7c62e37d7f20800000000000000
+      internalID: 3422018708191322172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 671
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf93645c5bf05fc00800000000000000
+      internalID: 933669771122457084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 671
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc8e556b14becc0800000000000000
+      internalID: -3680776019064075409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 575
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d984e79933acff4c0800000000000000
+      internalID: -4251457200247125859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 575
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651505eeabe3e80a0800000000000000
+      internalID: -6877490608365088426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 575
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420c8535ce3908330800000000000000
+      internalID: 3711128736173178916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 479
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1149495385f352c40800000000000000
+      internalID: 5486861369109419025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 479
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c0bcf44a67ec5f0800000000000000
+      internalID: -734519241129390952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8db7fe4805e91d0800000000000000
+      internalID: -3342145341578553143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 58
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87461ef7325a54020800000000000000
+      internalID: 2325446354494645368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._16
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 191
+        width: 58
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7252c0a01b21930800000000000000
+      internalID: 4112544066454235081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3ea0660c1093ff0800000000000000
+      internalID: -56011594508082225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb01a1e39e2691f80800000000000000
+      internalID: -8135362497959292737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57171bebbaaa7fd0800000000000000
+      internalID: -2343372932013156514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 58
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf023c7b73e2fad40800000000000000
+      internalID: 5597743678685913339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 54
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5582250e916b160800000000000000
+      internalID: 7040843518682093030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeddingOutfits._22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 54
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158035f5d030ba430800000000000000
+      internalID: 3795130466958510161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
